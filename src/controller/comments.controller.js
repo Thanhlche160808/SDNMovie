@@ -14,6 +14,20 @@ const addAComments = async (req, res) => {
     }
 }
 
+const getCommentsByMovie = async (req, res) => {
+    try {
+        const result = await commentsRepository.getCommentsByMovieService(req.query);
+        return res.status(200).json({
+            message: 'get comments successfully',
+            data: result
+        });
+    } catch (error) {
+        return res.status(500).json({
+            error: error
+        });
+    }
+}
+
 export default {
-    addAComments
+    addAComments, getCommentsByMovie
 }

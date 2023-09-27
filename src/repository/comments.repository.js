@@ -18,6 +18,25 @@ const addACommentsService = async (commentInfo) => {
     }
 }
 
+const getCommentsByMovieService = async (queryString) => {
+    try {
+        const page = queryString.page - 1;
+        const count = await Comments.countDocuments({ movie: queryString.movie });
+        const totalPage = Math.ceil(count / 5);
+        const comments = await Comments.find({ movie: queryString.movie })
+            .sort({
+                date: -1,
+            })
+            .limit(5)
+            .skip(page * 5);
+        return ({
+            totalPage, comments
+        })
+    } catch (error) {
+        return null;
+    }
+}
+
 export default {
-    addACommentsService
+    addACommentsService, getCommentsByMovieService
 }
