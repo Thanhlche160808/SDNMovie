@@ -4,9 +4,9 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
 const userRepository = {
-    createAccount: async ({username, password, showName}) => {
-        const user = await User.findOne({username: username});
-        if(user) throw new Error("User existing.");
+    createAccount: async ({ username, password, showName }) => {
+        const user = await User.findOne({ username: username });
+        if (user) throw new Error("User existing.");
         const hashPassword = await bcrypt.hash(password, parseInt(process.env.SECRET_KEY));
         const newUser = await User.create({
             showName: showName,
@@ -18,11 +18,11 @@ const userRepository = {
             ...newUser._doc,
         }
     },
-    loginAccount: async ({username, password}) => {   
-        const user = await User.findOne({username: username});
-        if(!user) throw new Error("User not found.");
+    loginAccount: async ({ username, password }) => {
+        const user = await User.findOne({ username: username });
+        if (!user) throw new Error("User not found.");
         const isMatch = await bcrypt.compare(password, user.password);
-        if(!isMatch) throw new Error("Password is incorrect.");
+        if (!isMatch) throw new Error("Password is incorrect.");
         const payload = {
             username: user.username,
             id: user.userID,
@@ -33,14 +33,14 @@ const userRepository = {
         return {
             showName: user.showName,
             token: token,
-        }    
+        }
     },
-    markMovie: async ({userID, movieID}) => {
+    markMovie: async ({ userID, movieID }) => {
         const movie = await Movie.findOne({ _id: movieID });
-        if(!movie) throw new Error("Movie not found.");
+        if (!movie) throw new Error("Movie not found.");
         const user = await User.findOne({ _id: userID });
         const isMarked = user.mark.includes(movie._id);
-        if(isMarked) {
+        if (isMarked) {
             const markedMovie = await User.findOneAndUpdate({
                 _id: userID,
             }, { $pull: { mark: movieID } });
