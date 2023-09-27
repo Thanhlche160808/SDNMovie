@@ -7,5 +7,7 @@ commentRouter.post("/create", commentsController.addAComments);
 
 commentRouter.get("/movie", commentsController.getCommentsByMovie);
 
+commentRouter.post("/like", commentsController.likeComment);
+
 
 export default commentRouter;

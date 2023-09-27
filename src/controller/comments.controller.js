@@ -28,6 +28,15 @@ const getCommentsByMovie = async (req, res) => {
     }
 }
 
+const likeComment = async (req, res) => {
+    try {
+        const result = await commentsRepository.likeCommentService(req.body)
+        return res.status(200).json({ status: result });
+    } catch (error) {
+        return res.status(500).json(error);
+    }
+}
+
 export default {
-    addAComments, getCommentsByMovie
+    addAComments, getCommentsByMovie, likeComment
 }
