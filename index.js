@@ -1,9 +1,10 @@
 import express from 'express';
-import * as dovten from 'dotenv';
+import * as dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
+import { commentRouter } from './src/routes/index.js'
 
-dovten.config();
+dotenv.config()
 const app = express();
 
 //connect database
@@ -13,15 +14,14 @@ mongoose.connect(process.env.MONGO_URL, () => {
 });
 
 const httpServer = http.createServer(app);
+app.use(express.json())
 
-app.get("/", (req, resp) => {
-    resp.send("Ket noi thanh cong");
-});
+app.use('/api/comment', commentRouter)
 
 
 const PORT = process.env.PORT || 8000;
 
 
 httpServer.listen(PORT, () => {
-    console.log("Server in runing");
+    console.log("Server in runing " + PORT);
 });
