@@ -9,7 +9,7 @@ const UserSchema = new mongoose.Schema({
     showName: String,
     mark: [
         {
-            type: mongoose.Schema.Types.ObjectId,
+            type: Number,
             ref: "MovieSeason",
         },
     ],
