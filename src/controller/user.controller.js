@@ -1,5 +1,5 @@
 
-import userRepository from '../repository/user.repository.js';
+import { userRepository } from '../repository/index.js';
 
 const userController = {
     addAccount: async (req, resp) => {
