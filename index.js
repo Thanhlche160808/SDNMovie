@@ -3,7 +3,6 @@ import * as dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
 import { commentRouter, userRouter } from './src/routes/index.js';
-import authenticate from './src/middleware/auth.middleware.js';
 
 dotenv.config()
 const app = express();
@@ -18,8 +17,7 @@ const httpServer = http.createServer(app);
 app.use(express.json())
 
 app.use('/api/comment', commentRouter);
-// app.use('/api/user', routes.userRouter);
-app.use('/api/user', authenticate, userRouter);
+app.use('/api/user', userRouter);
 
 
 const PORT = process.env.PORT || 8000;
