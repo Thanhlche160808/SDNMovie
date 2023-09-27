@@ -1,2 +1,7 @@
 import commentRouter from "./comments.js";
-export { commentRouter }
+import userRouter from "./user.route.js";
+const routes = {
+    userRouter,
+    commentRouter,
+}
+export default routes;
