@@ -9,5 +9,6 @@ commentRouter.get("/movie", commentsController.getCommentsByMovie);
 
 commentRouter.post("/like", commentsController.likeComment);
 
+commentRouter.post("/delete", commentsController.deleteComment);
 
 export default commentRouter;

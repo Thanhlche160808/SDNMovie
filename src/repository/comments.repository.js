@@ -60,6 +60,15 @@ const likeCommentService = async (commentInfo) => {
     }
 }
 
+const deleteCommentService = async (commentInfo) => {
+    try {
+        const deletedComment = await Comments.findByIdAndDelete(commentInfo._id);
+        return deletedComment
+    } catch (error) {
+        return null;
+    }
+}
+
 export default {
-    addACommentsService, getCommentsByMovieService, likeCommentService
+    addACommentsService, getCommentsByMovieService, likeCommentService, deleteCommentService
 }
