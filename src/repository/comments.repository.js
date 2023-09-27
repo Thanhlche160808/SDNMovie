@@ -37,6 +37,38 @@ const getCommentsByMovieService = async (queryString) => {
     }
 }
 
+const likeCommentService = async (commentInfo) => {
+    try {
+        const comment = await Comments.findOne({
+            commentID: commentInfo.commentID,
+            like: commentInfo.author,
+        });
+        if (comment) {
+            await Comments.updateOne(
+                { commentID: commentInfo.commentID, like: commentInfo.author },
+                { $pull: { like: commentInfo.author } }
+            );
+            return true;
+        }
+        await Comments.updateOne(
+            { commentID: commentInfo.commentID },
+            { $push: { like: commentInfo.author } }
+        );
+        return false
+    } catch (error) {
+        return null;
+    }
+}
+
+const deleteCommentService = async (commentInfo) => {
+    try {
+        const deletedComment = await Comments.findByIdAndDelete(commentInfo._id);
+        return deletedComment
+    } catch (error) {
+        return null;
+    }
+}
+
 export default {
-    addACommentsService, getCommentsByMovieService
+    addACommentsService, getCommentsByMovieService, likeCommentService, deleteCommentService
 }
