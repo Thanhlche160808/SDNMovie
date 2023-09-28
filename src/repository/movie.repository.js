@@ -13,7 +13,15 @@ const movieRepository = {
         } catch (error) {
             return null;
         }
-    }
+    },
+    getAllMovie: async () => {
+        try {
+            const movies = await Movie.find()
+            return movies
+        } catch (error) {
+            return null;
+        }
+    },
 }
 
 export default movieRepository

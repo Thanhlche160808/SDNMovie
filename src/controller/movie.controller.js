@@ -5,7 +5,7 @@ const movieController = {
         try {
             const newMovie = await movieRepository.addMovie(req.body);
             return res.status(200).json({
-                message: 'Add movie successfully',
+                message: 'Add a movie successfully',
                 data: newMovie
             });
         } catch (error) {
@@ -13,7 +13,20 @@ const movieController = {
                 error: error
             });
         }
-    }
+    },
+    getAllMovie: async (req, res) => {
+        try {
+            const allMovies = await movieRepository.getAllMovie();
+            return res.status(200).json({
+                message: 'Get all movies successfully',
+                data: allMovies
+            });
+        } catch (error) {
+            return res.status(500).json({
+                error: error
+            });
+        }
+    },
 }
 
 export default movieController
