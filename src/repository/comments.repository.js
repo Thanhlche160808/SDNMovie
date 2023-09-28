@@ -2,7 +2,7 @@ import Comments from '../model/Comment.model.js';
 import moment from 'moment/moment.js';
 
 const commentsRepository = {
-    addACommentsService: async (commentInfo) => {
+    addAComments: async (commentInfo) => {
         try {
             const dateFormat = Date.parse(moment().format());
             const newComment = await Comments.create(
@@ -18,7 +18,7 @@ const commentsRepository = {
             return null;
         }
     },
-    getCommentsByMovieService: async (queryString) => {
+    getCommentsByMovie: async (queryString) => {
         try {
             const page = queryString.page - 1;
             const count = await Comments.countDocuments({ movie: queryString.movie });
@@ -36,7 +36,7 @@ const commentsRepository = {
             return null;
         }
     },
-    likeCommentService: async (commentInfo) => {
+    likeComment: async (commentInfo) => {
         try {
             const comment = await Comments.findOne({
                 commentID: commentInfo.commentID,
@@ -58,7 +58,7 @@ const commentsRepository = {
             return null;
         }
     },
-    deleteCommentService: async (commentInfo) => {
+    deleteComment: async (commentInfo) => {
         try {
             const deletedComment = await Comments.findByIdAndDelete(commentInfo._id);
             return deletedComment
