@@ -1,10 +1,10 @@
 import movieSeasonRepository from "../repository/movieSeason.repository.js";
-import MovieSeason from "../model/MovieSeaon.model.js";
+import MovieSeason from "../model/MovieSeason.model.js";
 import typeMovieRepository from "../repository/typeMovie.repository.js";
 const movieSeasonController = {
     addMovieSeason: async (req, res) => {
         try {
-            const {name, content, totalChap, image, datePub, typeMovie, view} = req.body;
+            const { name, content, totalChap, image, datePub, typeMovie, view } = req.body;
             const newMovieSeason = await movieSeasonRepository.addMovieSeasonService(name, content, totalChap, image, datePub, typeMovie, view);
             return resp.status(200).json({
                 message: "Add movie successfully",
@@ -25,7 +25,7 @@ const movieSeasonController = {
     getDetail: async (req, resp) => {
         try {
             const { slug } = req.params;
-            const movieDetail =  await movieSeasonRepository.getMovieDetail(slug);
+            const movieDetail = await movieSeasonRepository.getMovieDetail(slug);
             console.log("movieDetail", movieDetail);
             return resp.status(200).json(movieDetail[0]);
         } catch (error) {
@@ -35,7 +35,7 @@ const movieSeasonController = {
     viewMovie: async (req, resp) => {
         try {
             const { slug } = req.body;
-            const movie  = await movieSeasonRepository.viewMovie(slug);
+            const movie = await movieSeasonRepository.viewMovie(slug);
             return resp.status(200).json({
                 message: "View movie successfully",
                 data: movie
