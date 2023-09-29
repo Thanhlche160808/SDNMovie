@@ -1,7 +1,7 @@
-import MovieSeason from "../model/MovieSeaon.model.js";
+import MovieSeason from "../model/MovieSeason.model.js";
 
 const movieSeasonRepository = {
-    addMovieSeasonService: async ({name, content, totalChap, image, datePub, typeMovie, view}) => {
+    addMovieSeasonService: async ({ name, content, totalChap, image, datePub, typeMovie, view }) => {
         const newMovieSeason = await MovieSeason.create({
             name: name,
             content: content,
@@ -15,9 +15,9 @@ const movieSeasonRepository = {
     },
     getAll: async () => {
         const allMovie = await MovieSeason.find()
-        .populate("typeMovie._id")
-        .sort({ totalRate: -1 })
-        .limit(8);
+            .populate("typeMovie._id")
+            .sort({ totalRate: -1 })
+            .limit(8);
         return allMovie;
     },
     getMovieDetail: async (slug) => {
@@ -25,7 +25,7 @@ const movieSeasonRepository = {
             .populate("typeMovie._id")
             .sort({ totalRate: -1 })
             .limit(8);
-        if(movieDetail.length === 0) throw new Error("Movie not found");
+        if (movieDetail.length === 0) throw new Error("Movie not found");
         return movieDetail;
     },
     viewMovie: async (slug) => {
@@ -35,10 +35,10 @@ const movieSeasonRepository = {
     },
     getMovieHome: async (page) => {
         const movies = await MovieSeason.find({})
-        .limit(24)
-        .skip(page * 24)
-        .sort({ create_At: "desc" })
-        .populate("typeMovie._id");
+            .limit(24)
+            .skip(page * 24)
+            .sort({ create_At: "desc" })
+            .populate("typeMovie._id");
         return movies;
     },
     getMovieByName: async (name, limit) => {
@@ -59,14 +59,14 @@ const movieSeasonRepository = {
     },
     getHotMovie: async () => {
         const hotMovie = await MovieSeason.findOne()
-        .sort({ totalRate: -1, numberRate: -1 })
-        .populate("typeMovie._id");
+            .sort({ totalRate: -1, numberRate: -1 })
+            .populate("typeMovie._id");
         return hotMovie;
     },
     getMovieMostView: async () => {
         const movieMostView = await MovieSeason.findOne()
-        .sort({ view: -1 })
-        .populate("typeMovie._id");
+            .sort({ view: -1 })
+            .populate("typeMovie._id");
         return movieMostView;
     },
     getFillterMovie: async (type, view, page) => {
@@ -88,7 +88,7 @@ const movieSeasonRepository = {
                     .sort({ totalRate: -1, numberRate: -1 })
                     .populate("typeMovie._id");
             }
-            return{ movies, totalPage };
+            return { movies, totalPage };
         } else {
             const count = await MovieSeason.countDocuments({
                 "typeMovie.slug": type,
@@ -109,8 +109,8 @@ const movieSeasonRepository = {
                     .sort({ totalRate: -1, numberRate: -1 })
                     .populate("typeMovie._id");
             }
-            return{ movies, totalPage };
+            return { movies, totalPage };
         }
     },
-}; 
+};
 export default movieSeasonRepository;
