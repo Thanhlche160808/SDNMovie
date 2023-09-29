@@ -27,6 +27,19 @@ const movieController = {
             });
         }
     },
+    addSeason: async (req, res) => {
+        try {
+            const seasonMovies = await movieRepository.addSeason(req.body);
+            return res.status(200).json({
+                message: 'Add season of movies successfully',
+                data: seasonMovies
+            });
+        } catch (error) {
+            return res.status(500).json({
+                error: error
+            });
+        }
+    }
 }
 
 export default movieController
