@@ -35,6 +35,17 @@ const movieVideoRepository = {
         }
         return movieVideo
     },
+    getVideo: async (videoParams) => {
+        const { slug } = videoParams;
+        const movieVideo = await MovieVideo.findOne({ slug: slug });
+        const movie = await MovieSeason.findOne({
+            "video.slug": `${slug}`,
+        }).populate("video._id");
+        return ({
+            video: movieVideo,
+            movie: { video: movie?.video, _id: movie?._id },
+        });
+    }
 }
 
 export default movieVideoRepository

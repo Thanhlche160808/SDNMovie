@@ -14,6 +14,19 @@ const movieVideoController = {
             });
         }
     },
+    getVideo: async (req, res) => {
+        try {
+            const getVideo = await movieVideoRepository.getVideo(req.params);
+            return res.status(200).json({
+                message: 'Get video successfully',
+                data: getVideo
+            });
+        } catch (error) {
+            return res.status(500).json({
+                error: error
+            });
+        }
+    }
 }
 
 export default movieVideoController
