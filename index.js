@@ -2,7 +2,7 @@ import express from 'express';
 import * as dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
-import { commentRouter, userRouter, movieRouter, movieSeasonRouter } from './src/routes/index.js';
+import { commentRouter, userRouter, movieRouter, movieSeasonRouter, movieVideoRouter } from './src/routes/index.js';
 
 dotenv.config()
 const app = express();
@@ -20,7 +20,7 @@ app.use('/api/comment', commentRouter);
 app.use('/api/movie', movieRouter);
 app.use('/api/user', userRouter);
 app.use("/api/movie_season", movieSeasonRouter);
-
+app.use("/api/movie_video", movieVideoRouter);
 
 const PORT = process.env.PORT || 8000;
 
