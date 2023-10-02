@@ -6,12 +6,12 @@ const movieSeasonController = {
         try {
             const { name, content, totalChap, image, datePub, typeMovie, view } = req.body;
             const newMovieSeason = await movieSeasonRepository.addMovieSeasonService(name, content, totalChap, image, datePub, typeMovie, view);
-            return resp.status(200).json({
+            return res.status(200).json({
                 message: "Add movie successfully",
                 data: newMovieSeason
             });
         } catch (error) {
-            return resp.status(500).json(error);
+            return res.status(500).json(error);
         }
     },
     getAllMovie: async (req, res) => {
