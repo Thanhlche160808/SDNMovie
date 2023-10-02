@@ -5,12 +5,12 @@ const commentController = {
         try {
             const newComment = await commentsRepository.addAComments(req.body);
             return res.status(200).json({
-                message: 'Add comments successfully',
+                message: 'Add comments successfully!!!',
                 data: newComment
             });
         } catch (error) {
             return res.status(500).json({
-                error: error
+                message: 'Can not add comments!!!',
             });
         }
     },
@@ -18,12 +18,12 @@ const commentController = {
         try {
             const result = await commentsRepository.getCommentsByMovie(req.query);
             return res.status(200).json({
-                message: 'get comments successfully',
+                message: 'Get comments successfully!!!',
                 data: result
             });
         } catch (error) {
             return res.status(500).json({
-                error: error
+                message: 'Can not get comments by movie!!!',
             });
         }
     },
@@ -43,7 +43,9 @@ const commentController = {
                 deleted: result
             });
         } catch (error) {
-            return res.status(500).json(error);
+            return res.status(500).json({
+                message: "Can not delete a comment!",
+            });
         }
     }
 }

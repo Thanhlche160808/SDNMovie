@@ -9,7 +9,7 @@ const rateController = {
             });
         } catch (error) {
             return res.status(500).json({
-                error: error
+                message: 'Can not add the rate of the movie!!!',
             });
         }
     },
@@ -22,7 +22,7 @@ const rateController = {
             });
         } catch (error) {
             return res.status(500).json({
-                error: error
+                message: 'Can not get the review of the movie!!!',
             });
         }
     }
