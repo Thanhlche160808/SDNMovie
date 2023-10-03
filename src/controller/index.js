@@ -3,10 +3,12 @@ import userController from "./user.controller.js";
 import movieController from "./movie.controller.js";
 import movieVideoController from "./movieVideo.controller.js";
 import rateController from "./rate.controller.js";
+import typeController from "./type.controller.js";
 export {
     commentsController,
     userController,
     movieController,
     movieVideoController,
-    rateController
+    rateController,
+    typeController
 }

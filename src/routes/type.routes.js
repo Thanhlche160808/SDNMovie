@@ -1,0 +1,13 @@
+import express from "express";
+import authenticate from '../middleware/auth.middleware.js';
+import { typeController } from "../controller/index.js";
+
+const typeRouter = express.Router();
+
+typeRouter.post("/create", typeController.addType);
+
+typeRouter.get("/getAll", typeController.getAllType);
+
+typeRouter.get("/type/:slug", typeController.getMovieType);
+
+export default typeRouter;
