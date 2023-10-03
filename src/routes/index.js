@@ -4,11 +4,13 @@ import movieSeasonRouter from "./movieSeason.route.js"
 import movieRouter from "./movie.route.js";
 import movieVideoRouter from "./movieVideo.route.js";
 import rateRouter from "./rate.route.js";
+import typeRouter from "./type.routes.js";
 export {
     userRouter,
     commentRouter,
     movieRouter,
     movieSeasonRouter,
     movieVideoRouter,
-    rateRouter
+    rateRouter,
+    typeRouter
 }
