@@ -9,8 +9,4 @@ userRouter.post("/create", userController.addAccount);
 
 userRouter.post("/login", userController.loginAccount);
 
-userRouter.post("/mark", authenticate ,userController.markMovie);
-
-userRouter.get("/movies", userController.getMarkMovie);
-
 export default userRouter;
