@@ -10,4 +10,8 @@ movieRouter.get("/getAll", movieController.getAllMovie);
 
 movieRouter.post("/add_season", movieController.addSeason);
 
+movieRouter.post("/mark", authenticate, movieController.markMovie);
+
+movieRouter.get("/movies", movieController.getMarkMovie);
+
 export default movieRouter;
