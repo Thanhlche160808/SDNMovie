@@ -36,35 +36,6 @@ const userController = {
             resp.status(500).json(error);
         }
     },
-    markMovie: async (req, resp) => {
-        try {
-            const { userID, movieID } = req.body;
-            const movie = await userRepository.markMovie({
-                userID,
-                movieID,
-            });
-            return resp.status(200).json({
-                message: "Mark movie successfully",
-                data: movie,
-            });
-        } catch (error) {
-            return resp.status(500).json(error);
-        }
-    },
-    getMarkMovie: async (req, resp) => {
-        try {
-            const { userID } = req.body;
-            const movies = await userRepository.getMarkedMovie({
-                userID,
-            });
-            return resp.status(200).json({
-                message: "Get marked movie successfully",
-                data: movies,
-            });
-        } catch (error) {
-            return resp.status(500).json(error);
-        }
-    },
 };
 
 export default userController;
