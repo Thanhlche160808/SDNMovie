@@ -29,6 +29,14 @@ const CommentsSchema = new mongoose.Schema({
             type: mongoose.Schema.Types.ObjectId,
         },
     ],
+    reportCounter: {
+        type: Number,
+        default: 0,
+    },
+    hided: {
+        type: Boolean,
+        default: false,
+    },
 });
 
 let Comments = mongoose.model("Comments", CommentsSchema);

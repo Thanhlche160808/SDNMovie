@@ -7,6 +7,10 @@ const MovieSchema = new mongoose.Schema(
         movieName: {
             type: String,
         },
+        totalView: {
+            type: Number,
+            default: 0,
+        },
         movieSeason: [
             {
                 seasonName: String,
