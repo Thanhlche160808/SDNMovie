@@ -1,7 +1,4 @@
-import * as dotenv from 'dotenv';
 import jwt from "jsonwebtoken";
-
-dotenv.config();
 
 const authenticate = (req, res, next) => {
     const tokenHeader = req.header("Authorization");
@@ -18,6 +15,9 @@ const authenticate = (req, res, next) => {
     try {
         const decoded = jwt.verify(token, process.env.SECRET_KEY);
         console.log("decoded: ", decoded);
+        if(Date.now() >= decoded.exp * 1000){
+            return res.status(400).json({ message: "Access token expired" });
+        }
         req.user = decoded;
         next();
     } catch (error) {

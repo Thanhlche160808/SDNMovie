@@ -38,16 +38,16 @@ const userRepository = {
     markMovie: async ({ userID, movieID }) => {
         const movie = await Movie.findOne({ _id: movieID });
         if (!movie) throw new Error("Movie not found.");
-        const user = await User.findOne({ _id: userID });
+        const user = await User.findOne({ userID: userID });
         const isMarked = user.mark.includes(movie._id);
         if (isMarked) {
             const markedMovie = await User.findOneAndUpdate({
-                _id: userID,
+                userID: userID,
             }, { $pull: { mark: movieID } });
             return markedMovie;
         } else {
             const markedMovie = await User.findOneAndUpdate({
-                _id: userID,
+                userID: userID,
             }, { $push: { mark: movieID } });
             return markedMovie;
         }
