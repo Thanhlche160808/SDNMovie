@@ -27,7 +27,7 @@ const userController = {
             const user = await userRepository.loginAccount({
                 username,
                 password,
-            });
+            }, resp);
             resp.status(200).json({
                 message: "Login successfully",
                 data: user,
@@ -36,6 +36,20 @@ const userController = {
             resp.status(500).json(error);
         }
     },
+    refreshToken: async (req, resp) => {
+        try {
+            const refreshToken = req.cookies['refreshToken']
+            const refresh_token = await userRepository.processNewToken(refreshToken, resp)
+            resp.status(200).json(
+                {
+                    message: "Get refresh token",
+                    data: refresh_token
+                }
+            );
+        } catch (error) {
+            resp.status(400).json({ message: 'Không tìm thấy refreshToken trong cookie.' });
+        }
+    }
 };
 
 export default userController;
