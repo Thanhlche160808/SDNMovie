@@ -2,17 +2,18 @@ import express from 'express';
 import * as dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
-import { 
-    commentRouter, 
-    userRouter, 
-    movieRouter, 
-    movieSeasonRouter, 
-    movieVideoRouter, 
-    rateRouter, 
+import {
+    commentRouter,
+    userRouter,
+    movieRouter,
+    movieSeasonRouter,
+    movieVideoRouter,
+    rateRouter,
     typeRouter,
     addvertisementRouter,
     watchingHistoryRouter
 } from './src/routes/index.js';
+import cookieParser from 'cookie-parser';
 
 dotenv.config()
 const app = express();
@@ -25,6 +26,7 @@ mongoose.connect(process.env.MONGO_URL, () => {
 
 const httpServer = http.createServer(app);
 app.use(express.json())
+app.use(cookieParser())
 
 app.use('/api/comment', commentRouter);
 app.use('/api/movie', movieRouter);
@@ -32,8 +34,8 @@ app.use('/api/user', userRouter);
 app.use("/api/movie_season", movieSeasonRouter);
 app.use("/api/movie_video", movieVideoRouter);
 app.use("/api/rate", rateRouter);
-app.use("/api/type",typeRouter);
-app.use("/api/ads",addvertisementRouter);
+app.use("/api/type", typeRouter);
+app.use("/api/ads", addvertisementRouter);
 app.use("/api/watching_history", watchingHistoryRouter);
 
 const PORT = process.env.PORT || 8000;
