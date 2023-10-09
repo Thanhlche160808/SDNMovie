@@ -36,7 +36,7 @@ const movieRepository = {
                 new: false,
             }
         );
-        return result
+        return seasonInfo.slug
     },
     markMovie: async ({ userID, movieID }) => {
         const movie = await Movie.findOne({ _id: movieID });
