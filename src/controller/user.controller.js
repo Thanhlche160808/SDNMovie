@@ -47,7 +47,7 @@ const userController = {
                 }
             );
         } catch (error) {
-            resp.status(400).json({ message: 'Không tìm thấy refreshToken trong cookie.' });
+            resp.status(400).json({ message: 'Can not find refresh token trong cookies.' });
         }
     }
 };

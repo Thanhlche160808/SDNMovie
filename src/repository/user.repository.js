@@ -30,7 +30,7 @@ const userRepository = {
             id: user.userID,
         };
         const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
-            expiresIn: "3d",
+            expiresIn: "10m",
         });
         const refresh_token = jwt.sign(payload, process.env.SECRET_KEY, {
             expiresIn: "30d",
@@ -47,32 +47,28 @@ const userRepository = {
         }
     },
     processNewToken: async (refreshToken, res) => {
-        try {
-            let result = jwt.verify(refreshToken, process.env.SECRET_KEY)
-            const { username, id } = result
-            const payload = {
-                sub: 'token refresh',
-                iss: 'from server',
-                username: username,
-                id: id,
-            };
-            const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
-                expiresIn: "3d",
-            });
-            const refresh_token = jwt.sign(payload, process.env.SECRET_KEY, {
-                expiresIn: "30d",
-            });
-            res.cookie('refreshToken', '', { expires: new Date(0) });
-            const cookieValue = `refreshToken=${refresh_token}; HttpOnly; Max-Age=${30 * 24 * 60 * 60}; Path=/`; // 30 days
-            res.setHeader('Set-Cookie', cookieValue);
-            return {
-                _id: id,
-                email: username,
-                access_token: access_token,
-                refresh_token: refresh_token
-            }
-        } catch (error) {
-            throw new Error('Refresh token is invalid. Try login again!');
+        let result = jwt.verify(refreshToken, process.env.SECRET_KEY)
+        const { username, id } = result
+        const payload = {
+            sub: 'token refresh',
+            iss: 'from server',
+            username: username,
+            id: id,
+        };
+        const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
+            expiresIn: "10m",
+        });
+        const refresh_token = jwt.sign(payload, process.env.SECRET_KEY, {
+            expiresIn: "30d",
+        });
+        res.cookie('refreshToken', '', { expires: new Date(0) });
+        const cookieValue = `refreshToken=${refresh_token}; HttpOnly; Max-Age=${30 * 24 * 60 * 60}; Path=/`; // 30 days
+        res.setHeader('Set-Cookie', cookieValue);
+        return {
+            _id: id,
+            email: username,
+            access_token: access_token,
+            refresh_token: refresh_token
         }
     },
 };
