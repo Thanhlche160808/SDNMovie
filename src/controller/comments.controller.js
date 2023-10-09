@@ -3,49 +3,36 @@ import { commentsRepository } from "../repository/index.js"
 const commentController = {
     addAComments: async (req, res) => {
         try {
-            const newComment = await commentsRepository.addAComments(req.body);
-            return res.status(200).json({
-                message: 'Add comments successfully!!!',
-                data: newComment
-            });
+            const savedComment = await commentsRepository.addAComments(req.body);
+            return res.status(200).json(savedComment);
         } catch (error) {
-            return res.status(500).json({
-                message: 'Can not add comments!!!',
-            });
+            return res.status(500).json(error);
         }
     },
     getCommentsByMovie: async (req, res) => {
         try {
             const result = await commentsRepository.getCommentsByMovie(req.query);
-            return res.status(200).json({
-                message: 'Get comments successfully!!!',
-                data: result
-            });
+            return res.status(200).json(
+                result
+            );
         } catch (error) {
-            return res.status(500).json({
-                message: 'Can not get comments by movie!!!',
-            });
+            return res.status(500).json(error);
         }
     },
     likeComment: async (req, res) => {
         try {
             const result = await commentsRepository.likeComment(req.body)
-            return res.status(200).json({ status: result });
+            return res.status(200).json(result);
         } catch (error) {
             return res.status(500).json(error);
         }
     },
     deleteComment: async (req, res) => {
         try {
-            const result = await commentsRepository.deleteComment(req.body)
-            return res.status(200).json({
-                message: "Delete a comment successfully!",
-                deleted: result
-            });
+            await commentsRepository.deleteComment(req.body)
+            return res.status(200).json("Xóa comment thành công !");
         } catch (error) {
-            return res.status(500).json({
-                message: "Can not delete a comment!",
-            });
+            return res.status(500).json(error);
         }
     }
 }
