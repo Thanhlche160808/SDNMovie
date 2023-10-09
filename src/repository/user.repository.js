@@ -1,7 +1,7 @@
 import User from "../model/User.model.js";
-import Movie from "../model/Movie.model.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
+import MovieSeason from "../model/MovieSeason.model.js";
 
 const userRepository = {
     createAccount: async ({ username, password, showName }) => {
@@ -39,18 +39,18 @@ const userRepository = {
         }
     },
     markMovie: async ({ userID, movieID }) => {
-        const movie = await Movie.findOne({ _id: movieID });
+        const movie = await MovieSeason.findOne({ _id: movieID });
         if (!movie) throw new Error("Movie not found.");
-        const user = await User.findOne({ userID: userID });
+        const user = await User.findOne({ _id: userID });
         const isMarked = user.mark.includes(movie._id);
         if (isMarked) {
             const markedMovie = await User.findOneAndUpdate({
-                userID: userID,
+                _id: userID,
             }, { $pull: { mark: movieID } });
             return markedMovie;
         } else {
             const markedMovie = await User.findOneAndUpdate({
-                userID: userID,
+                _id: userID,
             }, { $push: { mark: movieID } });
             return markedMovie;
         }
