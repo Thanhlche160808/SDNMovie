@@ -15,7 +15,7 @@ const authenticate = (req, res, next) => {
     try {
         const decoded = jwt.verify(token, process.env.SECRET_KEY);
         console.log("decoded: ", decoded);
-        if(Date.now() >= decoded.exp * 1000){
+        if (Date.now() >= decoded.exp * 1000) {
             return res.status(400).json({ message: "Access token expired" });
         }
         req.user = decoded;
