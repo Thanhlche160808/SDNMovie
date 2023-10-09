@@ -8,6 +8,6 @@ typeRouter.post("/create", typeController.addType);
 
 typeRouter.get("/getAll", typeController.getAllType);
 
-typeRouter.get("/type/:slug", typeController.getMovieType);
+typeRouter.get("/movies", typeController.getMovieType);
 
 export default typeRouter;

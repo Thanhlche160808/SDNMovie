@@ -68,14 +68,14 @@ const movieSeasonController = {
             return resp.status(500).json(error);
         }
     },
-    getHotAndView: async (req, resp) => {
+    getHotAndView: async (req, res) => {
         try {
             const hot = await movieSeasonRepository.getHotMovie();
 
             const mostView = await movieSeasonRepository.getMovieMostView();
-            return resp.status(200).json({ hot, mostView });
+            return res.status(200).json({ hot, mostView });
         } catch (error) {
-            return resp.status(500).json(error);
+            return res.status(500).json(error);
         }
     },
     getFillterMovie: async (req, resp) => {

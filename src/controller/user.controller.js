@@ -6,6 +6,8 @@ const userController = {
         try {
             const { username, password, showName } = req.body;
             console.log("username: ", username);
+            console.log("password: ", password);
+            console.log("showName: ", showName);
             const user = await userRepository.createAccount({
                 username,
                 password,
@@ -44,7 +46,7 @@ const userController = {
     },
     getMarkMovie: async (req, resp) => {
         try {
-            const { userID } = req.body;
+            const { userID } = req.query._id;
             const movies = await userRepository.getMarkedMovie({
                 userID,
             });
