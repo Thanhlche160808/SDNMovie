@@ -2,10 +2,12 @@ import express from 'express';
 import * as dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
+import cors from 'cors';
 import { commentRouter, userRouter, movieRouter, movieSeasonRouter, movieVideoRouter, rateRouter, typeRouter } from './src/routes/index.js';
 
 dotenv.config()
 const app = express();
+app.use(cors());
 
 //connect database
 mongoose.set("strictQuery", false);

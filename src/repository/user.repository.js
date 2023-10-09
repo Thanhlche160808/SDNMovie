@@ -30,9 +30,12 @@ const userRepository = {
         const token = jwt.sign(payload, process.env.SECRET_KEY, {
             expiresIn: "3d",
         });
+        const { userID, showName, _id } = user;
         return {
-            showName: user.showName,
-            token: token,
+            _id,
+            userID,
+            showName,
+            token,
         }
     },
     markMovie: async ({ userID, movieID }) => {
