@@ -11,4 +11,8 @@ userRouter.post("/login", userController.loginAccount);
 
 userRouter.get("/refresh", userController.refreshToken)
 
+movieRouter.post("/mark", authenticate, userController.markMovie);
+
+movieRouter.get("/movies", userController.getMarkMovie);
+
 export default userRouter;

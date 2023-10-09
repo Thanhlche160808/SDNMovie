@@ -49,7 +49,30 @@ const userController = {
         } catch (error) {
             resp.status(400).json({ message: 'Can not find refresh token trong cookies.' });
         }
-    }
+    },
+    markMovie: async (req, resp) => {
+        try {
+            const { userID, movieID } = req.body;
+            const movie = await userRepository.markMovie({
+                userID,
+                movieID,
+            });
+            return resp.status(200).json("Save infor successfully!!!");
+        } catch (error) {
+            return resp.status(500).json(error);
+        }
+    },
+    getMarkMovie: async (req, resp) => {
+        try {
+            const { userID } = req.body;
+            const movies = await userRepository.getMarkedMovie({
+                userID,
+            });
+            return resp.status(200).json(movies);
+        } catch (error) {
+            return resp.status(500).json(error);
+        }
+    },
 };
 
 export default userController;
