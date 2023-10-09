@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64339f2ff3cc8afc91baf97a"
+  },
+  "content": "hay qua",
+  "author": "vuong nguyen",
+  "movie": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "date": "2023-04-10T12:31:27+07:00",
+  "like": [],
+  "dislike": [],
+  "replyComments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64339f3ef3cc8afc91baf983"
+  },
+  "content": "m la vua roi",
+  "author": "vuong nguyen",
+  "movie": {
+    "$oid": "643390a3f2a747d0ea14a195"
+  },
+  "date": "2023-04-10T12:31:42+07:00",
+  "like": [],
+  "dislike": [],
+  "replyComments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643539aaf01acab11b3d5ee3"
+  },
+  "content": "Hay qua hoan oi",
+  "author": "Dinh Hoan",
+  "movie": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "date": "2023-04-11T17:42:50+07:00",
+  "like": [],
+  "dislike": [],
+  "replyComments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f965368e6d0d569fa4c9e"
+  },
+  "content": "Chuan roi",
+  "author": "Dinh Hoan",
+  "movie": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "date": "2023-04-19T14:20:51+07:00",
+  "like": [],
+  "dislike": [],
+  "replyComments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f966268e6d0d569fa4ca4"
+  },
+  "content": "Chuan qua roi",
+  "author": "Dinh Hoan",
+  "movie": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "date": "2023-04-19T14:21:06+07:00",
+  "like": [],
+  "dislike": [],
+  "replyComments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645137db68e6d0d569fa5958"
+  },
+  "content": "tập 4 ko xem đc hoàn ơi \n",
+  "author": "kien662001",
+  "movie": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "date": "2023-05-02T23:18:35+07:00",
+  "like": [],
+  "dislike": [],
+  "replyComments": [],
+  "__v": 0
+}]

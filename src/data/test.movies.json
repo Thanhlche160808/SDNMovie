@@ -1,0 +1,181 @@
+[{
+  "_id": 1,
+  "movieName": "Đấu Phá Thương Khung",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "dau-pha-thuong-khung-phan-1"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "dau-pha-thuong-khung-phan-2"
+    },
+    {
+      "seasonName": "Season 3",
+      "slug": "dau-pha-thuong-khung-phan-3"
+    },
+    {
+      "seasonName": "Season 4",
+      "slug": "dau-pha-thuong-khung-phan-4"
+    },
+    {
+      "seasonName": "OVA3",
+      "slug": "dau-pha-thuong-khung-uoc-hen-ba-nam"
+    },
+    {
+      "seasonName": "Season 5",
+      "slug": "dau-pha-thuong-khung-phan-5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-01T18:18:21.591Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T18:18:21.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": 2,
+  "movieName": "Vinland Saga",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "movieSeasonID": 1,
+      "slug": "vinland-saga-season-1"
+    },
+    {
+      "seasonName": "Season 2",
+      "movieSeasonID": 5,
+      "slug": "vinland-saga-season-2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-02T03:12:50.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T05:09:43.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": 3,
+  "movieName": "Ousama Ranking",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "ousama-ranking"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "ousama-ranking-yuuki-no-takarabako"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": 4,
+  "movieName": "Rick and Morty",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "rick-and-morty-season-1"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "rick-and-morty-season-2"
+    },
+    {
+      "seasonName": "Season 3",
+      "slug": "rick-and-morty-season-3"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": 5,
+  "movieName": "Dr Stone",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "dr-stone-season-1"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "dr-stone-2-stone-wars"
+    },
+    {
+      "seasonName": "Season 3",
+      "slug": "dr-stone-new-world"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": 6,
+  "movieName": "The Boys",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "the-boys-season-1"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "the-boys-season-2"
+    },
+    {
+      "seasonName": "Season 3",
+      "slug": "the-boys-season-3"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": 7,
+  "movieName": "Kimetsu no Yaiba",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "kimetsu-no-yaiba"
+    },
+    {
+      "seasonName": "Movie",
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "kimetsu-no-yaiba-yuukaku-hen"
+    },
+    {
+      "seasonName": "Season 3",
+      "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": 8,
+  "movieName": "Thôn phệ tinh không",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "thon-phe-tinh-khong"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": 9,
+  "movieName": "Gravity Fall",
+  "movieSeason": [
+    {
+      "seasonName": "Season 1",
+      "slug": "gravity-falls-season-1"
+    },
+    {
+      "seasonName": "Season 2",
+      "slug": "gravity-falls-season-2"
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6427c0fdf7d9f5fd43fbbfca"
+  },
+  "id": "userID",
+  "reference_value": null,
+  "seq": 17
+},
+{
+  "_id": {
+    "$oid": "642865f0f7d9f5fd4365144e"
+  },
+  "id": "typeID",
+  "reference_value": null,
+  "seq": 13
+},
+{
+  "_id": {
+    "$oid": "6428756df7d9f5fd436ea2a8"
+  },
+  "id": "_id",
+  "reference_value": null,
+  "seq": 9
+},
+{
+  "_id": {
+    "$oid": "6428fb8ff7d9f5fd43bb90a8"
+  },
+  "id": "movieSeasonID",
+  "reference_value": null,
+  "seq": 49
+},
+{
+  "_id": {
+    "$oid": "64295f64f7d9f5fd43f772ef"
+  },
+  "id": "movieVideoID",
+  "reference_value": null,
+  "seq": 473
+}]

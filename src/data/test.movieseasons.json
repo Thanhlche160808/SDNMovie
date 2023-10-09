@@ -1,0 +1,5094 @@
+[{
+  "_id": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "content": "Một nghìn năm trước, thời đại xưng bá khắp nơi của các Viking đã thống trị Âu Châu và đến cả bờ đông của Châu Mỹ ngày nay. Thorfinn, con trai của chiến binh Viking vĩ đại nhất, đã phải xung trận từ bé và mài dũa để nối bước cha mình. Ước mơ của họ là đặt chân đến được miền đất hứa phía bên kia Đại Tây Dương, vùng đất Vinland.",
+  "totalChap": 24,
+  "view": 39,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680407438/qxfh4jjcmvqo18bvr7rv.jpg",
+  "name": "Vinland Saga Season 1",
+  "movieID": 2,
+  "typeMovie": [
+    {
+      "_id": {
+        "$oid": "642865f02352d72f91cf8ce0"
+      },
+      "slug": "action"
+    }
+  ],
+  "video": [
+    {
+      "videoID": 1,
+      "_id": {
+        "$oid": "64295f646e464ac645f9029a"
+      },
+      "slug": "vinland-saga-tap-1-mot-noi-nao-do-khong-phai-o-day"
+    },
+    {
+      "videoID": 2,
+      "_id": {
+        "$oid": "642960e3d4a3973d65de0152"
+      },
+      "slug": "vinland-saga-tap-2-thanh-kiem"
+    },
+    {
+      "videoID": 3,
+      "_id": {
+        "$oid": "64296c72c1be040a96767a25"
+      },
+      "slug": "vinland-saga-tap-3-dai-quai"
+    },
+    {
+      "videoID": 4,
+      "_id": {
+        "$oid": "64296d37c1be040a96767a40"
+      },
+      "slug": "vinland-saga-tap-4-chien-binh-thuc-thu"
+    },
+    {
+      "videoID": 5,
+      "_id": {
+        "$oid": "64296d5fc1be040a96767a46"
+      },
+      "slug": "vinland-saga-tap-5-con-cua-dai-quai"
+    },
+    {
+      "videoID": 6,
+      "_id": {
+        "$oid": "64296d8cc1be040a96767a4c"
+      },
+      "slug": "vinland-saga-tap-6-cuoc-hanh-trinh-bat-dau"
+    },
+    {
+      "videoID": 7,
+      "_id": {
+        "$oid": "64296df0c1be040a96767a67"
+      },
+      "slug": "vinland-saga-tap-7-normanni"
+    },
+    {
+      "videoID": 8,
+      "_id": {
+        "$oid": "64296e19c1be040a96767a6d"
+      },
+      "slug": "vinland-saga-tap-8-ngoai-ria-bien-ca"
+    },
+    {
+      "videoID": 9,
+      "_id": {
+        "$oid": "64296e65c1be040a96767a73"
+      },
+      "slug": "vinland-saga-tap-9-cuoc-chien-cau-luan-don"
+    },
+    {
+      "videoID": 10,
+      "_id": {
+        "$oid": "64296e92c1be040a96767a79"
+      },
+      "slug": "vinland-saga-tap-10-ragnarok"
+    },
+    {
+      "videoID": 11,
+      "_id": {
+        "$oid": "64296eecc1be040a96767a7f"
+      },
+      "slug": "vinland-saga-tap-11-canh-bac"
+    },
+    {
+      "videoID": 12,
+      "_id": {
+        "$oid": "64296f0dc1be040a96767a85"
+      },
+      "slug": "vinland-saga-tap-12-vung-dat-phia-ben-kia-bo"
+    },
+    {
+      "videoID": 13,
+      "_id": {
+        "$oid": "64296f6fc1be040a96767a8b"
+      },
+      "slug": "vinland-saga-tap-13-dua-con-cua-anh-hung"
+    },
+    {
+      "videoID": 14,
+      "_id": {
+        "$oid": "64296fa8c1be040a96767a91"
+      },
+      "slug": "vinland-saga-tap-14-tia-sang-cua-binh-minh"
+    },
+    {
+      "videoID": 15,
+      "_id": {
+        "$oid": "6429703dc1be040a96767a97"
+      },
+      "slug": "vinland-saga-tap-15-dang-sau-yule"
+    },
+    {
+      "videoID": 16,
+      "_id": {
+        "$oid": "64297068c1be040a96767a9d"
+      },
+      "slug": "vinland-saga-tap-16-lich-su-cua-quai-thu"
+    },
+    {
+      "videoID": 17,
+      "_id": {
+        "$oid": "6429709cc1be040a96767aa3"
+      },
+      "slug": "vinland-saga-tap-17-day-to"
+    },
+    {
+      "videoID": 18,
+      "_id": {
+        "$oid": "642970cfc1be040a96767aa9"
+      },
+      "slug": "vinland-saga-tap-18-ra-kh-i-cai-noi"
+    },
+    {
+      "videoID": 19,
+      "_id": {
+        "$oid": "642970edc1be040a96767aaf"
+      },
+      "slug": "vinland-saga-tap-19-hop-chien"
+    },
+    {
+      "videoID": 20,
+      "_id": {
+        "$oid": "6429712ac1be040a96767ab5"
+      },
+      "slug": "vinland-saga-tap-20-vuong-mieng"
+    },
+    {
+      "videoID": 21,
+      "_id": {
+        "$oid": "64297156c1be040a96767abb"
+      },
+      "slug": "vinland-saga-tap-21-doan-tu"
+    },
+    {
+      "videoID": 22,
+      "_id": {
+        "$oid": "642971acc1be040a96767ac1"
+      },
+      "slug": "vinland-saga-tap-22-soi-don"
+    },
+    {
+      "videoID": 23,
+      "_id": {
+        "$oid": "642971ebc1be040a96767ac7"
+      },
+      "slug": "vinland-saga-tap-23-sai-lam"
+    },
+    {
+      "videoID": 24,
+      "_id": {
+        "$oid": "64297210c1be040a96767acd"
+      },
+      "slug": "vinland-saga-tap-24-ket-thuc-doan-mo-dau"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-02T03:50:39.528Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T05:21:41.677Z"
+  },
+  "slug": "vinland-saga-season-1",
+  "movieSeasonID": 1,
+  "__v": 0,
+  "totalRate": 9.5,
+  "datePub": "2021"
+},
+{
+  "_id": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "content": "Phần 2 của Vinland Sage ",
+  "totalChap": 24,
+  "view": 42,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680412182/oi9c7k9ldtixt5hsnywc.jpg",
+  "name": "Vinland Saga Season 2",
+  "movieID": 2,
+  "typeMovie": [
+    {
+      "_id": {
+        "$oid": "642865f02352d72f91cf8ce0"
+      },
+      "slug": "action"
+    },
+    {
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      },
+      "slug": "anime"
+    },
+    {
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      },
+      "slug": "comedy"
+    }
+  ],
+  "video": [
+    {
+      "videoID": 94,
+      "_id": {
+        "$oid": "64300e759a6d0cdb83db60e2"
+      },
+      "slug": "vinland-saga-season-2-tap-1"
+    },
+    {
+      "videoID": 95,
+      "_id": {
+        "$oid": "64300e9a9a6d0cdb83db60e8"
+      },
+      "slug": "vinland-saga-season-2-tap-2"
+    },
+    {
+      "videoID": 96,
+      "_id": {
+        "$oid": "64300eb09a6d0cdb83db60ee"
+      },
+      "slug": "vinland-saga-season-2-tap-3"
+    },
+    {
+      "videoID": 97,
+      "_id": {
+        "$oid": "64300ecd9a6d0cdb83db60f4"
+      },
+      "slug": "vinland-saga-season-2-tap-4"
+    },
+    {
+      "videoID": 98,
+      "_id": {
+        "$oid": "64300ee49a6d0cdb83db60fa"
+      },
+      "slug": "vinland-saga-season-2-tap-5"
+    },
+    {
+      "videoID": 99,
+      "_id": {
+        "$oid": "64300f009a6d0cdb83db6100"
+      },
+      "slug": "vinland-saga-season-2-tap-6"
+    },
+    {
+      "videoID": 100,
+      "_id": {
+        "$oid": "64300f169a6d0cdb83db6106"
+      },
+      "slug": "vinland-saga-season-2-tap-7"
+    },
+    {
+      "videoID": 101,
+      "_id": {
+        "$oid": "64300f2e9a6d0cdb83db610c"
+      },
+      "slug": "vinland-saga-season-2-tap-8"
+    },
+    {
+      "videoID": 102,
+      "_id": {
+        "$oid": "64300f469a6d0cdb83db6112"
+      },
+      "slug": "vinland-saga-season-2-tap-9"
+    },
+    {
+      "videoID": 103,
+      "_id": {
+        "$oid": "64300f609a6d0cdb83db6118"
+      },
+      "slug": "vinland-saga-season-2-tap-10"
+    },
+    {
+      "videoID": 105,
+      "_id": {
+        "$oid": "64311d27b6c4ab2edcc2d432"
+      },
+      "slug": "vinland-saga-season-2-tap-11"
+    },
+    {
+      "videoID": 106,
+      "_id": {
+        "$oid": "64311d5eb6c4ab2edcc2d438"
+      },
+      "slug": "vinland-saga-season-2-tap-12"
+    },
+    {
+      "videoID": 107,
+      "_id": {
+        "$oid": "64311d9eb6c4ab2edcc2d43e"
+      },
+      "slug": "vinland-saga-season-2-tap-13"
+    },
+    {
+      "videoID": 324,
+      "_id": {
+        "$oid": "643656f1a41435d0b9ce8a19"
+      },
+      "slug": "vinland-saga-season-2-tap-14"
+    },
+    {
+      "videoID": 404,
+      "_id": {
+        "$oid": "643df59668e6d0d569fa4a3c"
+      },
+      "slug": "tap-15-vinland-saga-season-2-vinland-saga-ss2"
+    },
+    {
+      "videoID": 444,
+      "_id": {
+        "$oid": "6447d6d968e6d0d569fa552a"
+      },
+      "slug": "tap-16-vinland-saga-season-2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-02T05:09:43.050Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T09:53:40.426Z"
+  },
+  "slug": "vinland-saga-season-2",
+  "movieSeasonID": 5,
+  "__v": 0,
+  "totalRate": 10,
+  "create_At": {
+    "$date": "2023-04-25T13:34:17.000Z"
+  },
+  "numberRate": 2
+},
+{
+  "_id": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "content": "Phim xoay quanh Bojji, một hoàng tử bị điếc, bất lực, thậm chí không thể sử dụng thanh kiếm của trẻ em. Là con trai đầu lòng, anh phấn đấu hết mình và ước mơ trở thành vị vua vĩ đại nhất thế giới. Tuy nhiên, mọi người đồn thổi về anh sau lưng anh là \"một hoàng tử chẳng ra gì\" và \"không thể nào anh có thể làm vua được.\" Bojji có thể kết bạn đầu tiên của mình, \"Kage\" (bóng tối) —một cái bóng theo nghĩa đen trên mặt đất, người bằng cách nào đó hiểu rõ Bojji. (Kage là một người sống sót trong gia tộc sát thủ Kage đã bị xóa sổ. Không còn là một kẻ giết người, Kage giờ đây kiếm sống bằng cách ăn trộm.) với cuộc gặp gỡ định mệnh của mình với Kage.",
+  "totalChap": 23,
+  "view": 9,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680693442/hafx9szhsw6qso4elvnh.jpg",
+  "name": "Ousama Ranking",
+  "typeMovie": [
+    {
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      },
+      "slug": "adventure"
+    },
+    {
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      },
+      "slug": "anime"
+    },
+    {
+      "_id": {
+        "$oid": "642865f02352d72f91cf8ce0"
+      },
+      "slug": "action"
+    }
+  ],
+  "video": [
+    {
+      "videoID": 25,
+      "_id": {
+        "$oid": "642d5a191486bc397e2da83d"
+      },
+      "slug": "ousama-ranking-ep-01"
+    },
+    {
+      "videoID": 26,
+      "_id": {
+        "$oid": "642d5a791486bc397e2da858"
+      },
+      "slug": "ousama-ranking-ep-02"
+    },
+    {
+      "videoID": 27,
+      "_id": {
+        "$oid": "642d5af11486bc397e2da85e"
+      },
+      "slug": "ousama-ranking-ep-03"
+    },
+    {
+      "videoID": 28,
+      "_id": {
+        "$oid": "642d5b0b1486bc397e2da864"
+      },
+      "slug": "ousama-ranking-ep-04"
+    },
+    {
+      "videoID": 29,
+      "_id": {
+        "$oid": "642d5b371486bc397e2da86a"
+      },
+      "slug": "ousama-ranking-ep-05"
+    },
+    {
+      "videoID": 30,
+      "_id": {
+        "$oid": "642d5b581486bc397e2da870"
+      },
+      "slug": "ousama-ranking-ep-06"
+    },
+    {
+      "videoID": 31,
+      "_id": {
+        "$oid": "642d5b771486bc397e2da876"
+      },
+      "slug": "ousama-ranking-ep-07"
+    },
+    {
+      "videoID": 32,
+      "_id": {
+        "$oid": "642d5b941486bc397e2da87c"
+      },
+      "slug": "ousama-ranking-ep-08"
+    },
+    {
+      "videoID": 33,
+      "_id": {
+        "$oid": "642d5bb51486bc397e2da882"
+      },
+      "slug": "ousama-ranking-ep-09"
+    },
+    {
+      "videoID": 34,
+      "_id": {
+        "$oid": "642d5bd31486bc397e2da888"
+      },
+      "slug": "ousama-ranking-ep-10"
+    },
+    {
+      "videoID": 35,
+      "_id": {
+        "$oid": "642d5bef1486bc397e2da88e"
+      },
+      "slug": "ousama-ranking-ep-11"
+    },
+    {
+      "videoID": 36,
+      "_id": {
+        "$oid": "642d5c091486bc397e2da894"
+      },
+      "slug": "ousama-ranking-ep-12"
+    },
+    {
+      "videoID": 37,
+      "_id": {
+        "$oid": "642d5c251486bc397e2da89a"
+      },
+      "slug": "ousama-ranking-ep-13"
+    },
+    {
+      "videoID": 38,
+      "_id": {
+        "$oid": "642d5c401486bc397e2da8a0"
+      },
+      "slug": "ousama-ranking-ep-14"
+    },
+    {
+      "videoID": 39,
+      "_id": {
+        "$oid": "642d5c571486bc397e2da8a6"
+      },
+      "slug": "ousama-ranking-ep-15"
+    },
+    {
+      "videoID": 40,
+      "_id": {
+        "$oid": "642d5c731486bc397e2da8ac"
+      },
+      "slug": "ousama-ranking-ep-16"
+    },
+    {
+      "videoID": 41,
+      "_id": {
+        "$oid": "642d5c8c1486bc397e2da8b2"
+      },
+      "slug": "ousama-ranking-ep-17"
+    },
+    {
+      "videoID": 42,
+      "_id": {
+        "$oid": "642d5ca81486bc397e2da8b8"
+      },
+      "slug": "ousama-ranking-ep-18"
+    },
+    {
+      "videoID": 43,
+      "_id": {
+        "$oid": "642d5cc51486bc397e2da8be"
+      },
+      "slug": "ousama-ranking-ep-19"
+    },
+    {
+      "videoID": 44,
+      "_id": {
+        "$oid": "642d5cdd1486bc397e2da8c4"
+      },
+      "slug": "ousama-ranking-ep-20"
+    },
+    {
+      "videoID": 45,
+      "_id": {
+        "$oid": "642d5cf71486bc397e2da8ca"
+      },
+      "slug": "ousama-ranking-ep-21"
+    },
+    {
+      "videoID": 46,
+      "_id": {
+        "$oid": "642d5d0c1486bc397e2da8d0"
+      },
+      "slug": "ousama-ranking-ep-22"
+    },
+    {
+      "videoID": 47,
+      "_id": {
+        "$oid": "642d5d271486bc397e2da8d6"
+      },
+      "slug": "ousama-ranking-ep-23_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-05T11:17:23.191Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T03:59:48.261Z"
+  },
+  "slug": "ousama-ranking",
+  "movieSeasonID": 6,
+  "__v": 0,
+  "movieID": 3
+},
+{
+  "_id": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "content": "Rick, một nhà xã hội học nghiện rượu và nhà khoa học, sống với gia đình con gái Beth. Ngoài việc xây dựng các thiết bị, anh ta đưa cháu trai Morty đúng đắn về mặt đạo đức nhưng ngu ngốc của mình vào những cuộc phiêu lưu giữa các thiên hà vô lý.",
+  "totalChap": 11,
+  "view": 15,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709615/h3gsv7rkzqkny52hpsee.jpg",
+  "name": "Rick and Morty Season 1",
+  "typeMovie": [
+    {
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      },
+      "slug": "comedy"
+    },
+    {
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      },
+      "slug": "adventure"
+    }
+  ],
+  "video": [
+    {
+      "videoID": 48,
+      "_id": {
+        "$oid": "642d9832d02b02e9bbd163c5"
+      },
+      "slug": "rick-va-morty-phan-1-tap-1"
+    },
+    {
+      "videoID": 49,
+      "_id": {
+        "$oid": "642d9866d02b02e9bbd163cb"
+      },
+      "slug": "rick-va-morty-phan-1-tap-2"
+    },
+    {
+      "videoID": 50,
+      "_id": {
+        "$oid": "642d98a4d02b02e9bbd163d1"
+      },
+      "slug": "rick-va-morty-phan-1-tap-3"
+    },
+    {
+      "videoID": 51,
+      "_id": {
+        "$oid": "642d98cdd02b02e9bbd163d7"
+      },
+      "slug": "rick-va-morty-phan-1-tap-4"
+    },
+    {
+      "videoID": 52,
+      "_id": {
+        "$oid": "642d98fad02b02e9bbd163dd"
+      },
+      "slug": "rick-va-morty-phan-1-tap-5"
+    },
+    {
+      "videoID": 53,
+      "_id": {
+        "$oid": "642d9942d02b02e9bbd163e3"
+      },
+      "slug": "rick-va-morty-phan-1-tap-6"
+    },
+    {
+      "videoID": 54,
+      "_id": {
+        "$oid": "642d9990d02b02e9bbd163e9"
+      },
+      "slug": "rick-va-morty-phan-1-tap-7"
+    },
+    {
+      "videoID": 55,
+      "_id": {
+        "$oid": "642d99b8d02b02e9bbd163ef"
+      },
+      "slug": "rick-va-morty-phan-1-tap-8"
+    },
+    {
+      "videoID": 56,
+      "_id": {
+        "$oid": "642d99f9d02b02e9bbd163f5"
+      },
+      "slug": "rick-va-morty-phan-1-tap-9"
+    },
+    {
+      "videoID": 57,
+      "_id": {
+        "$oid": "642d9a22d02b02e9bbd163fb"
+      },
+      "slug": "rick-va-morty-phan-1-tap-10"
+    },
+    {
+      "videoID": 58,
+      "_id": {
+        "$oid": "642d9a4ed02b02e9bbd16401"
+      },
+      "slug": "rick-va-morty-phan-1-tap-11"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-05T15:46:56.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T07:04:09.616Z"
+  },
+  "slug": "rick-and-morty-season-1",
+  "movieSeasonID": 7,
+  "__v": 0,
+  "movieID": 4,
+  "totalRate": 10
+},
+{
+  "_id": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "content": "Phần thứ hai của loạt phim hoạt hình truyền hình Rick và Morty ban đầu được phát sóng trên chương trình đêm khuya của Cartoon Network Adult Swim tại Hoa Kỳ vào ngày 26 tháng 7 năm 2015 với \"A Rickle in Time\" và kết thúc vào ngày 4 tháng 10 với \"The Wedding Squanchers\" . Phần này đã phát sóng tổng cộng mười tập.",
+  "totalChap": 10,
+  "view": 27,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770647/jfazzaf4fxmf7ehpzy0t.jpg",
+  "name": "Rick and Morty Season 2",
+  "datePub": "2015",
+  "totalRate": 9,
+  "typeMovie": [
+    {
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      },
+      "slug": "comedy"
+    },
+    {
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      },
+      "slug": "adventure"
+    }
+  ],
+  "video": [
+    {
+      "videoID": 59,
+      "_id": {
+        "$oid": "642e86a673a551e7d4fb45a9"
+      },
+      "slug": "rick-va-morty-phan-2-tap-1"
+    },
+    {
+      "videoID": 60,
+      "_id": {
+        "$oid": "642e86c373a551e7d4fb45af"
+      },
+      "slug": "rick-va-morty-phan-2-tap-2"
+    },
+    {
+      "videoID": 61,
+      "_id": {
+        "$oid": "642e86db73a551e7d4fb45b5"
+      },
+      "slug": "rick-va-morty-phan-2-tap-3"
+    },
+    {
+      "videoID": 62,
+      "_id": {
+        "$oid": "642e86f473a551e7d4fb45bb"
+      },
+      "slug": "rick-va-morty-phan-2-tap-4"
+    },
+    {
+      "videoID": 63,
+      "_id": {
+        "$oid": "642e871573a551e7d4fb45c1"
+      },
+      "slug": "rick-va-morty-phan-2-tap-5"
+    },
+    {
+      "videoID": 64,
+      "_id": {
+        "$oid": "642e873373a551e7d4fb45c7"
+      },
+      "slug": "rick-va-morty-phan-2-tap-6"
+    },
+    {
+      "videoID": 65,
+      "_id": {
+        "$oid": "642e875473a551e7d4fb45cd"
+      },
+      "slug": "rick-va-morty-phan-2-tap-7"
+    },
+    {
+      "videoID": 66,
+      "_id": {
+        "$oid": "642e876e73a551e7d4fb45d3"
+      },
+      "slug": "rick-va-morty-phan-2-tap-8"
+    },
+    {
+      "videoID": 67,
+      "_id": {
+        "$oid": "642e878e73a551e7d4fb45d9"
+      },
+      "slug": "rick-va-morty-phan-2-tap-9"
+    },
+    {
+      "videoID": 68,
+      "_id": {
+        "$oid": "642e87a473a551e7d4fb45df"
+      },
+      "slug": "rick-va-morty-phan-2-tap-10"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-06T08:44:07.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T04:10:46.552Z"
+  },
+  "slug": "rick-and-morty-season-2",
+  "movieSeasonID": 8,
+  "__v": 0,
+  "movieID": 4,
+  "numberRate": 4
+},
+{
+  "_id": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "content": "Đấu Phá Thương Khung kể về một thế giới thuộc về Đấu Khí, không hề có ma pháp hoa tiếu diễm lệ, chỉ có đấu khí cương mãnh phồn thịnh! Đấu Phá Thương Khung cũng là nơi mà các Luyện Dược Sư, những nhà luyện đan dược giúp tăng cấp tu luyện, phục hồi sức lực, hay thậm chí cửu tử hoàn sinh vô cùng được trọng vọng bởi tư chất hiếm có của họ. Tưởng tượng thế giới đó sẽ phát triển ra sao? Mời các bạn xem Đấu Phá Thương Khung!   Hãy Bắt Đầu Từ Tiêu Viêm – một thiên tài tu luyện trong phút chốc trở thành phế vật, từ phế vật lại từng bước khẳng định lại chính mình! Trên bước đường từng bước khẳng định lại bản thân, trở thành một cao thủ siêu hạng, cũng như một Luyện Dược Sư đỉnh cao, Tiêu Viêm được một vị tôn sư bí mật có thân phận cùng năng lực cực cao không ngừng chỉ dạy. Hãy cùng bắt đầu cuộc hành trình đó với Đấu Phá Thương Khung.",
+  "totalChap": 12,
+  "view": 3,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680845288/qthsfmwqajb2nhgcta71.jpg",
+  "name": "Đấu Phá Thương Khung Phần 1",
+  "datePub": "2017",
+  "totalRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 69,
+      "_id": {
+        "$oid": "642fac2774df1e0c57f149b4"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-1"
+    },
+    {
+      "videoID": 70,
+      "_id": {
+        "$oid": "642fac8b74df1e0c57f149ba"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-2"
+    },
+    {
+      "videoID": 71,
+      "_id": {
+        "$oid": "642facc074df1e0c57f149c0"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-3"
+    },
+    {
+      "videoID": 72,
+      "_id": {
+        "$oid": "642fad7174df1e0c57f149c6"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-4"
+    },
+    {
+      "videoID": 73,
+      "_id": {
+        "$oid": "642fada974df1e0c57f149cc"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-5"
+    },
+    {
+      "videoID": 74,
+      "_id": {
+        "$oid": "642fae3674df1e0c57f149d2"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-6"
+    },
+    {
+      "videoID": 75,
+      "_id": {
+        "$oid": "642fae7d74df1e0c57f149d8"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-7"
+    },
+    {
+      "videoID": 76,
+      "_id": {
+        "$oid": "642faf0874df1e0c57f149de"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-8"
+    },
+    {
+      "videoID": 77,
+      "_id": {
+        "$oid": "642faf4474df1e0c57f149e4"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-9"
+    },
+    {
+      "videoID": 78,
+      "_id": {
+        "$oid": "642faf6774df1e0c57f149ea"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-10"
+    },
+    {
+      "videoID": 79,
+      "_id": {
+        "$oid": "642fafa374df1e0c57f149f0"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-11"
+    },
+    {
+      "videoID": 80,
+      "_id": {
+        "$oid": "642fafc774df1e0c57f149f6"
+      },
+      "slug": "dau-pha-thuong-khung-phan-1-tap-end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-07T05:28:08.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:06:07.683Z"
+  },
+  "slug": "dau-pha-thuong-khung-phan-1",
+  "movieSeasonID": 9,
+  "__v": 0,
+  "movieID": 1
+},
+{
+  "_id": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "content": "Main: Tiêu Viêm  Vợ: Thải Lân (Mỹ Đỗ Toa), Huân Nhi     Hệ thống tu luyện:  Đấu khí (mỗi cấp chia làm 9 tinh): Đấu giả, Đấu sư, Đại đấu sư, Đấu linh, Đấu vương, Đấu hoàng, Đấu tông, Đấu tôn, Đấu thánh, Đấu đế  Đấu kỹ (mỗi giai chia làm sơ, trung, cao cấp): Hoàng giai, Huyền Giai, Địa Giai, Thiên Giai  Tinh thần lực: Thiên cảnh, Đế cảnh  Luyện dược sư, đan dược: từ nhất phẩm đến cửu phẩm rồi đến Đế Phẩm, Dị Hỏa  Thể chất: Ách Nan Độc Thể, Bích Xà Tam Hoa Đồng  -Dị hỏa bảng (23 loại)  Viêm Đế, Hư Vô Thôn Viêm, Tịnh Liên Yêu Hỏa, Kim Đế Phần Thiên Viêm, Sinh Linh Chi Diễm, Bát Hoang Phá Diệt Diễm, Cửu U Kim Tổ Hỏa, Nghiệp Hỏa Hồng Liên, Tam Thiên Diễm Viêm Hỏa, Cửu U Phong Viêm, Cốt Linh Lãnh Hỏa, Cửu Long Lôi Cương Hỏa, Quy Linh Địa Hỏa, Vẫn Lạc Tâm Viêm, Hải Tâm Diễm, Hỏa Vân Thủy Viêm, Hỏa Sơn Thạch Diễm, Phong Lôi Phẫn Nộ Diễm*, Thanh Liên Địa Tâm Hỏa, Tu La Huyết Diễm*, Tái Sinh Viêm*, Vạn Thú Linh Hỏa, Huyền Hoàng Viêm  Các lửa khác: Hóa Sinh Hỏa, Lưu Ly Liên Tâm Hỏa, Huyết Yêu Diễm Hỏa, Tử Hỏa",
+  "totalChap": 12,
+  "view": 7,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680847150/e2snkdk8z4d6zx0kdauq.jpg",
+  "name": "Đấu Phá Thương Khung Phần 2",
+  "datePub": "2018",
+  "totalRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 81,
+      "_id": {
+        "$oid": "642fb1ba74df1e0c57f14a1c"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-1"
+    },
+    {
+      "videoID": 82,
+      "_id": {
+        "$oid": "642fb1f474df1e0c57f14a22"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-2"
+    },
+    {
+      "videoID": 84,
+      "_id": {
+        "$oid": "64300167bd882a26309f1cbc"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-3"
+    },
+    {
+      "videoID": 85,
+      "_id": {
+        "$oid": "64300190bd882a26309f1cc2"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-4"
+    },
+    {
+      "videoID": 86,
+      "_id": {
+        "$oid": "643001b8bd882a26309f1cc8"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-5"
+    },
+    {
+      "videoID": 87,
+      "_id": {
+        "$oid": "643001dfbd882a26309f1cce"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-6"
+    },
+    {
+      "videoID": 88,
+      "_id": {
+        "$oid": "6430020bbd882a26309f1cd4"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-7"
+    },
+    {
+      "videoID": 89,
+      "_id": {
+        "$oid": "6430022ebd882a26309f1cda"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-8"
+    },
+    {
+      "videoID": 90,
+      "_id": {
+        "$oid": "64300257bd882a26309f1ce0"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-9"
+    },
+    {
+      "videoID": 91,
+      "_id": {
+        "$oid": "6430027cbd882a26309f1ce6"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-10"
+    },
+    {
+      "videoID": 92,
+      "_id": {
+        "$oid": "6430029fbd882a26309f1cec"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-11"
+    },
+    {
+      "videoID": 93,
+      "_id": {
+        "$oid": "643002ddbd882a26309f1cf2"
+      },
+      "slug": "dau-pha-thuong-khung-phan-2-tap-end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-07T05:59:10.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-20T14:08:17.347Z"
+  },
+  "slug": "dau-pha-thuong-khung-phan-2",
+  "movieSeasonID": 10,
+  "__v": 0,
+  "movieID": 1
+},
+{
+  "_id": {
+    "$oid": "642ffdcebd882a26309f1c77"
+  },
+  "content": "Dựa trên giai thoại mỹ nhân Ba Trà & Tư Nhị, Chị Chị Em Em 2 xoay quanh giai đoạn 2 đệ nhất mỹ nhân Ba Trà và Tư Nhị gặp gỡ nhau, từ đó tái hiện cuộc sống hoa lệ nhiều góc khuất tại Sài thành cách đây một thế kỷ...",
+  "totalChap": 1,
+  "view": 23,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680866767/wnlt5x5hapdid573ndbv.jpg",
+  "name": "Chị Chị Em Em 2",
+  "datePub": "2023",
+  "totalRate": 10,
+  "typeMovie": [
+    {
+      "slug": "viet-nam",
+      "_id": {
+        "$oid": "642ffd69bd882a26309f1c6a"
+      }
+    },
+    {
+      "slug": "tinh-cam",
+      "_id": {
+        "$oid": "642ffd73bd882a26309f1c6f"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 83,
+      "_id": {
+        "$oid": "642ffe1abd882a26309f1c7f"
+      },
+      "slug": "chi-chi-em-em-2-tap-full-tieng-viet"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-07T11:26:06.652Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T12:22:00.736Z"
+  },
+  "slug": "chi-chi-em-em-2",
+  "movieSeasonID": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643010459a6d0cdb83db613e"
+  },
+  "content": "Avatar 2 Dòng Chảy Của Nước – The Way of Water (2022) Full HD Vietsub, lấy bối cảnh 10 năm sau những sự kiện xảy ra ở phần đầu tiên. Lúc này, bộ tộc người Na’vi trên hành tình Pandora sẽ phải tiếp tục cuộc chiến với loài người để bảo vệ sự bình yên và tự do của mình. Gia đình mới của Jake Sully (Sam Worthington thủ vai) cũng sẽ vướng vào những rắc rối và bi kịch khi phe loài người xâm lược hành tinh Pandora.",
+  "totalChap": 1,
+  "view": 13,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871494/v3baghl3d9js7dkgatpq.jpg",
+  "name": "Avatar 2 Dòng Chảy Của Nước",
+  "datePub": "2023",
+  "totalRate": 0,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 104,
+      "_id": {
+        "$oid": "64311302b6c4ab2edcc2d409"
+      },
+      "slug": "avatar-2-dong-chay-cua-nuoc-phim-moi-2023"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-07T12:44:53.704Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:14:28.516Z"
+  },
+  "slug": "avatar-2-dong-chay-cua-nuoc",
+  "movieSeasonID": 12,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-08T07:08:51.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "content": "Trường Nguyệt Tẫn Minh có nội dung tam giới dưới sự thống trị tàn bạo của ma thần Đạm Đài Tẫn, chúng linh lầm than. Để cứu lấy chúng sinh, Lê Tô Tô – con gái của Hành Dương tông chưởng môn, đã quyết định thực hiện một nhiệm vụ vô cùng nguy hiểm, quay trở lại thời điểm 500 năm trước ngăn cản Đạm Đài Tẫn trước khi hắn bị tà cốt trong người xâm chiếm hoàn toàn trở thành ma thần. Tại đây, Lê Tô Tô hoá thân thành Diệp gia tiểu thư – Diệp Tịch Vụ. Không ngờ số phận trêu đùa, Đạm Đài Tẫn lại chính là trượng phu trên danh nghĩa của Diệp Tịch Vụ, sau nhiều biến cố, hai người dần dần nảy sinh tình cảm. Sau cùng, Lê Tô Tô đã lấy thân chứng đạo, thay đổi cục diện vận mệnh của Đạm Đài Tẫn và cả tam giới.  Sau khi mất đi người mình yêu, Đạm Đại Tẫn điên cuồng tìm kiếm nguyên thần của Lê Tô Tô tại U Minh Xuyên suốt 500 năm. Thời điểm tưởng chừng ma thần cứ vậy mà tuẫn táng, Đạm Đài Tẫn lại được Triệu Du – chưởng môn Tiêu Dao tông cứu vớt. Từ đó, Đạm Đài Tẫn trở thành đệ tử tiên môn, hắn sửa đổi tính tình tu tâm hướng thiện, lại càng chấp niệm tìm lại Lê Tô Tô năm xưa. Ngay tại thời điểm khi hai con người hai số phận nghiệt ngã gương vỡ lại lành tìm được nhau, việc thân thế là Ma thai của Đạm Đài Tẫn vẫn là khiến hắn rước về nhiều sự chỉ trích, tam giới lại một lần nữa rơi vào hiểm nguy. Đối mặt với số phận tàn khốc, Đạm Đài Tẫn tế thân thiết lập lại cục diện. Hai người yêu nhau trải qua trùng trùng điệp điệp hiểu lầm chồng chất, cuối cùng tâm ý tương thông, một người dùng thần tuỷ trảm ma nghiệp, một người dùng tà cốt nhập thần đạo, xoay chuyển càn khôn ngăn cản diệt thế.",
+  "totalChap": 40,
+  "view": 100,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942207/jqvcesafkalz6u2lgs2e.jpg",
+  "name": "Trường Nguyệt Tẫn Minh",
+  "datePub": "2023",
+  "totalRate": 10,
+  "numberRate": 2,
+  "typeMovie": [
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    },
+    {
+      "slug": "tinh-cam",
+      "_id": {
+        "$oid": "642ffd73bd882a26309f1c6f"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 108,
+      "_id": {
+        "$oid": "643124b5b6c4ab2edcc2d47a"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-1"
+    },
+    {
+      "videoID": 109,
+      "_id": {
+        "$oid": "643124ebb6c4ab2edcc2d480"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-2"
+    },
+    {
+      "videoID": 110,
+      "_id": {
+        "$oid": "64312510b6c4ab2edcc2d486"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-3"
+    },
+    {
+      "videoID": 111,
+      "_id": {
+        "$oid": "64312566b6c4ab2edcc2d48c"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-4"
+    },
+    {
+      "videoID": 112,
+      "_id": {
+        "$oid": "64312594b6c4ab2edcc2d492"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-5"
+    },
+    {
+      "videoID": 113,
+      "_id": {
+        "$oid": "643125ebb6c4ab2edcc2d498"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-6"
+    },
+    {
+      "videoID": 114,
+      "_id": {
+        "$oid": "6431260eb6c4ab2edcc2d49e"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-7"
+    },
+    {
+      "videoID": 115,
+      "_id": {
+        "$oid": "64312637b6c4ab2edcc2d4a4"
+      },
+      "slug": "truong-nguyet-tan-minh-tap-8"
+    },
+    {
+      "videoID": 140,
+      "_id": {
+        "$oid": "64324a8771dc93f77ce85128"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-9"
+    },
+    {
+      "videoID": 141,
+      "_id": {
+        "$oid": "64324ab871dc93f77ce8512e"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-10"
+    },
+    {
+      "videoID": 243,
+      "_id": {
+        "$oid": "6432e77e00210bebafc7c2f9"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-11"
+    },
+    {
+      "videoID": 244,
+      "_id": {
+        "$oid": "6432e7c300210bebafc7c2ff"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-12"
+    },
+    {
+      "videoID": 273,
+      "_id": {
+        "$oid": "6434e19719dfa8332c331cbc"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-13"
+    },
+    {
+      "videoID": 274,
+      "_id": {
+        "$oid": "6434e1e319dfa8332c331cc2"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-14"
+    },
+    {
+      "videoID": 277,
+      "_id": {
+        "$oid": "64356f4ea41435d0b9ce83a9"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-15"
+    },
+    {
+      "videoID": 278,
+      "_id": {
+        "$oid": "64356f70a41435d0b9ce83af"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-16"
+    },
+    {
+      "videoID": 326,
+      "_id": {
+        "$oid": "643687aba41435d0b9ce8e7a"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-17"
+    },
+    {
+      "videoID": 336,
+      "_id": {
+        "$oid": "6437e336a41435d0b9ce94f5"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-18"
+    },
+    {
+      "videoID": 388,
+      "_id": {
+        "$oid": "643cedb468e6d0d569fa48f9"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-19"
+    },
+    {
+      "videoID": 409,
+      "_id": {
+        "$oid": "643f91ee68e6d0d569fa4bb9"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-20"
+    },
+    {
+      "videoID": 410,
+      "_id": {
+        "$oid": "643f921268e6d0d569fa4bbf"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-21"
+    },
+    {
+      "videoID": 411,
+      "_id": {
+        "$oid": "643f923b68e6d0d569fa4bc5"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-22"
+    },
+    {
+      "videoID": 425,
+      "_id": {
+        "$oid": "6441584568e6d0d569fa4e45"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-23"
+    },
+    {
+      "videoID": 426,
+      "_id": {
+        "$oid": "6441fa8d68e6d0d569fa4e63"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-24"
+    },
+    {
+      "videoID": 441,
+      "_id": {
+        "$oid": "6447d64b68e6d0d569fa5515"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-25"
+    },
+    {
+      "videoID": 442,
+      "_id": {
+        "$oid": "6447d67468e6d0d569fa551b"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-26"
+    },
+    {
+      "videoID": 443,
+      "_id": {
+        "$oid": "6447d6a668e6d0d569fa5521"
+      },
+      "slug": "truong-nguyet-tan-minh-2023-tap-27"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-08T08:23:26.814Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T09:53:26.057Z"
+  },
+  "slug": "truong-nguyet-tan-minh",
+  "movieSeasonID": 13,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-25T13:33:27.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "content": "Three millennia after a mysterious phenomenon turns every person on Earth into stone, two best friends, a science genius and a passionate strongman, discover a way to reverse the effects and fight a rival clan of survivors to rebuild civilization.",
+  "totalChap": 24,
+  "view": 8,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967144/ielmoqgewpv6yjoy2ywe.jpg",
+  "name": "Dr. Stone Season 1",
+  "datePub": "2019",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 116,
+      "_id": {
+        "$oid": "64318631c26f646eb5193ff2"
+      },
+      "slug": "dr-stone-ep-01"
+    },
+    {
+      "videoID": 117,
+      "_id": {
+        "$oid": "643186a8c26f646eb5193ff8"
+      },
+      "slug": "dr-stone-ep-02"
+    },
+    {
+      "videoID": 118,
+      "_id": {
+        "$oid": "643186e2c26f646eb5193ffe"
+      },
+      "slug": "dr-stone-ep-03"
+    },
+    {
+      "videoID": 119,
+      "_id": {
+        "$oid": "64318710c26f646eb5194004"
+      },
+      "slug": "dr-stone-ep-04"
+    },
+    {
+      "videoID": 120,
+      "_id": {
+        "$oid": "64318786c26f646eb519400a"
+      },
+      "slug": "dr-stone-ep-05"
+    },
+    {
+      "videoID": 121,
+      "_id": {
+        "$oid": "643187ecc26f646eb5194010"
+      },
+      "slug": "dr-stone-ep-06"
+    },
+    {
+      "videoID": 122,
+      "_id": {
+        "$oid": "6431881cc26f646eb5194016"
+      },
+      "slug": "dr-stone-ep-07"
+    },
+    {
+      "videoID": 123,
+      "_id": {
+        "$oid": "64318839c26f646eb519401c"
+      },
+      "slug": "dr-stone-ep-08"
+    },
+    {
+      "videoID": 124,
+      "_id": {
+        "$oid": "6431885ac26f646eb5194022"
+      },
+      "slug": "dr-stone-ep-09"
+    },
+    {
+      "videoID": 125,
+      "_id": {
+        "$oid": "6431889ac26f646eb5194028"
+      },
+      "slug": "dr-stone-ep-10"
+    },
+    {
+      "videoID": 126,
+      "_id": {
+        "$oid": "643188f6c26f646eb519402e"
+      },
+      "slug": "dr-stone-ep-11"
+    },
+    {
+      "videoID": 127,
+      "_id": {
+        "$oid": "64318915c26f646eb5194034"
+      },
+      "slug": "dr-stone-ep-12"
+    },
+    {
+      "videoID": 128,
+      "_id": {
+        "$oid": "64318944c26f646eb519403a"
+      },
+      "slug": "dr-stone-ep-13"
+    },
+    {
+      "videoID": 129,
+      "_id": {
+        "$oid": "64318981c26f646eb5194040"
+      },
+      "slug": "dr-stone-ep-14"
+    },
+    {
+      "videoID": 130,
+      "_id": {
+        "$oid": "643189b8c26f646eb5194046"
+      },
+      "slug": "dr-stone-ep-15"
+    },
+    {
+      "videoID": 131,
+      "_id": {
+        "$oid": "643189e3c26f646eb519404c"
+      },
+      "slug": "dr-stone-ep-16"
+    },
+    {
+      "videoID": 132,
+      "_id": {
+        "$oid": "64318a01c26f646eb5194052"
+      },
+      "slug": "dr-stone-ep-17"
+    },
+    {
+      "videoID": 133,
+      "_id": {
+        "$oid": "64318a4ac26f646eb5194058"
+      },
+      "slug": "dr-stone-ep-18"
+    },
+    {
+      "videoID": 134,
+      "_id": {
+        "$oid": "64318a68c26f646eb519405e"
+      },
+      "slug": "dr-stone-ep-19"
+    },
+    {
+      "videoID": 135,
+      "_id": {
+        "$oid": "64318a8cc26f646eb5194064"
+      },
+      "slug": "dr-stone-ep-20"
+    },
+    {
+      "videoID": 136,
+      "_id": {
+        "$oid": "64318ac2c26f646eb519406a"
+      },
+      "slug": "dr-stone-ep-21"
+    },
+    {
+      "videoID": 137,
+      "_id": {
+        "$oid": "64318ae3c26f646eb5194070"
+      },
+      "slug": "dr-stone-ep-22"
+    },
+    {
+      "videoID": 138,
+      "_id": {
+        "$oid": "64318b0bc26f646eb5194076"
+      },
+      "slug": "dr-stone-ep-23"
+    },
+    {
+      "videoID": 139,
+      "_id": {
+        "$oid": "64318b2bc26f646eb519407c"
+      },
+      "slug": "dr-stone-ep-24_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-08T15:19:04.600Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T14:38:40.407Z"
+  },
+  "slug": "dr-stone-season-1",
+  "movieSeasonID": 14,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-08T15:41:32.000Z"
+  },
+  "movieID": 5
+},
+{
+  "_id": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "content": "Đã từng có một người đàn ông được triệu hồi đến một thế giới khác và đã cứu nó. Tất nhiên, anh ấy trở nên quá nổi tiếng ở đó và trở thành một isekai-normie. Tuy nhiên, người đàn ông đó đã rơi vào một cái bẫy và bị buộc phải quay trở lại thế giới ban đầu của mình. Hơn nữa, anh phải bắt đầu lại từ khi còn bé! Đây là câu chuyện về một cựu anh hùng quá tuyệt vời sống như một học sinh trung học ảm đạm, khi anh ta một lần nữa được triệu tập đến cùng một thế giới khác trong một diễn biến rất bất ngờ! ",
+  "totalChap": 0,
+  "view": 23,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681017844/bmoemczhqhyfupa4u9hq.jpg",
+  "name": "ISEKAI SHOUKAN WA NIDOME DESU",
+  "datePub": "2023",
+  "totalRate": 10,
+  "numberRate": 3,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "chuyen-sinh",
+      "_id": {
+        "$oid": "64324b8071dc93f77ce8513b"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 142,
+      "_id": {
+        "$oid": "64324c3c71dc93f77ce8514b"
+      },
+      "slug": "isekai-shoukan-wa-nidome-desu-ep-01"
+    },
+    {
+      "videoID": 386,
+      "_id": {
+        "$oid": "643b8631a41435d0b9ce9bc5"
+      },
+      "slug": "isekai-shoukan-wa-nidome-desu-ep-02"
+    },
+    {
+      "videoID": 440,
+      "_id": {
+        "$oid": "6447c4df68e6d0d569fa550c"
+      },
+      "slug": "isekai-shoukan-wa-nidome-desu-ep-03"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T05:24:04.811Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T03:40:35.344Z"
+  },
+  "slug": "isekai-shoukan-wa-nidome-desu",
+  "movieSeasonID": 15,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-25T12:17:36.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64324ce471dc93f77ce85154"
+  },
+  "content": "Sau khi có được năng lực bá đạo ở dị giới, tôi cũng vô đối ở thế giới thực ~Thăng cấp xong thì cuộc đời cũng thay đổi~",
+  "totalChap": 0,
+  "view": 26,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681018084/jjf64d6uedpkjoqle4pw.jpg",
+  "name": "ISEKAI DE CHEAT SKILL WO TE NI SHITA ORE WA, GENJITSU SEKAI WO MO MUSOU SURU: LEVEL UP WA JINSEI WO KAETA",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "chuyen-sinh",
+      "_id": {
+        "$oid": "64324b8071dc93f77ce8513b"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 143,
+      "_id": {
+        "$oid": "64324d4071dc93f77ce8515c"
+      },
+      "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ep-01"
+    },
+    {
+      "videoID": 276,
+      "_id": {
+        "$oid": "6434e5eb19dfa8332c331d15"
+      },
+      "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ep-02"
+    },
+    {
+      "videoID": 403,
+      "_id": {
+        "$oid": "643df56368e6d0d569fa4a33"
+      },
+      "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ep-03"
+    },
+    {
+      "videoID": 439,
+      "_id": {
+        "$oid": "6447826368e6d0d569fa5486"
+      },
+      "slug": "tap-04-isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T05:28:04.477Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T22:10:48.192Z"
+  },
+  "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta",
+  "movieSeasonID": 16,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-25T07:33:56.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "content": "Taiju, a high school student, has decided to confess to his classmate with whom he had been in love for many years. On that day, a strange light shone. In an instant, humans were turned into stones all over the world! Only thinking about the unfulfilled wish and keeping his heart awake, Taiju spent thousands of years like this. Finally, he was de-petrified and what surprised him was that there was a line of words in front of him, asking him to follow the line. Taiju found his destination and saw his classmate Senku who woke up half a year earlier, so he decided to follow Senku. With empty hands, the civilization of mankind is recreated again.",
+  "totalChap": 11,
+  "view": 19,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681019396/ug72bvtyqlrrexwjbjhx.jpg",
+  "name": "Dr Stone 2 - Stone Wars",
+  "datePub": "2021",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "comedy",
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 144,
+      "_id": {
+        "$oid": "6432554471dc93f77ce851fa"
+      },
+      "slug": "dr-stone-stone-wars-ep-01"
+    },
+    {
+      "videoID": 145,
+      "_id": {
+        "$oid": "6432556e71dc93f77ce85200"
+      },
+      "slug": "dr-stone-stone-wars-ep-02"
+    },
+    {
+      "videoID": 146,
+      "_id": {
+        "$oid": "6432559571dc93f77ce85206"
+      },
+      "slug": "dr-stone-stone-wars-ep-03"
+    },
+    {
+      "videoID": 147,
+      "_id": {
+        "$oid": "643255b771dc93f77ce8520c"
+      },
+      "slug": "dr-stone-stone-wars-ep-04"
+    },
+    {
+      "videoID": 148,
+      "_id": {
+        "$oid": "643255da71dc93f77ce85212"
+      },
+      "slug": "dr-stone-stone-wars-ep-05"
+    },
+    {
+      "videoID": 149,
+      "_id": {
+        "$oid": "643255f871dc93f77ce85218"
+      },
+      "slug": "dr-stone-stone-wars-ep-06"
+    },
+    {
+      "videoID": 150,
+      "_id": {
+        "$oid": "6432560e71dc93f77ce8521e"
+      },
+      "slug": "dr-stone-stone-wars-ep-07"
+    },
+    {
+      "videoID": 151,
+      "_id": {
+        "$oid": "6432563471dc93f77ce85224"
+      },
+      "slug": "dr-stone-stone-wars-ep-08"
+    },
+    {
+      "videoID": 152,
+      "_id": {
+        "$oid": "6432564f71dc93f77ce8522a"
+      },
+      "slug": "dr-stone-stone-wars-ep-09"
+    },
+    {
+      "videoID": 153,
+      "_id": {
+        "$oid": "6432566f71dc93f77ce85230"
+      },
+      "slug": "dr-stone-stone-wars-ep-10"
+    },
+    {
+      "videoID": 154,
+      "_id": {
+        "$oid": "6432568e71dc93f77ce85236"
+      },
+      "slug": "dr-stone-stone-wars-ep-11_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T05:49:56.960Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T12:35:09.446Z"
+  },
+  "slug": "dr-stone-2-stone-wars",
+  "movieSeasonID": 17,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-09T06:09:19.000Z"
+  },
+  "movieID": 5
+},
+{
+  "_id": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "content": "Main: Tiêu Viêm\n\nVợ: Thải Lân (Mỹ Đỗ Toa), Huân Nhi\n\n \n\nHệ thống tu luyện:\n\nĐấu khí (mỗi cấp chia làm 9 tinh): Đấu giả, Đấu sư, Đại đấu sư, Đấu linh, Đấu vương, Đấu hoàng, Đấu tông, Đấu tôn, Đấu thánh, Đấu đế\n\nĐấu kỹ (mỗi giai chia làm sơ, trung, cao cấp): Hoàng giai, Huyền Giai, Địa Giai, Thiên Giai\n\nTinh thần lực: Thiên cảnh, Đế cảnh\n\nLuyện dược sư, đan dược: từ nhất phẩm đến cửu phẩm rồi đến Đế Phẩm, Dị Hỏa\n\nThể chất: Ách Nan Độc Thể, Bích Xà Tam Hoa Đồng\n\n-Dị hỏa bảng (23 loại)\n\nViêm Đế, Hư Vô Thôn Viêm, Tịnh Liên Yêu Hỏa, Kim Đế Phần Thiên Viêm, Sinh Linh Chi Diễm, Bát Hoang Phá Diệt Diễm, Cửu U Kim Tổ Hỏa, Nghiệp Hỏa Hồng Liên, Tam Thiên Diễm Viêm Hỏa, Cửu U Phong Viêm, Cốt Linh Lãnh Hỏa, Cửu Long Lôi Cương Hỏa, Quy Linh Địa Hỏa, Vẫn Lạc Tâm Viêm, Hải Tâm Diễm, Hỏa Vân Thủy Viêm, Hỏa Sơn Thạch Diễm, Phong Lôi Phẫn Nộ Diễm*, Thanh Liên Địa Tâm Hỏa, Tu La Huyết Diễm*, Tái Sinh Viêm*, Vạn Thú Linh Hỏa, Huyền Hoàng Viêm\n\nCác lửa khác: Hóa Sinh Hỏa, Lưu Ly Liên Tâm Hỏa, Huyết Yêu Diễm Hỏa, Tử Hỏa",
+  "totalChap": 12,
+  "view": 2,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681042076/lyltppkhzfior0hxh81f.jpg",
+  "name": "Đấu Phá Thương Khung Phần 3",
+  "datePub": "2019",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 155,
+      "_id": {
+        "$oid": "6432ab2413155bc0c87c92c5"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-1"
+    },
+    {
+      "videoID": 156,
+      "_id": {
+        "$oid": "6432ab4713155bc0c87c92cb"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-2"
+    },
+    {
+      "videoID": 157,
+      "_id": {
+        "$oid": "6432ab8c13155bc0c87c92d1"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-3"
+    },
+    {
+      "videoID": 158,
+      "_id": {
+        "$oid": "6432b19d13155bc0c87c92ef"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-4"
+    },
+    {
+      "videoID": 159,
+      "_id": {
+        "$oid": "6432b1c813155bc0c87c92f5"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-5"
+    },
+    {
+      "videoID": 160,
+      "_id": {
+        "$oid": "6432b22c13155bc0c87c92fb"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-6"
+    },
+    {
+      "videoID": 161,
+      "_id": {
+        "$oid": "6432b25b13155bc0c87c9301"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-7"
+    },
+    {
+      "videoID": 162,
+      "_id": {
+        "$oid": "6432b28913155bc0c87c9307"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-8"
+    },
+    {
+      "videoID": 163,
+      "_id": {
+        "$oid": "6432b2b613155bc0c87c930d"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-9"
+    },
+    {
+      "videoID": 164,
+      "_id": {
+        "$oid": "6432b2f513155bc0c87c9313"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-10"
+    },
+    {
+      "videoID": 165,
+      "_id": {
+        "$oid": "6432b34e13155bc0c87c9319"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-11"
+    },
+    {
+      "videoID": 166,
+      "_id": {
+        "$oid": "6432b38313155bc0c87c931f"
+      },
+      "slug": "dau-pha-thuong-khung-phan-3-tap-12"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T12:07:57.193Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-15T16:11:23.723Z"
+  },
+  "slug": "dau-pha-thuong-khung-phan-3",
+  "movieSeasonID": 18,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-09T12:45:56.000Z"
+  },
+  "movieID": 1
+},
+{
+  "_id": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "content": "Ba năm trước, Thiếu tông chủ Vân Lam Tông Nạp Lan Yên Nhiên tự ý hủy hôn. Tiêu Viêm - người chịu sự sỉ nhục đó đã lập Ước Hẹn Ba Năm với Nạp Lan Yên Nhiên. Vì ước hẹn này, Tiêu Viêm tu luyện không ngừng nghỉ. Rèn luyện từ sơn mạch Ma Thú đến sa mạc Tháp Qua Nhĩ, từ luyện đan đến chịu sự đau đớn khi nuốt dị hỏa, đều là vì để chứng minh câu nói đó: Ba Mươi Năm Hà Đông, Ba Mươi Năm Hà Tây, Mạc Khi Thiếu Niên Cùng ( Sông có khúc, người có lúc; Đừng khinh thiếu niên quá đáng) Giờ đây, đàn ông Tiêu gia lấy khó khăn để vươn lên, mãi không lùi bước. Sự trưởng thành của Tiêu Viêm vẫn đang tiếp tục....",
+  "totalChap": 13,
+  "view": 3,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044778/nlv6squchsv0rvtehjgk.jpg",
+  "name": "Đấu Phá Thương Khung: Ước Hẹn Ba Năm",
+  "datePub": "2021",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 167,
+      "_id": {
+        "$oid": "6432b59613155bc0c87c9336"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-1"
+    },
+    {
+      "videoID": 168,
+      "_id": {
+        "$oid": "6432b5bd13155bc0c87c933c"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-2"
+    },
+    {
+      "videoID": 169,
+      "_id": {
+        "$oid": "6432b5ef13155bc0c87c9342"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-3"
+    },
+    {
+      "videoID": 170,
+      "_id": {
+        "$oid": "6432b61513155bc0c87c9348"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-4"
+    },
+    {
+      "videoID": 171,
+      "_id": {
+        "$oid": "6432b65013155bc0c87c934e"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-5"
+    },
+    {
+      "videoID": 172,
+      "_id": {
+        "$oid": "6432b69113155bc0c87c9354"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-6"
+    },
+    {
+      "videoID": 173,
+      "_id": {
+        "$oid": "6432b6c013155bc0c87c935a"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-7"
+    },
+    {
+      "videoID": 174,
+      "_id": {
+        "$oid": "6432b6f013155bc0c87c9360"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-8"
+    },
+    {
+      "videoID": 175,
+      "_id": {
+        "$oid": "6432b78d13155bc0c87c9366"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-9"
+    },
+    {
+      "videoID": 176,
+      "_id": {
+        "$oid": "6432b7be13155bc0c87c936c"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-10"
+    },
+    {
+      "videoID": 177,
+      "_id": {
+        "$oid": "6432b7e913155bc0c87c9372"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-11"
+    },
+    {
+      "videoID": 178,
+      "_id": {
+        "$oid": "6432b86013155bc0c87c9378"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-12"
+    },
+    {
+      "videoID": 179,
+      "_id": {
+        "$oid": "6432b8d713155bc0c87c937e"
+      },
+      "slug": "dau-pha-thuong-khung-ova-3-tap-13"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T12:52:59.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T11:46:48.095Z"
+  },
+  "slug": "dau-pha-thuong-khung-uoc-hen-ba-nam",
+  "movieSeasonID": 19,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-09T13:08:40.000Z"
+  },
+  "movieID": 1
+},
+{
+  "_id": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "content": "Tiêu Viêm vì muốn đánh thức dược lão, đến Đế Đô tham gia đại hội luyện dược sư, nhưng cũng vì thực lực quá nổi bật mà bị kẻ thù ám toán, trong thời khắc nguy cấp, Tiêu Viêm điên cuồng nỗ lực đạt được quán quân, bảo vệ tôn nghiêm của đế quốc Gia Mã, Sau khi gỡ bỏ gánh nặng trong lòng, cũng là lúc nghênh tiếp hẹn ước ba năm sắp tới\n\n \n\nMain: Tiêu Viêm\n\nVợ: Tiêu Huân Nhi, Thải Lân\n\n \n\nHệ thống tu luyện\n\nĐấu khí (mỗi cấp chia làm 9 tinh): Đấu giả, Đấu sư, Đại đấu sư, Đấu linh, Đấu vương, Đấu hoàng, Đấu tông, Đấu tôn, Đấu thánh, Đấu đế\n\nĐấu kỹ (mỗi giai chia làm sơ, trung, cao cấp): Hoàng giai, Huyền Giai, Địa Giai, Thiên Giai\n\nTinh thần lực: Thiên cảnh, Đế cảnh\n\nLuyện dược sư, đan dược: từ nhất phẩm đến cửu phẩm rồi đến Đế Phẩm, Dị Hỏa\n\nThể chất: Ách Nan Độc Thể, Bích Xà Tam Hoa Đồng\n\n-Dị hỏa bảng (23 loại)\n\nViêm Đế, Hư Vô Thôn Viêm, Tịnh Liên Yêu Hỏa, Kim Đế Phần Thiên Viêm, Sinh Linh Chi Diễm, Bát Hoang Phá Diệt Diễm, Cửu U Kim Tổ Hỏa, Nghiệp Hỏa Hồng Liên, Tam Thiên Diễm Viêm Hỏa, Cửu U Phong Viêm, Cốt Linh Lãnh Hỏa, Cửu Long Lôi Cương Hỏa, Quy Linh Địa Hỏa, Vẫn Lạc Tâm Viêm, Hải Tâm Diễm, Hỏa Vân Thủy Viêm, Hỏa Sơn Thạch Diễm, Phong Lôi Phẫn Nộ Diễm*, Thanh Liên Địa Tâm Hỏa, Tu La Huyết Diễm*, Tái Sinh Viêm*, Vạn Thú Linh Hỏa, Huyền Hoàng Viêm\n\nCác lửa khác: Hóa Sinh Hỏa, Lưu Ly Liên Tâm Hỏa, Huyết Yêu Diễm Hỏa, Tử Hỏa",
+  "totalChap": 24,
+  "view": 2,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681051914/qc4lfz2zjvomt9esyima.jpg",
+  "name": "Đấu Phá Thương Khung Phần 4",
+  "datePub": "2022",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 180,
+      "_id": {
+        "$oid": "6432d20713155bc0c87c939e"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-1"
+    },
+    {
+      "videoID": 181,
+      "_id": {
+        "$oid": "6432d25313155bc0c87c93a4"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-2"
+    },
+    {
+      "videoID": 182,
+      "_id": {
+        "$oid": "6432d28513155bc0c87c93aa"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-3"
+    },
+    {
+      "videoID": 183,
+      "_id": {
+        "$oid": "6432d2bb13155bc0c87c93b0"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-4"
+    },
+    {
+      "videoID": 184,
+      "_id": {
+        "$oid": "6432d30a13155bc0c87c93b6"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-5"
+    },
+    {
+      "videoID": 185,
+      "_id": {
+        "$oid": "6432d32b13155bc0c87c93bc"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-6"
+    },
+    {
+      "videoID": 186,
+      "_id": {
+        "$oid": "6432d36313155bc0c87c93c2"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-7"
+    },
+    {
+      "videoID": 187,
+      "_id": {
+        "$oid": "6432d39513155bc0c87c93c8"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-8"
+    },
+    {
+      "videoID": 188,
+      "_id": {
+        "$oid": "6432d3e413155bc0c87c93ce"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-9"
+    },
+    {
+      "videoID": 189,
+      "_id": {
+        "$oid": "6432d44513155bc0c87c93d4"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-10"
+    },
+    {
+      "videoID": 204,
+      "_id": {
+        "$oid": "6432db8f13155bc0c87c943c"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-11"
+    },
+    {
+      "videoID": 205,
+      "_id": {
+        "$oid": "6432dc2413155bc0c87c9442"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-12"
+    },
+    {
+      "videoID": 206,
+      "_id": {
+        "$oid": "6432dc5d13155bc0c87c9448"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-13"
+    },
+    {
+      "videoID": 207,
+      "_id": {
+        "$oid": "6432dc8d13155bc0c87c944e"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-14"
+    },
+    {
+      "videoID": 208,
+      "_id": {
+        "$oid": "6432dccb13155bc0c87c9454"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-15"
+    },
+    {
+      "videoID": 209,
+      "_id": {
+        "$oid": "6432dd9013155bc0c87c945a"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-16"
+    },
+    {
+      "videoID": 210,
+      "_id": {
+        "$oid": "6432ddbb13155bc0c87c9460"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-17"
+    },
+    {
+      "videoID": 211,
+      "_id": {
+        "$oid": "6432ddfa13155bc0c87c9466"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-18"
+    },
+    {
+      "videoID": 212,
+      "_id": {
+        "$oid": "6432de7013155bc0c87c946c"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-19"
+    },
+    {
+      "videoID": 213,
+      "_id": {
+        "$oid": "6432ded013155bc0c87c9472"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-20"
+    },
+    {
+      "videoID": 214,
+      "_id": {
+        "$oid": "6432df0513155bc0c87c9478"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-21"
+    },
+    {
+      "videoID": 215,
+      "_id": {
+        "$oid": "6432df4613155bc0c87c947e"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-22"
+    },
+    {
+      "videoID": 216,
+      "_id": {
+        "$oid": "6432df7713155bc0c87c9484"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-23"
+    },
+    {
+      "videoID": 217,
+      "_id": {
+        "$oid": "6432dfaa13155bc0c87c948a"
+      },
+      "slug": "dau-pha-thuong-khung-phan-4-tap-24"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T14:51:55.300Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-16T12:24:32.787Z"
+  },
+  "slug": "dau-pha-thuong-khung-phan-4",
+  "movieSeasonID": 20,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-09T15:54:18.000Z"
+  },
+  "movieID": 1
+},
+{
+  "_id": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "content": "Main: Tiêu Viêm\n\nVợ: Thải Lân (Mỹ Đỗ Toa), Huân Nhi\n\n \n\nHệ thống tu luyện:\n\nĐấu khí (mỗi cấp chia làm 9 tinh): Đấu giả, Đấu sư, Đại đấu sư, Đấu linh, Đấu vương, Đấu hoàng, Đấu tông, Đấu tôn, Đấu thánh, Đấu đế\n\nĐấu kỹ (mỗi giai chia làm sơ, trung, cao cấp): Hoàng giai, Huyền Giai, Địa Giai, Thiên Giai\n\nTinh thần lực: Thiên cảnh, Đế cảnh\n\nLuyện dược sư, đan dược: từ nhất phẩm đến cửu phẩm rồi đến Đế Phẩm, Dị Hỏa\n\nThể chất: Ách Nan Độc Thể, Bích Xà Tam Hoa Đồng\n\n-Dị hỏa bảng (23 loại)\n\nViêm Đế, Hư Vô Thôn Viêm, Tịnh Liên Yêu Hỏa, Kim Đế Phần Thiên Viêm, Sinh Linh Chi Diễm, Bát Hoang Phá Diệt Diễm, Cửu U Kim Tổ Hỏa, Nghiệp Hỏa Hồng Liên, Tam Thiên Diễm Viêm Hỏa, Cửu U Phong Viêm, Cốt Linh Lãnh Hỏa, Cửu Long Lôi Cương Hỏa, Quy Linh Địa Hỏa, Vẫn Lạc Tâm Viêm, Hải Tâm Diễm, Hỏa Vân Thủy Viêm, Hỏa Sơn Thạch Diễm, Phong Lôi Phẫn Nộ Diễm*, Thanh Liên Địa Tâm Hỏa, Tu La Huyết Diễm*, Tái Sinh Viêm*, Vạn Thú Linh Hỏa, Huyền Hoàng Viêm\n\nCác lửa khác: Hóa Sinh Hỏa, Lưu Ly Liên Tâm Hỏa, Huyết Yêu Diễm Hỏa, Tử Hỏa",
+  "totalChap": 52,
+  "view": 36,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053409/perenbhybpdu69k2s3t8.jpg",
+  "name": "Đấu Phá Thương Khung Phần 5",
+  "datePub": "2022",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 190,
+      "_id": {
+        "$oid": "6432d71d13155bc0c87c93e5"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-tap-1"
+    },
+    {
+      "videoID": 191,
+      "_id": {
+        "$oid": "6432d74f13155bc0c87c93eb"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-tap-2"
+    },
+    {
+      "videoID": 192,
+      "_id": {
+        "$oid": "6432d7a813155bc0c87c93f1"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-03"
+    },
+    {
+      "videoID": 193,
+      "_id": {
+        "$oid": "6432d7e113155bc0c87c93f7"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-04"
+    },
+    {
+      "videoID": 194,
+      "_id": {
+        "$oid": "6432d83713155bc0c87c93fd"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-05"
+    },
+    {
+      "videoID": 195,
+      "_id": {
+        "$oid": "6432d87913155bc0c87c9403"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-06"
+    },
+    {
+      "videoID": 196,
+      "_id": {
+        "$oid": "6432d8b113155bc0c87c9409"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-07"
+    },
+    {
+      "videoID": 197,
+      "_id": {
+        "$oid": "6432d8e513155bc0c87c940f"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-08"
+    },
+    {
+      "videoID": 198,
+      "_id": {
+        "$oid": "6432d92a13155bc0c87c9415"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-09"
+    },
+    {
+      "videoID": 199,
+      "_id": {
+        "$oid": "6432d95a13155bc0c87c941b"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-10"
+    },
+    {
+      "videoID": 200,
+      "_id": {
+        "$oid": "6432d9da13155bc0c87c9421"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-11"
+    },
+    {
+      "videoID": 201,
+      "_id": {
+        "$oid": "6432da0813155bc0c87c9427"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-12"
+    },
+    {
+      "videoID": 202,
+      "_id": {
+        "$oid": "6432da8313155bc0c87c942d"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-13"
+    },
+    {
+      "videoID": 203,
+      "_id": {
+        "$oid": "6432dabd13155bc0c87c9433"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-14"
+    },
+    {
+      "videoID": 218,
+      "_id": {
+        "$oid": "6432e02413155bc0c87c949f"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-15"
+    },
+    {
+      "videoID": 219,
+      "_id": {
+        "$oid": "6432e05213155bc0c87c94a5"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-16"
+    },
+    {
+      "videoID": 220,
+      "_id": {
+        "$oid": "6432e08c13155bc0c87c94ab"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-17"
+    },
+    {
+      "videoID": 221,
+      "_id": {
+        "$oid": "6432e0bd13155bc0c87c94b1"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-18"
+    },
+    {
+      "videoID": 222,
+      "_id": {
+        "$oid": "6432e0f213155bc0c87c94b7"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-19"
+    },
+    {
+      "videoID": 223,
+      "_id": {
+        "$oid": "6432e12313155bc0c87c94bd"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-20"
+    },
+    {
+      "videoID": 224,
+      "_id": {
+        "$oid": "6432e19b13155bc0c87c94c3"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-21"
+    },
+    {
+      "videoID": 225,
+      "_id": {
+        "$oid": "6432e21213155bc0c87c94c9"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-22"
+    },
+    {
+      "videoID": 226,
+      "_id": {
+        "$oid": "6432e26f13155bc0c87c94cf"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-23"
+    },
+    {
+      "videoID": 227,
+      "_id": {
+        "$oid": "6432e2a113155bc0c87c94d5"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-24"
+    },
+    {
+      "videoID": 228,
+      "_id": {
+        "$oid": "6432e2c713155bc0c87c94db"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-25"
+    },
+    {
+      "videoID": 229,
+      "_id": {
+        "$oid": "6432e30913155bc0c87c94e1"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-26"
+    },
+    {
+      "videoID": 230,
+      "_id": {
+        "$oid": "6432e33813155bc0c87c94e7"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-27"
+    },
+    {
+      "videoID": 231,
+      "_id": {
+        "$oid": "6432e37913155bc0c87c94ed"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-28"
+    },
+    {
+      "videoID": 232,
+      "_id": {
+        "$oid": "6432e3b313155bc0c87c94f3"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-29"
+    },
+    {
+      "videoID": 233,
+      "_id": {
+        "$oid": "6432e3e313155bc0c87c94f9"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-30"
+    },
+    {
+      "videoID": 234,
+      "_id": {
+        "$oid": "6432e41413155bc0c87c94ff"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-31"
+    },
+    {
+      "videoID": 235,
+      "_id": {
+        "$oid": "6432e48813155bc0c87c9505"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-32"
+    },
+    {
+      "videoID": 236,
+      "_id": {
+        "$oid": "6432e4e013155bc0c87c950b"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-33"
+    },
+    {
+      "videoID": 237,
+      "_id": {
+        "$oid": "6432e50b13155bc0c87c9511"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-34"
+    },
+    {
+      "videoID": 238,
+      "_id": {
+        "$oid": "6432e53113155bc0c87c9517"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-35"
+    },
+    {
+      "videoID": 239,
+      "_id": {
+        "$oid": "6432e55d13155bc0c87c951d"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-36"
+    },
+    {
+      "videoID": 240,
+      "_id": {
+        "$oid": "6432e58913155bc0c87c9523"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-37"
+    },
+    {
+      "videoID": 241,
+      "_id": {
+        "$oid": "6432e5ab13155bc0c87c9529"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-ep-38"
+    },
+    {
+      "videoID": 242,
+      "_id": {
+        "$oid": "6432e5d113155bc0c87c952f"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-tap-39"
+    },
+    {
+      "videoID": 385,
+      "_id": {
+        "$oid": "643b85f7a41435d0b9ce9bb9"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-tap-40"
+    },
+    {
+      "videoID": 433,
+      "_id": {
+        "$oid": "6444bd5e68e6d0d569fa50e2"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-tap-41"
+    },
+    {
+      "videoID": 469,
+      "_id": {
+        "$oid": "644e23b068e6d0d569fa5845"
+      },
+      "slug": "tap-42-dau-pha-thuong-khung-phan-5"
+    },
+    {
+      "videoID": 472,
+      "_id": {
+        "$oid": "645a6da568e6d0d569fa5bb1"
+      },
+      "slug": "tap-42-dau-pha-thuong-khung-phan-5"
+    },
+    {
+      "videoID": 473,
+      "_id": {
+        "$oid": "645a72b568e6d0d569fa5bb7"
+      },
+      "slug": "dau-pha-thuong-khung-phan-5-tap-43"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-09T15:16:49.662Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T13:09:21.682Z"
+  },
+  "slug": "dau-pha-thuong-khung-phan-5",
+  "movieSeasonID": 21,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-05-09T16:20:06.000Z"
+  },
+  "movieID": 1
+},
+{
+  "_id": {
+    "$oid": "64338d9bf2a747d0ea14a152"
+  },
+  "content": "Phần thứ 3 của Dr. Stone diễn ra sau movie Ryuusui",
+  "totalChap": 0,
+  "view": 21,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681100187/n2ubhzxzalrxwq9fhf7q.jpg",
+  "name": "Dr. Stone: New World",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "adventure",
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 245,
+      "_id": {
+        "$oid": "64338e85f2a747d0ea14a15a"
+      },
+      "slug": "dr-stone-new-world-ep-01"
+    },
+    {
+      "videoID": 337,
+      "_id": {
+        "$oid": "643843fba41435d0b9ce9593"
+      },
+      "slug": "dr-stone-new-world-ep-02"
+    },
+    {
+      "videoID": 429,
+      "_id": {
+        "$oid": "644219c368e6d0d569fa4e96"
+      },
+      "slug": "tap-03-dr-stone-3rd-season"
+    },
+    {
+      "videoID": 468,
+      "_id": {
+        "$oid": "644b613968e6d0d569fa57af"
+      },
+      "slug": "tap-04-dr-stone-3rd-season"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-10T04:16:27.135Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T20:35:01.231Z"
+  },
+  "slug": "dr-stone-new-world",
+  "movieSeasonID": 22,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-28T06:01:30.000Z"
+  },
+  "movieID": 5
+},
+{
+  "_id": {
+    "$oid": "643390a3f2a747d0ea14a195"
+  },
+  "content": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+  "totalChap": 1,
+  "view": 5,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681100964/hxihmezer9xoby93eihw.jpg",
+  "name": "Shazam! Fury of the Gods",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "dc",
+      "_id": {
+        "$oid": "6433906ff2a747d0ea14a18d"
+      }
+    },
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 246,
+      "_id": {
+        "$oid": "64339103f2a747d0ea14a19d"
+      },
+      "slug": "shazam-con-thinh-no-cua-cac-vi-than"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-10T04:29:23.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T11:11:57.627Z"
+  },
+  "slug": "shazam-fury-of-the-gods",
+  "movieSeasonID": 23,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-10T04:31:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "content": "Câu chuyện tập trung vào Gabimaru, từng được tôn vinh là ninja mạnh nhất, nhưng hiện tại đã bỏ nghề, vì phạm luật của làng mình. Sau khi bị bắt, anh tuyên bố rằng mình không còn gì để sống. Tuy nhiên, do trình độ luyện tập siêu phàm của mình, anh đã vô tình sống sót sau nhiều lần bị hành quyết, từ nỗ lực chặt đầu đến chém cổ. Kẻ hành quyết Sagiri Asaemon nói với anh ta rằng anh ta còn gắn bó lâu dài với cuộc sống và giao cho anh một nhiệm vụ để giành được sự tha bổng của mình: tìm ra thuốc trường sinh bất tử.",
+  "totalChap": 13,
+  "view": 36,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681101295/ri8vdbcfllrsc5chchf9.jpg",
+  "name": "Hell's Paradise",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "comedy",
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 247,
+      "_id": {
+        "$oid": "64339228f2a747d0ea14a1ca"
+      },
+      "slug": "tap-01-jigokuraku-dia-nguc-cuc-lac"
+    },
+    {
+      "videoID": 248,
+      "_id": {
+        "$oid": "64339285f2a747d0ea14a1d0"
+      },
+      "slug": "tap-02-jigokuraku-dia-nguc-cuc-lac"
+    },
+    {
+      "videoID": 384,
+      "_id": {
+        "$oid": "643b85b2a41435d0b9ce9bad"
+      },
+      "slug": "jigokuraku-tap-3"
+    },
+    {
+      "videoID": 431,
+      "_id": {
+        "$oid": "64440e1868e6d0d569fa504e"
+      },
+      "slug": "tap-04-jigokuraku"
+    },
+    {
+      "videoID": 470,
+      "_id": {
+        "$oid": "644e257368e6d0d569fa584e"
+      },
+      "slug": "tap-05-jigokuraku-dia-nguc-cuc-lac"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-10T04:34:54.848Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T18:55:02.334Z"
+  },
+  "slug": "hell-s-paradise",
+  "movieSeasonID": 24,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-30T08:23:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "content": "The first season of the American superhero television series The Boys, the first series in the franchise based on the comic book series of the same name written by Garth Ennis and Darick Robertson, was developed for television by American writer and television producer Eric Kripke",
+  "totalChap": 8,
+  "view": 2,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112573/h7dxtkupj3jhphvyhcjm.jpg",
+  "name": "The Boys Season 1",
+  "datePub": "2019",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 249,
+      "_id": {
+        "$oid": "6433be3bf3cc8afc91baf9d1"
+      },
+      "slug": "the-boys-season-1-episode-1-the-name-of-the-game"
+    },
+    {
+      "videoID": 250,
+      "_id": {
+        "$oid": "6433beb6f3cc8afc91baf9d7"
+      },
+      "slug": "the-boys-season-1-episode-2-cherry"
+    },
+    {
+      "videoID": 251,
+      "_id": {
+        "$oid": "6433bef6f3cc8afc91baf9dd"
+      },
+      "slug": "the-boys-season-1-episode-3-get-some"
+    },
+    {
+      "videoID": 252,
+      "_id": {
+        "$oid": "6433bf1ff3cc8afc91baf9e3"
+      },
+      "slug": "the-boys-season-1-episode-4-the-female-of-the-species"
+    },
+    {
+      "videoID": 253,
+      "_id": {
+        "$oid": "6433bf46f3cc8afc91baf9e9"
+      },
+      "slug": "the-boys-season-1-episode-5-good-for-the-soul"
+    },
+    {
+      "videoID": 254,
+      "_id": {
+        "$oid": "6433bf74f3cc8afc91baf9ef"
+      },
+      "slug": "the-boys-season-1-episode-6-the-innocents"
+    },
+    {
+      "videoID": 255,
+      "_id": {
+        "$oid": "6433bf9af3cc8afc91baf9f5"
+      },
+      "slug": "the-boys-season-1-episode-7-the-self-preservation-society"
+    },
+    {
+      "videoID": 256,
+      "_id": {
+        "$oid": "6433bfc2f3cc8afc91baf9fb"
+      },
+      "slug": "the-boys-season-1-episode-8-you-found-me"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-10T07:42:52.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-15T16:08:41.003Z"
+  },
+  "slug": "the-boys-season-1",
+  "movieSeasonID": 25,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-10T07:50:26.000Z"
+  },
+  "movieID": 6
+},
+{
+  "_id": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "content": "Siêu Anh Hùng Phá Hoại (Phần 2) vẫn đưa người xem đi theo hành trình của Butcher và những người bạn để tìm ra những bằng chứng nhằm chống lại nhóm siêu anh hùng The Seven và tập đoàn Vought chống lưng phía sau. Cuộc đối đầu ngày càng căng thẳng hơn khi mà nhiều nhân vật có siêu năng lực vượt trội lần lượt xuất hiện và hai bên đã dần hiểu rõ đối phương hơn. Kết cục của mùa 2 sẽ như thế nào? Xem phim để có câu trả lời các bạn nhé.",
+  "totalChap": 8,
+  "view": 8,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681114074/codcpu6a3svyaflo6pvp.jpg",
+  "name": "The Boys Season 2",
+  "datePub": "2020",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 257,
+      "_id": {
+        "$oid": "6433cd3df3cc8afc91bafaa5"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-1"
+    },
+    {
+      "videoID": 258,
+      "_id": {
+        "$oid": "6433cd7bf3cc8afc91bafaab"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-2"
+    },
+    {
+      "videoID": 259,
+      "_id": {
+        "$oid": "6433cdaff3cc8afc91bafab1"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-3"
+    },
+    {
+      "videoID": 260,
+      "_id": {
+        "$oid": "6433cde9f3cc8afc91bafab7"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-4"
+    },
+    {
+      "videoID": 261,
+      "_id": {
+        "$oid": "6433ce1af3cc8afc91bafabd"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-5"
+    },
+    {
+      "videoID": 262,
+      "_id": {
+        "$oid": "6433ce47f3cc8afc91bafac3"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-6"
+    },
+    {
+      "videoID": 263,
+      "_id": {
+        "$oid": "6433ce6df3cc8afc91bafac9"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-7"
+    },
+    {
+      "videoID": 264,
+      "_id": {
+        "$oid": "6433ce97f3cc8afc91bafacf"
+      },
+      "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-8-tap-cuoi"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-10T08:07:54.404Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T09:45:06.980Z"
+  },
+  "slug": "the-boys-season-2",
+  "movieSeasonID": 26,
+  "__v": 0,
+  "movieID": 6,
+  "create_At": {
+    "$date": "2023-04-10T08:53:44.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "content": "The Boys là series phim truyền hình nhiều tập của Mỹ, xoay quanh chủ đề siêu anh hùng nhưng với một tư duy thực tế và tàn khốc hơn. Siêu anh hùng, theo góc nhìn trong phim, dù có sở hữu năng lực to lớn nhưng vẫn chỉ là những con người với đầy đủ bản chất tốt xấu. Đây là phần thứ ba của phim. Phần trước dường như có một cái kết đau khổ nhưng cực “công bằng” cho cả Butcher lẫn Homelander khi mỗi người đều mất đi người mình yêu. Phần này xoay quanh hành trình của nhóm The Boys đi tìm kiếm một thứ vũ khí hứa hẹn tiêu diệt được Homelander.",
+  "totalChap": 8,
+  "view": 7,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128054/jv4axykzfju9f9fjasls.jpg",
+  "name": "The Boys Season 3",
+  "datePub": "2022",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 265,
+      "_id": {
+        "$oid": "6433facc2fb4e5690107212e"
+      },
+      "slug": "theboyss03e1"
+    },
+    {
+      "videoID": 266,
+      "_id": {
+        "$oid": "6433faf02fb4e56901072134"
+      },
+      "slug": "theboyss03e2"
+    },
+    {
+      "videoID": 267,
+      "_id": {
+        "$oid": "6433fb162fb4e5690107213a"
+      },
+      "slug": "theboyss03e3"
+    },
+    {
+      "videoID": 268,
+      "_id": {
+        "$oid": "6433fb372fb4e56901072140"
+      },
+      "slug": "theboyss03e4"
+    },
+    {
+      "videoID": 269,
+      "_id": {
+        "$oid": "6433fb602fb4e56901072146"
+      },
+      "slug": "theboyss03e5"
+    },
+    {
+      "videoID": 270,
+      "_id": {
+        "$oid": "6433fb882fb4e5690107214c"
+      },
+      "slug": "theboyss03e6"
+    },
+    {
+      "videoID": 271,
+      "_id": {
+        "$oid": "6433fbb12fb4e56901072152"
+      },
+      "slug": "theboyss03e7"
+    },
+    {
+      "videoID": 272,
+      "_id": {
+        "$oid": "6433fbd22fb4e56901072158"
+      },
+      "slug": "theboyss03e8"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-10T12:00:54.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-15T16:11:49.601Z"
+  },
+  "slug": "the-boys-season-3",
+  "movieSeasonID": 27,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-10T12:06:43.000Z"
+  },
+  "movieID": 6
+},
+{
+  "_id": {
+    "$oid": "6434e31519dfa8332c331cd5"
+  },
+  "content": "Đó là một cuộc đọ sức trong nhiều thời đại khi người anh hùng huyền thoại đối đầu với tên gọi hồn của thần xác chết, nhưng khi bụi lắng xuống, có điều gì đó không ổn... Trong những khoảnh khắc cuối cùng của cuộc đối đầu hoành tráng của họ, phát súng cuối cùng của thần xác chết hoàn toàn bất ngờ —ma thuật tái sinh! Xuyên qua không gian và thời gian, một cậu bé tên Polka Shinoyama thức dậy với cảm giác...không hoàn toàn là chính mình... Ai có thể ngờ rằng trận chiến đỉnh cao giữa thiện và ác lại diễn ra như thế này?",
+  "totalChap": 0,
+  "view": 17,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681187605/v4bvrvstix0mkmagkamx.jpg",
+  "name": "DEAD MOUNT DEATH PLAY",
+  "datePub": "2023",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "chuyen-sinh",
+      "_id": {
+        "$oid": "64324b8071dc93f77ce8513b"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 275,
+      "_id": {
+        "$oid": "6434e36319dfa8332c331ce0"
+      },
+      "slug": "dead-mount-death-play-ep-01"
+    },
+    {
+      "videoID": 405,
+      "_id": {
+        "$oid": "643eb71868e6d0d569fa4ac7"
+      },
+      "slug": "tap-02-dead-mount-death"
+    },
+    {
+      "videoID": 438,
+      "_id": {
+        "$oid": "6447622968e6d0d569fa5454"
+      },
+      "slug": "tap-03-dead-mount-death"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-11T04:33:25.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T13:07:55.006Z"
+  },
+  "slug": "dead-mount-death-play",
+  "movieSeasonID": 28,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-25T05:16:26.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "content": "Từ thời xưa luôn có những truyền thuyết về loài quỷ ăn thịt người rình mò trong các khu rừng khi màn đêm buông xuống. Chính điều này khiến người dân không ai dám vào rừng vào ban đêm. Tuy nhiên, Tanjiro, một cậu trai làm nghề bán củi than sống cùng gia đình trên núi lại không tin vào điều này, cậu quá bận rộn làm nuôi các anh em của mình. Nhưng rồi Tanjiro đã sớm phải tin vào những câu chuyện hảo huyền đó khi hiện thực cay nghiệt đến với cậu...",
+  "totalChap": 26,
+  "view": 18,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235045/oxtku3arcamdze7qlofa.jpg",
+  "name": "Kimetsu no Yaiba",
+  "datePub": "2019",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 279,
+      "_id": {
+        "$oid": "64359caba41435d0b9ce8678"
+      },
+      "slug": "kimetsu-no-yaiba-ep-01"
+    },
+    {
+      "videoID": 280,
+      "_id": {
+        "$oid": "64359cd0a41435d0b9ce867e"
+      },
+      "slug": "kimetsu-no-yaiba-ep-02"
+    },
+    {
+      "videoID": 281,
+      "_id": {
+        "$oid": "64359cefa41435d0b9ce8684"
+      },
+      "slug": "kimetsu-no-yaiba-ep-03"
+    },
+    {
+      "videoID": 282,
+      "_id": {
+        "$oid": "64359d0ea41435d0b9ce868a"
+      },
+      "slug": "kimetsu-no-yaiba-ep-04"
+    },
+    {
+      "videoID": 283,
+      "_id": {
+        "$oid": "64359d32a41435d0b9ce8690"
+      },
+      "slug": "kimetsu-no-yaiba-ep-05"
+    },
+    {
+      "videoID": 284,
+      "_id": {
+        "$oid": "64359d58a41435d0b9ce8696"
+      },
+      "slug": "kimetsu-no-yaiba-ep-06"
+    },
+    {
+      "videoID": 285,
+      "_id": {
+        "$oid": "64359d8aa41435d0b9ce869c"
+      },
+      "slug": "kimetsu-no-yaiba-ep-07"
+    },
+    {
+      "videoID": 286,
+      "_id": {
+        "$oid": "64359dbaa41435d0b9ce86a2"
+      },
+      "slug": "kimetsu-no-yaiba-ep-08"
+    },
+    {
+      "videoID": 287,
+      "_id": {
+        "$oid": "64359ddca41435d0b9ce86a8"
+      },
+      "slug": "kimetsu-no-yaiba-ep-09"
+    },
+    {
+      "videoID": 288,
+      "_id": {
+        "$oid": "64359e03a41435d0b9ce86ae"
+      },
+      "slug": "kimetsu-no-yaiba-ep-10"
+    },
+    {
+      "videoID": 289,
+      "_id": {
+        "$oid": "64359e23a41435d0b9ce86b4"
+      },
+      "slug": "kimetsu-no-yaiba-ep-11"
+    },
+    {
+      "videoID": 290,
+      "_id": {
+        "$oid": "64359ea6a41435d0b9ce86ba"
+      },
+      "slug": "kimetsu-no-yaiba-ep-12"
+    },
+    {
+      "videoID": 291,
+      "_id": {
+        "$oid": "64359ed8a41435d0b9ce86c0"
+      },
+      "slug": "kimetsu-no-yaiba-ep-13"
+    },
+    {
+      "videoID": 292,
+      "_id": {
+        "$oid": "64359f9da41435d0b9ce86c6"
+      },
+      "slug": "kimetsu-no-yaiba-ep-14"
+    },
+    {
+      "videoID": 293,
+      "_id": {
+        "$oid": "64359fb9a41435d0b9ce86cc"
+      },
+      "slug": "kimetsu-no-yaiba-ep-15"
+    },
+    {
+      "videoID": 294,
+      "_id": {
+        "$oid": "64359fd6a41435d0b9ce86d2"
+      },
+      "slug": "kimetsu-no-yaiba-ep-16"
+    },
+    {
+      "videoID": 295,
+      "_id": {
+        "$oid": "6435a005a41435d0b9ce86d8"
+      },
+      "slug": "kimetsu-no-yaiba-ep-17"
+    },
+    {
+      "videoID": 296,
+      "_id": {
+        "$oid": "6435a06ba41435d0b9ce86de"
+      },
+      "slug": "kimetsu-no-yaiba-ep-18"
+    },
+    {
+      "videoID": 297,
+      "_id": {
+        "$oid": "6435a0b4a41435d0b9ce86e4"
+      },
+      "slug": "kimetsu-no-yaiba-ep-19"
+    },
+    {
+      "videoID": 298,
+      "_id": {
+        "$oid": "6435a10aa41435d0b9ce86ea"
+      },
+      "slug": "kimetsu-no-yaiba-ep-20"
+    },
+    {
+      "videoID": 299,
+      "_id": {
+        "$oid": "6435a134a41435d0b9ce86f0"
+      },
+      "slug": "kimetsu-no-yaiba-ep-21"
+    },
+    {
+      "videoID": 300,
+      "_id": {
+        "$oid": "6435a199a41435d0b9ce86f6"
+      },
+      "slug": "kimetsu-no-yaiba-ep-22"
+    },
+    {
+      "videoID": 301,
+      "_id": {
+        "$oid": "6435a1bba41435d0b9ce86fc"
+      },
+      "slug": "kimetsu-no-yaiba-ep-23"
+    },
+    {
+      "videoID": 302,
+      "_id": {
+        "$oid": "6435a1e1a41435d0b9ce8702"
+      },
+      "slug": "kimetsu-no-yaiba-ep-24"
+    },
+    {
+      "videoID": 303,
+      "_id": {
+        "$oid": "6435a204a41435d0b9ce8708"
+      },
+      "slug": "kimetsu-no-yaiba-ep-25"
+    },
+    {
+      "videoID": 304,
+      "_id": {
+        "$oid": "6435a229a41435d0b9ce870e"
+      },
+      "slug": "kimetsu-no-yaiba-ep-26_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-11T17:44:06.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T12:33:40.003Z"
+  },
+  "slug": "kimetsu-no-yaiba",
+  "movieSeasonID": 29,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-11T18:08:42.000Z"
+  },
+  "movieID": 7
+},
+{
+  "_id": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "content": "Phần làm lại của movie cùng tên được chia thành 7 tập với nhiều cắt cảnh và phân đoạn mới",
+  "totalChap": 7,
+  "view": 4,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278480/p4q67hjhd8emtrwndcp1.jpg",
+  "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+  "datePub": "2021",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 305,
+      "_id": {
+        "$oid": "64364650a41435d0b9ce88be"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-01"
+    },
+    {
+      "videoID": 306,
+      "_id": {
+        "$oid": "6436466ea41435d0b9ce88c4"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-02"
+    },
+    {
+      "videoID": 307,
+      "_id": {
+        "$oid": "6436469ba41435d0b9ce88ca"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-03"
+    },
+    {
+      "videoID": 308,
+      "_id": {
+        "$oid": "643646b9a41435d0b9ce88d0"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-04"
+    },
+    {
+      "videoID": 309,
+      "_id": {
+        "$oid": "643646dba41435d0b9ce88dc"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-05"
+    },
+    {
+      "videoID": 310,
+      "_id": {
+        "$oid": "643646f8a41435d0b9ce88e5"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-06"
+    },
+    {
+      "videoID": 311,
+      "_id": {
+        "$oid": "64364716a41435d0b9ce88ee"
+      },
+      "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-07_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T05:48:00.849Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T08:18:37.108Z"
+  },
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+  "movieSeasonID": 30,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T05:52:22.000Z"
+  },
+  "movieID": 7
+},
+{
+  "_id": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "content": "Phần tiếp tối sau Chương Đoàn Tàu Vô Tận",
+  "totalChap": 11,
+  "view": 6,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278841/wvgvva00wopa4xa45xne.jpg",
+  "name": "Kimetsu no Yaiba: Yuukaku-hen",
+  "datePub": "2021",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 312,
+      "_id": {
+        "$oid": "643647caa41435d0b9ce8908"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-01"
+    },
+    {
+      "videoID": 313,
+      "_id": {
+        "$oid": "643647eda41435d0b9ce890e"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-02"
+    },
+    {
+      "videoID": 314,
+      "_id": {
+        "$oid": "6436480ea41435d0b9ce8914"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-03"
+    },
+    {
+      "videoID": 315,
+      "_id": {
+        "$oid": "6436482ba41435d0b9ce891a"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-04"
+    },
+    {
+      "videoID": 316,
+      "_id": {
+        "$oid": "6436484aa41435d0b9ce8920"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-05"
+    },
+    {
+      "videoID": 317,
+      "_id": {
+        "$oid": "6436489ba41435d0b9ce8926"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-06"
+    },
+    {
+      "videoID": 318,
+      "_id": {
+        "$oid": "643648cda41435d0b9ce892c"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-07"
+    },
+    {
+      "videoID": 319,
+      "_id": {
+        "$oid": "643648eea41435d0b9ce8932"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-08"
+    },
+    {
+      "videoID": 320,
+      "_id": {
+        "$oid": "64364913a41435d0b9ce8938"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-09"
+    },
+    {
+      "videoID": 321,
+      "_id": {
+        "$oid": "6436493fa41435d0b9ce893e"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-10"
+    },
+    {
+      "videoID": 322,
+      "_id": {
+        "$oid": "6436496ba41435d0b9ce8944"
+      },
+      "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-11_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T05:54:02.356Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T13:36:00.026Z"
+  },
+  "slug": "kimetsu-no-yaiba-yuukaku-hen",
+  "movieSeasonID": 31,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T06:02:20.000Z"
+  },
+  "movieID": 7
+},
+{
+  "_id": {
+    "$oid": "6436546da41435d0b9ce89c5"
+  },
+  "content": "Mùa thứ ba của Kimetsu no Yaiba, diễn ra ngay sau Kỹ Viện Trấn.",
+  "totalChap": 11,
+  "view": 22,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681282156/j9oo8tmde5fxrkkdmj6q.jpg",
+  "name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 323,
+      "_id": {
+        "$oid": "6436551aa41435d0b9ce89e1"
+      },
+      "slug": "thanh-guom-diet-quy-phan-3-tap-1-giac-mong-cua-ai-kia"
+    },
+    {
+      "videoID": 387,
+      "_id": {
+        "$oid": "643ca4a0a41435d0b9ce9d7f"
+      },
+      "slug": "tap-02-thanh-guom-diet-quy-lang-tho-ren"
+    },
+    {
+      "videoID": 434,
+      "_id": {
+        "$oid": "6445657168e6d0d569fa514a"
+      },
+      "slug": "tap-03-thanh-guom-diet-quy-lang-tho-ren"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T06:49:17.014Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T23:22:10.139Z"
+  },
+  "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+  "movieSeasonID": 32,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-23T17:07:21.000Z"
+  },
+  "movieID": 7
+},
+{
+  "_id": {
+    "$oid": "643663b9a41435d0b9ce8bd9"
+  },
+  "content": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
+  "totalChap": 1,
+  "view": 23,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681286072/g9vwnsy47mhvl0hjnfqg.jpg",
+  "name": "Ant-Man and the Wasp: Quantumania",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "marvel",
+      "_id": {
+        "$oid": "64286e382352d72f91cf8cee"
+      }
+    },
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 325,
+      "_id": {
+        "$oid": "64366437a41435d0b9ce8be4"
+      },
+      "slug": "ant-man-and-the-wasp-quantumania-2023"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T07:54:33.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-27T20:41:51.481Z"
+  },
+  "slug": "ant-man-and-the-wasp-quantumania",
+  "movieSeasonID": 33,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T07:56:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64368c84a41435d0b9ce8f19"
+  },
+  "content": "Kể về hành trình “hạ cánh” đầy bất ổn của một tờ vé số bay từ Hàn Quốc qua Triều Tiên. Từ đó, câu chuyện hài hước bậc nhất màn ảnh được mở ra khi những người lính của hai bên phải bước vào một cuộc đàm phán vô tiền khoáng hậu để quyết định số phận của giải độc đắc hàng triệu đô.",
+  "totalChap": 1,
+  "view": 2,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681296515/eci4atullyflgehh5ecs.jpg",
+  "name": "Bỗng Dưng Trúng Số",
+  "datePub": "2022",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "comedy",
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 327,
+      "_id": {
+        "$oid": "64368cc6a41435d0b9ce8f24"
+      },
+      "slug": "bong-dung-trung-so"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T10:48:36.996Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T13:12:19.443Z"
+  },
+  "slug": "bong-dung-trung-so",
+  "movieSeasonID": 34,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T10:49:43.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64369230a41435d0b9ce8f99"
+  },
+  "content": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "totalChap": 1,
+  "view": 17,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681297967/iad36psfvcgrvejcyttx.jpg",
+  "name": "John Wick: Chapter 4",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    },
+    {
+      "slug": "action",
+      "_id": {
+        "$oid": "642865f02352d72f91cf8ce0"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 328,
+      "_id": {
+        "$oid": "6436a4b4a41435d0b9ce9091"
+      },
+      "slug": "john-wick-chapter-4"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T11:12:48.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-31T11:14:01.912Z"
+  },
+  "slug": "john-wick-chapter-4",
+  "movieSeasonID": 35,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T12:31:49.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6436aedba41435d0b9ce9164"
+  },
+  "content": "Tay Đấm Huyền Thoại 3 | Creed III 2023 Full HD Vietsub, Adonis đã phát triển mạnh trong cả sự nghiệp và cuộc sống, nhưng một người bạn thời thơ ấu và  cũng là cựu thần đồng quyền anh tái xuất, cuộc đối đầu không chỉ là một cuộc chiến.",
+  "totalChap": 1,
+  "view": 13,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681305306/gq1av4xju3qjowuj6mgz.jpg",
+  "name": "Creed III",
+  "datePub": "2023",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    },
+    {
+      "slug": "action",
+      "_id": {
+        "$oid": "642865f02352d72f91cf8ce0"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 329,
+      "_id": {
+        "$oid": "6436af1fa41435d0b9ce916f"
+      },
+      "slug": "creed-iii"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T13:15:07.853Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T13:04:00.658Z"
+  },
+  "slug": "creed-iii",
+  "movieSeasonID": 36,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T13:16:16.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6436b1d5a41435d0b9ce917e"
+  },
+  "content": "Phim Black Adam: có sự tham gia của ngôi sao Dwayne Johnson thì không thể nào bỏ qua được, với những pha hành động phiêu lưu kịch tính hứa hẹn làm mãn nhãn người xem. Nội dung mờ đầu kể về 5000 năm trước Black Adam sở hữu quyên năng tối thượng, vì e ngại sức mạnh của anh nên các vị thần cổ đại đã phong ấn cầm tù trong 1 ngôi mồ sâu. Giờ đây 1 lần nữa tái sinh trở lại, Black Adam sẽ làm cho con người hiện đại chứng kiến 1 sức mạnh siêu cường, làm thay đổi thế giới, mang tới 1 kiểu nhận thức về công lý hoàn toàn mới. Hy vọng các bạn sẽ thích bộ phim Black Adam này.",
+  "totalChap": 1,
+  "view": 11,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681306067/ifzmij49mgqdxebeawyn.jpg",
+  "name": "Black Adam",
+  "datePub": "2022",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "dc",
+      "_id": {
+        "$oid": "6433906ff2a747d0ea14a18d"
+      }
+    },
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 330,
+      "_id": {
+        "$oid": "6436b236a41435d0b9ce9189"
+      },
+      "slug": "black-adam"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T13:27:49.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T13:13:36.652Z"
+  },
+  "slug": "black-adam",
+  "movieSeasonID": 37,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T13:29:27.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6436bb05a41435d0b9ce91c3"
+  },
+  "content": "Batman is dead, and a powder keg has ignited Gotham City without the Dark Knight to protect it. In the wake of Bruce Wayne's murder, his adopted son Turner Hayes is framed for his killing. With the charismatic and hard-charging District Attorney Harvey Dent and the GCPD hot on his trail, Turner must rely on allies including his best friend and formidable coder Stephanie Brown, and unlikely Batman sidekick Carrie Kelley. However, they soon learn there is a larger, more nefarious force at work within Gotham City. This team of mismatched fugitives must band together to become its next generation of saviors known as the Gotham Knights.",
+  "totalChap": 13,
+  "view": 17,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681308420/d0imiaszqi1yrkdj176s.jpg",
+  "name": "Gotham Knights - Season 1",
+  "datePub": "2023",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "action",
+      "_id": {
+        "$oid": "642865f02352d72f91cf8ce0"
+      }
+    },
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    },
+    {
+      "slug": "adventure",
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 331,
+      "_id": {
+        "$oid": "6436bb7fa41435d0b9ce91ce"
+      },
+      "slug": "gotham-knights-season-1-episode-1-pilot"
+    },
+    {
+      "videoID": 332,
+      "_id": {
+        "$oid": "6436bcb2a41435d0b9ce91d4"
+      },
+      "slug": "gotham-knights-season-1-episode-2-scene-of-the-crime"
+    },
+    {
+      "videoID": 333,
+      "_id": {
+        "$oid": "6436bd0ba41435d0b9ce91da"
+      },
+      "slug": "gotham-knights-season-1-episode-5-more-money-more-problems"
+    },
+    {
+      "videoID": 334,
+      "_id": {
+        "$oid": "6436beaea41435d0b9ce91e0"
+      },
+      "slug": "gotham-knights-season-1-episode-4-of-butchers-and-betrayals"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T14:07:01.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-03T02:50:30.489Z"
+  },
+  "slug": "gotham-knights-season-1",
+  "movieSeasonID": 38,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-12T14:22:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6437b534a41435d0b9ce9420"
+  },
+  "content": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+  "totalChap": 1,
+  "view": 9,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681372466/yxjwfasnykwneiiqrkgo.jpg",
+  "name": "Puss in Boots: The Last Wish",
+  "datePub": "2022",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "fantasy",
+      "_id": {
+        "$oid": "6433c5e5f3cc8afc91bafa83"
+      }
+    },
+    {
+      "slug": "adventure",
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      }
+    },
+    {
+      "slug": "comedy",
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 335,
+      "_id": {
+        "$oid": "6437b55ea41435d0b9ce942b"
+      },
+      "slug": "puss-in-boots-the-last-wish"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-13T07:54:28.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-04T05:45:40.915Z"
+  },
+  "slug": "puss-in-boots-the-last-wish",
+  "movieSeasonID": 39,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-13T07:55:11.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6438d1c3a41435d0b9ce966c"
+  },
+  "content": "Mục nhập mới trong nhượng quyền Xếp hạng Ousama.",
+  "totalChap": 0,
+  "view": 13,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681445314/lhknb5vtaqf5oe05dqqv.jpg",
+  "name": "Ousama Ranking: Yuuki no Takarabako",
+  "datePub": "2023",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "adventure",
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 338,
+      "_id": {
+        "$oid": "6438d257a41435d0b9ce9677"
+      },
+      "slug": "ousama-ranking-yuuki-no-takarabako-ep-01"
+    },
+    {
+      "videoID": 428,
+      "_id": {
+        "$oid": "6442199668e6d0d569fa4e8d"
+      },
+      "slug": "tap-02-bang-xep-hang-quoc-vuong-mua-2"
+    },
+    {
+      "videoID": 467,
+      "_id": {
+        "$oid": "644b610868e6d0d569fa57a6"
+      },
+      "slug": "tap-03-bang-xep-hang-quoc-vuong-mua-2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-14T04:08:35.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T04:20:37.764Z"
+  },
+  "slug": "ousama-ranking-yuuki-no-takarabako",
+  "movieSeasonID": 40,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-28T06:00:41.000Z"
+  },
+  "movieID": 3
+},
+{
+  "_id": {
+    "$oid": "6438d4b5a41435d0b9ce96ae"
+  },
+  "content": "Cha mẹ của Yukito là những người đứng đầu một giáo phái. Sau khi hy sinh, anh ta được tái sinh vào một thế giới khác, nơi tôn giáo không tồn tại và những cuốn sách khiêu dâm giống như những bức vẽ nguệch ngoạc của trẻ con. Anh ta thấy rằng đó cũng là một thế giới nơi sự sống và cái chết của bạn được quyết định bởi đất nước. Trong khi cản trở việc hành quyết của bạn mình, cả hai đều mất mạng. Ngay lúc đó, vị thần của tôn giáo của anh ta đến thế giới của họ và hồi sinh họ. ",
+  "totalChap": 0,
+  "view": 7,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681446068/syxjwvpb4zcezctw7is5.jpg",
+  "name": "Kaminaki Sekai no Kamisama Katsudou",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "chuyen-sinh",
+      "_id": {
+        "$oid": "64324b8071dc93f77ce8513b"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 339,
+      "_id": {
+        "$oid": "6438d4f6a41435d0b9ce96b9"
+      },
+      "slug": "kaminaki-sekai-no-kamisama-katsudou-ep-01"
+    },
+    {
+      "videoID": 340,
+      "_id": {
+        "$oid": "6438d529a41435d0b9ce96bf"
+      },
+      "slug": "kaminaki-sekai-no-kamisama-katsudou-ep-02"
+    },
+    {
+      "videoID": 465,
+      "_id": {
+        "$oid": "6449f44668e6d0d569fa5716"
+      },
+      "slug": "tap-03-la-than-trong-the-gioi-vo-than"
+    },
+    {
+      "videoID": 466,
+      "_id": {
+        "$oid": "6449f46768e6d0d569fa571c"
+      },
+      "slug": "tap-04-la-than-trong-the-gioi-vo-than"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-14T04:21:09.283Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T09:59:42.683Z"
+  },
+  "slug": "kaminaki-sekai-no-kamisama-katsudou",
+  "movieSeasonID": 41,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-27T04:04:55.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "content": "Một ngày nọ, thế giới xuất hiện loại virus RR không rõ lai lịch, cuốn thế giới vào thảm hoạ. Động vật bị truyền nhiễm đột biến thành quái thú đáng sợ, xâm lược với số lượng lớn. Trong lúc loài người đối mặt với diệt vong, họ đã xây lên bức tường bao vây, thành lập căn cứ làm pháo đài cuối cùng bảo vệ con người. \n\nTrong thời gian này, con người nếm trải đủ mọi khó khăn, được gọi là “thời kỳ Đại Niết Bàn”. Trong môi trường sinh tồn cực đoan, bản năng của con người cũng dần phát triển, ngọn gió thượng võ phất lên, tố chất cơ thể con người vượt trội hơn trước. Mà trong những người xuất sắc, được gọi là “chiến binh”. La Phong năm 18 tuổi cũng ước mơ trở thành một trong số họ. Cậu lúc này sắp phải thi đại học, đang đối diện với sự lựa chọn giữa ngã tư đời người. Nhưng lại bị quái thú tấn công ảnh hưởng quỹ đạo cuộc đời của cậu hết lần này đến lần khác. \n\nDưới uy hiếp của quái thú, cư dân trong thành phố đối diện với nguy hiểm, quân sự lại bó tay. Duy chỉ có chiến binh xông pha, bảo vệ an toàn cho căn cứ. La Phong được những chiến binh truyền cảm hứng, âm thầm hạ quyết tâm trở thành chiến binh bảo vệ người mình yêu thương. Đây chính là khởi đầu của mọi thứ, khởi điểm của  con đường chiến binh La Phong, cũng vén bức màn cuộc đời truyền kì của cậu. La Phong lập chí trở thành chiến binh. Con đường phía không dễ dàng, đầu tiên cậu phải đối diện với môi trường ngoại bộ, vô hình chung càng thêm ảnh hưởng tới cậu. Gia đình La Phong có điều kiện không tốt, cuộc sống túng thiếu, bố mẹ không thể giúp đỡ cậu được nhiều, cậu đành dựa vào nỗ lực của bản thân. \n\nCuối cùng, dưới sự khổ luyện, La Phong không ngừng khai quật ra tiềm năng của mình, nhận được sự nâng cấp năng lực với sự công nhận giá trị bản thân. Không những vậy, La Phong còn gánh vác gánh nặng nuôi dưỡng  gia đình, cũng vì bảo vệ tổ quốc loài người, vì cuộc sống sinh tồn và phát triển tốt hơn của con người. Cùng với những chiến binh chính nghĩa khác, liên minh đối phó quái thú hung ác. Dưới tình cảnh tận thế, La Phong cùng với những chiến binh khác liệu có thể đẩy lùi quái thú, thành công bảo vệ thế giới loài người?",
+  "totalChap": 130,
+  "view": 11,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681446923/xt3b4228dxu9efj8cssb.jpg",
+  "name": "Thôn Phệ Tinh Không",
+  "datePub": "2021",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "china",
+      "_id": {
+        "$oid": "642fa99574df1e0c57f149a4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 341,
+      "_id": {
+        "$oid": "6438db8ea41435d0b9ce96d4"
+      },
+      "slug": "thon-phe-tinh-khong-ep-01"
+    },
+    {
+      "videoID": 342,
+      "_id": {
+        "$oid": "6438de43a41435d0b9ce96da"
+      },
+      "slug": "thon-phe-tinh-khong-ep-02"
+    },
+    {
+      "videoID": 343,
+      "_id": {
+        "$oid": "6438df4ba41435d0b9ce96f0"
+      },
+      "slug": "thon-phe-tinh-khong-ep-03"
+    },
+    {
+      "videoID": 344,
+      "_id": {
+        "$oid": "6438e4e9a41435d0b9ce971b"
+      },
+      "slug": "thon-phe-tinh-khong-tap-4"
+    },
+    {
+      "videoID": 345,
+      "_id": {
+        "$oid": "6438e58ba41435d0b9ce9721"
+      },
+      "slug": "thon-phe-tinh-khong-tap-5"
+    },
+    {
+      "videoID": 346,
+      "_id": {
+        "$oid": "6438f086a41435d0b9ce9741"
+      },
+      "slug": "thon-phe-tinh-khong-tap-6"
+    },
+    {
+      "videoID": 347,
+      "_id": {
+        "$oid": "6438f0dba41435d0b9ce9747"
+      },
+      "slug": "thon-phe-tinh-khong-tap-7"
+    },
+    {
+      "videoID": 348,
+      "_id": {
+        "$oid": "6438f0fca41435d0b9ce974d"
+      },
+      "slug": "thon-phe-tinh-khong-tap-8"
+    },
+    {
+      "videoID": 349,
+      "_id": {
+        "$oid": "6438f11da41435d0b9ce9753"
+      },
+      "slug": "thon-phe-tinh-khong-tap-9"
+    },
+    {
+      "videoID": 350,
+      "_id": {
+        "$oid": "6438f140a41435d0b9ce9759"
+      },
+      "slug": "thon-phe-tinh-khong-tap-10"
+    },
+    {
+      "videoID": 351,
+      "_id": {
+        "$oid": "6438f164a41435d0b9ce975f"
+      },
+      "slug": "thon-phe-tinh-khong-tap-11"
+    },
+    {
+      "videoID": 352,
+      "_id": {
+        "$oid": "643911dba41435d0b9ce976e"
+      },
+      "slug": "thon-phe-tinh-khong-tap-12"
+    },
+    {
+      "videoID": 353,
+      "_id": {
+        "$oid": "643911fda41435d0b9ce9774"
+      },
+      "slug": "thon-phe-tinh-khong-tap-13"
+    },
+    {
+      "videoID": 354,
+      "_id": {
+        "$oid": "6439121ea41435d0b9ce977a"
+      },
+      "slug": "thon-phe-tinh-khong-tap-14"
+    },
+    {
+      "videoID": 355,
+      "_id": {
+        "$oid": "6439123aa41435d0b9ce9780"
+      },
+      "slug": "thon-phe-tinh-khong-tap-15"
+    },
+    {
+      "videoID": 356,
+      "_id": {
+        "$oid": "6439125aa41435d0b9ce9786"
+      },
+      "slug": "thon-phe-tinh-khong-tap-16"
+    },
+    {
+      "videoID": 357,
+      "_id": {
+        "$oid": "6439127ba41435d0b9ce978c"
+      },
+      "slug": "thon-phe-tinh-khong-tap-17"
+    },
+    {
+      "videoID": 358,
+      "_id": {
+        "$oid": "643912aea41435d0b9ce9792"
+      },
+      "slug": "thon-phe-tinh-khong-tap-18"
+    },
+    {
+      "videoID": 360,
+      "_id": {
+        "$oid": "643a2e7ba41435d0b9ce988d"
+      },
+      "slug": "thon-phe-tinh-khong-tap-19"
+    },
+    {
+      "videoID": 361,
+      "_id": {
+        "$oid": "643a2edba41435d0b9ce9893"
+      },
+      "slug": "thon-phe-tinh-khong-tap-20"
+    },
+    {
+      "videoID": 362,
+      "_id": {
+        "$oid": "643a2efea41435d0b9ce9899"
+      },
+      "slug": "thon-phe-tinh-khong-tap-21"
+    },
+    {
+      "videoID": 363,
+      "_id": {
+        "$oid": "643a2f1fa41435d0b9ce989f"
+      },
+      "slug": "thon-phe-tinh-khong-tap-22"
+    },
+    {
+      "videoID": 364,
+      "_id": {
+        "$oid": "643a2f53a41435d0b9ce98a5"
+      },
+      "slug": "thon-phe-tinh-khong-tap-23"
+    },
+    {
+      "videoID": 365,
+      "_id": {
+        "$oid": "643a2f76a41435d0b9ce98ab"
+      },
+      "slug": "thon-phe-tinh-khong-tap-24"
+    },
+    {
+      "videoID": 366,
+      "_id": {
+        "$oid": "643a2f97a41435d0b9ce98b1"
+      },
+      "slug": "thon-phe-tinh-khong-tap-25"
+    },
+    {
+      "videoID": 367,
+      "_id": {
+        "$oid": "643a2fb9a41435d0b9ce98b7"
+      },
+      "slug": "thon-phe-tinh-khong-tap-26"
+    },
+    {
+      "videoID": 368,
+      "_id": {
+        "$oid": "643a2feaa41435d0b9ce98bd"
+      },
+      "slug": "thon-phe-tinh-khong-tap-27"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-14T04:35:24.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T12:56:44.058Z"
+  },
+  "slug": "thon-phe-tinh-khong",
+  "movieSeasonID": 42,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-15T05:02:35.000Z"
+  },
+  "movieID": 8
+},
+{
+  "_id": {
+    "$oid": "64396d2fa41435d0b9ce97e5"
+  },
+  "content": "A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.",
+  "totalChap": 1,
+  "view": 6,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681485102/je9ehoms66vosfewvyxe.jpg",
+  "name": "Free Guy",
+  "datePub": "2021",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "au-my",
+      "_id": {
+        "$oid": "643010119a6d0cdb83db6136"
+      }
+    },
+    {
+      "slug": "comedy",
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      }
+    },
+    {
+      "slug": "adventure",
+      "_id": {
+        "$oid": "642d58931486bc397e2da80c"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 359,
+      "_id": {
+        "$oid": "64396d66a41435d0b9ce97f0"
+      },
+      "slug": "free-guy"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-14T15:11:43.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T13:24:28.145Z"
+  },
+  "slug": "free-guy",
+  "movieSeasonID": 43,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-14T15:12:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a2dc3a41435d0b9ce9885"
+  },
+  "content": "Ma Pháp Giới là thế giới mà pháp thuật ngự trị trong đời sống. Kẻ nào có ma lực càng cao thì càng có địa vị xã hội, và trong đó, cơ quan cao nhất là Cục Pháp Thuật. Tuy nhiên, giữa rừng phù thủy pháp sư thì lại lọt ra một Mash Burnedead không có ma lực trong người. Nhưng thay vì dùng phép để thăng tiến, cậu chọn dùng nắm đấm.",
+  "totalChap": 0,
+  "view": 22,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534402/jpm65vb1ymraajysno9g.jpg",
+  "name": "Mashle",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    },
+    {
+      "slug": "fantasy",
+      "_id": {
+        "$oid": "6433c5e5f3cc8afc91bafa83"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 369,
+      "_id": {
+        "$oid": "643a302da41435d0b9ce98c9"
+      },
+      "slug": "mashle-tap-1"
+    },
+    {
+      "videoID": 370,
+      "_id": {
+        "$oid": "643a304ba41435d0b9ce98cf"
+      },
+      "slug": "mashle-tap-2"
+    },
+    {
+      "videoID": 430,
+      "_id": {
+        "$oid": "644389ad68e6d0d569fa4f42"
+      },
+      "slug": "tap-03-mashle"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-15T04:53:23.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T09:59:52.581Z"
+  },
+  "slug": "mashle",
+  "movieSeasonID": 44,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-22T07:15:58.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "content": "Tiếp nối tựa phim Bleach",
+  "totalChap": 13,
+  "view": 10,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575496/gi5f5uvql44cg7w6mtan.jpg",
+  "name": "Bleach: Thousand-Year Blood War",
+  "datePub": "2022",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 371,
+      "_id": {
+        "$oid": "643ace88a41435d0b9ce9ada"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-01"
+    },
+    {
+      "videoID": 372,
+      "_id": {
+        "$oid": "643acec8a41435d0b9ce9ae0"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-02"
+    },
+    {
+      "videoID": 373,
+      "_id": {
+        "$oid": "643acef5a41435d0b9ce9ae6"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-03"
+    },
+    {
+      "videoID": 374,
+      "_id": {
+        "$oid": "643acf19a41435d0b9ce9aec"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-04"
+    },
+    {
+      "videoID": 375,
+      "_id": {
+        "$oid": "643acf3ea41435d0b9ce9af2"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-05"
+    },
+    {
+      "videoID": 376,
+      "_id": {
+        "$oid": "643acf65a41435d0b9ce9af8"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-06"
+    },
+    {
+      "videoID": 377,
+      "_id": {
+        "$oid": "643acfd1a41435d0b9ce9afe"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-07"
+    },
+    {
+      "videoID": 378,
+      "_id": {
+        "$oid": "643ad04fa41435d0b9ce9b04"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-08"
+    },
+    {
+      "videoID": 379,
+      "_id": {
+        "$oid": "643ad0a5a41435d0b9ce9b0a"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-09"
+    },
+    {
+      "videoID": 380,
+      "_id": {
+        "$oid": "643ad0cfa41435d0b9ce9b10"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-10"
+    },
+    {
+      "videoID": 381,
+      "_id": {
+        "$oid": "643ad0efa41435d0b9ce9b16"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-11"
+    },
+    {
+      "videoID": 382,
+      "_id": {
+        "$oid": "643ad164a41435d0b9ce9b1c"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-12"
+    },
+    {
+      "videoID": 383,
+      "_id": {
+        "$oid": "643ad1d3a41435d0b9ce9b22"
+      },
+      "slug": "bleach-sennen-kessen-hen-ep-13_end"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-15T16:18:18.827Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T23:18:06.263Z"
+  },
+  "slug": "bleach-thousand-year-blood-war",
+  "movieSeasonID": 45,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-15T16:33:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "content": "The first season of the American animated television series Gravity Falls consisted of 20 episodes on the Disney Channel, and aired from June 15, 2012 to August 2, 2013",
+  "totalChap": 20,
+  "view": 19,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681714755/fwsbzrxnmzghiuatezxq.jpg",
+  "name": "Gravity Falls - Season 1",
+  "datePub": "2012",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "cartoon",
+      "_id": {
+        "$oid": "643cee0268e6d0d569fa4906"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 389,
+      "_id": {
+        "$oid": "643ceeb668e6d0d569fa4919"
+      },
+      "slug": "gravity-falls-season-1-episode-1"
+    },
+    {
+      "videoID": 390,
+      "_id": {
+        "$oid": "643cef1e68e6d0d569fa491f"
+      },
+      "slug": "gravity-falls-season-1-episode-2"
+    },
+    {
+      "videoID": 391,
+      "_id": {
+        "$oid": "643d126d68e6d0d569fa493d"
+      },
+      "slug": "gravity-falls-season-1-episode-3-headhunters"
+    },
+    {
+      "videoID": 392,
+      "_id": {
+        "$oid": "643d12d168e6d0d569fa4943"
+      },
+      "slug": "gravity-falls-season-1-episode-4-the-hand-that-rocks-the-mabel"
+    },
+    {
+      "videoID": 393,
+      "_id": {
+        "$oid": "643d14e668e6d0d569fa4959"
+      },
+      "slug": "gravity-falls-season-1-episode-5-the-inconveniencing"
+    },
+    {
+      "videoID": 394,
+      "_id": {
+        "$oid": "643d15ac68e6d0d569fa4963"
+      },
+      "slug": "gravity-falls-season-1-episode-6-dipper-vs-manliness"
+    },
+    {
+      "videoID": 395,
+      "_id": {
+        "$oid": "643d15e168e6d0d569fa4969"
+      },
+      "slug": "gravity-falls-season-1-episode-7-double-dipper"
+    },
+    {
+      "videoID": 396,
+      "_id": {
+        "$oid": "643def1b68e6d0d569fa49f3"
+      },
+      "slug": "gravity-falls-season-1-episode-8-irrational-treasure"
+    },
+    {
+      "videoID": 397,
+      "_id": {
+        "$oid": "643def6668e6d0d569fa49f9"
+      },
+      "slug": "gravity-falls-season-1-episode-9-the-time-traveler-s-pig"
+    },
+    {
+      "videoID": 398,
+      "_id": {
+        "$oid": "643defae68e6d0d569fa49ff"
+      },
+      "slug": "gravity-falls-season-1-episode-10-fight-fighters"
+    },
+    {
+      "videoID": 399,
+      "_id": {
+        "$oid": "643df45168e6d0d569fa4a15"
+      },
+      "slug": "gravity-falls-season-1-episode-11-little-dipper"
+    },
+    {
+      "videoID": 400,
+      "_id": {
+        "$oid": "643df48a68e6d0d569fa4a1b"
+      },
+      "slug": "gravity-falls-season-1-episode-12-summerween"
+    },
+    {
+      "videoID": 401,
+      "_id": {
+        "$oid": "643df4ef68e6d0d569fa4a21"
+      },
+      "slug": "gravity-falls-season-1-episode-13-boss-mabel"
+    },
+    {
+      "videoID": 402,
+      "_id": {
+        "$oid": "643df51a68e6d0d569fa4a27"
+      },
+      "slug": "gravity-falls-season-1-episode-14-bottomless-pit"
+    },
+    {
+      "videoID": 422,
+      "_id": {
+        "$oid": "643f978b68e6d0d569fa4cb8"
+      },
+      "slug": "gravity-falls-season-1-episode-16"
+    },
+    {
+      "videoID": 423,
+      "_id": {
+        "$oid": "6441455668e6d0d569fa4e1b"
+      },
+      "slug": "gravity-falls-season-1-episode-16"
+    },
+    {
+      "videoID": 424,
+      "_id": {
+        "$oid": "644145b668e6d0d569fa4e24"
+      },
+      "slug": "gravity-falls-season-1-episode-17"
+    },
+    {
+      "videoID": 427,
+      "_id": {
+        "$oid": "6441fb5868e6d0d569fa4e72"
+      },
+      "slug": "gravity-falls-season-1-episode-18-land-before"
+    },
+    {
+      "videoID": 436,
+      "_id": {
+        "$oid": "64460f1268e6d0d569fa52eb"
+      },
+      "slug": "gravity-falls-season-1-episode-20-gideon-rises"
+    },
+    {
+      "videoID": 437,
+      "_id": {
+        "$oid": "64460f6f68e6d0d569fa52f1"
+      },
+      "slug": "gravity-falls-season-1-episode-19-dreamscaperers"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-17T06:59:15.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T12:36:32.552Z"
+  },
+  "slug": "gravity-falls-season-1",
+  "movieSeasonID": 46,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-24T05:11:12.000Z"
+  },
+  "movieID": 9
+},
+{
+  "_id": {
+    "$oid": "643f84f568e6d0d569fa4b76"
+  },
+  "content": "Sự kiện Băng Hoại đã đẩy thế giới loài người vào cận diệt vong và sản sinh ra quái vật tràn ngập khắp nơi. Những kẻ sống sót phải giành giật nhau cái ăn, cướp bóc lẫn nhau. Tuy nhiên vẫn có người như Maru, cùng cô vệ sĩ Kiruko, muốn tìm kiếm lấy \"Thiên Đường\" mà sẵn sàng chu du khắp thế giới quỷ quái đó. Và song song với đó là những đứa trẻ thần bí được nuôi dạy bởi robot trong khu vườn địa đàng cách biệt với thế giới bên ngoài.",
+  "totalChap": 13,
+  "view": 16,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681884405/qh6pwlkonb53mqsr9gm2.jpg",
+  "name": "Tengoku Daimakyou",
+  "datePub": "2023",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "anime",
+      "_id": {
+        "$oid": "64286c722352d72f91cf8ce4"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 406,
+      "_id": {
+        "$oid": "643f852d68e6d0d569fa4b81"
+      },
+      "slug": "tap-01-tengoku-daimakyou"
+    },
+    {
+      "videoID": 407,
+      "_id": {
+        "$oid": "643f857568e6d0d569fa4b87"
+      },
+      "slug": "tap-02-tengoku-daimakyou"
+    },
+    {
+      "videoID": 408,
+      "_id": {
+        "$oid": "643f85c668e6d0d569fa4b8d"
+      },
+      "slug": "tap-03-tengoku-daimakyou"
+    },
+    {
+      "videoID": 432,
+      "_id": {
+        "$oid": "64440e6568e6d0d569fa5057"
+      },
+      "slug": "tap-04-tengoku-daimakyou"
+    },
+    {
+      "videoID": 471,
+      "_id": {
+        "$oid": "644e25a168e6d0d569fa5857"
+      },
+      "slug": "tap-05-tengoku-daimakyou"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-19T06:06:45.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T14:20:33.325Z"
+  },
+  "slug": "tengoku-daimakyou",
+  "movieSeasonID": 47,
+  "__v": 0,
+  "create_At": {
+    "$date": "2023-04-30T08:24:02.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "content": "The third season of Rick and Morty, an American animated television series created by Dan Harmon and Justin Roiland, originally aired on Cartoon Network's late night programming block, Adult Swim",
+  "totalChap": 10,
+  "view": 9,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681887955/rk7bywcrzsw1usxp5ecl.jpg",
+  "name": "Rick and Morty Season 3",
+  "datePub": "2017",
+  "totalRate": 10,
+  "numberRate": 1,
+  "typeMovie": [
+    {
+      "slug": "carton",
+      "_id": {
+        "$oid": "643cee0268e6d0d569fa4906"
+      }
+    },
+    {
+      "slug": "comedy",
+      "_id": {
+        "$oid": "64286da02352d72f91cf8ce9"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 412,
+      "_id": {
+        "$oid": "643f931668e6d0d569fa4c02"
+      },
+      "slug": "rick-va-morty-phan-3-tap-1"
+    },
+    {
+      "videoID": 413,
+      "_id": {
+        "$oid": "643f932d68e6d0d569fa4c08"
+      },
+      "slug": "rick-va-morty-phan-3-tap-2"
+    },
+    {
+      "videoID": 414,
+      "_id": {
+        "$oid": "643f934d68e6d0d569fa4c0e"
+      },
+      "slug": "rick-va-morty-phan-3-tap-3"
+    },
+    {
+      "videoID": 415,
+      "_id": {
+        "$oid": "643f936968e6d0d569fa4c14"
+      },
+      "slug": "rick-va-morty-phan-3-tap-4"
+    },
+    {
+      "videoID": 416,
+      "_id": {
+        "$oid": "643f938268e6d0d569fa4c1a"
+      },
+      "slug": "rick-va-morty-phan-3-tap-5"
+    },
+    {
+      "videoID": 417,
+      "_id": {
+        "$oid": "643f939d68e6d0d569fa4c20"
+      },
+      "slug": "rick-va-morty-phan-3-tap-6"
+    },
+    {
+      "videoID": 418,
+      "_id": {
+        "$oid": "643f93b768e6d0d569fa4c26"
+      },
+      "slug": "rick-va-morty-phan-3-tap-7"
+    },
+    {
+      "videoID": 419,
+      "_id": {
+        "$oid": "643f93d868e6d0d569fa4c2c"
+      },
+      "slug": "rick-va-morty-phan-3-tap-8"
+    },
+    {
+      "videoID": 420,
+      "_id": {
+        "$oid": "643f93ee68e6d0d569fa4c32"
+      },
+      "slug": "rick-va-morty-phan-3-tap-9"
+    },
+    {
+      "videoID": 421,
+      "_id": {
+        "$oid": "643f940b68e6d0d569fa4c38"
+      },
+      "slug": "rick-va-morty-phan-3-tap-10"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-19T07:05:55.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T12:26:28.571Z"
+  },
+  "slug": "rick-and-morty-season-3",
+  "movieSeasonID": 48,
+  "__v": 0,
+  "movieID": 4,
+  "create_At": {
+    "$date": "2023-04-19T07:11:07.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "content": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+  "totalChap": 20,
+  "view": 20,
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682473301/dalpdtu59dgjhk8rhxsy.jpg",
+  "name": "Gravity Falls Season 2",
+  "datePub": "2012",
+  "totalRate": 0,
+  "numberRate": 0,
+  "typeMovie": [
+    {
+      "slug": "cartoon",
+      "_id": {
+        "$oid": "643cee0268e6d0d569fa4906"
+      }
+    }
+  ],
+  "video": [
+    {
+      "videoID": 445,
+      "_id": {
+        "$oid": "6448819f68e6d0d569fa55a7"
+      },
+      "slug": "gravity-falls-season-2-episode-1-scary-oke"
+    },
+    {
+      "videoID": 446,
+      "_id": {
+        "$oid": "644881c168e6d0d569fa55ad"
+      },
+      "slug": "gravity-falls-season-2-episode-2-into-the-bunker"
+    },
+    {
+      "videoID": 447,
+      "_id": {
+        "$oid": "644881e868e6d0d569fa55b3"
+      },
+      "slug": "gravity-falls-season-2-episode-3-the-golf-war"
+    },
+    {
+      "videoID": 448,
+      "_id": {
+        "$oid": "644895e868e6d0d569fa55c9"
+      },
+      "slug": "gravity-falls-season-2-episode-4-sock-opera"
+    },
+    {
+      "videoID": 449,
+      "_id": {
+        "$oid": "6448961268e6d0d569fa55cf"
+      },
+      "slug": "gravity-falls-season-2-episode-5-soos-and-the-real-girl"
+    },
+    {
+      "videoID": 450,
+      "_id": {
+        "$oid": "6448963368e6d0d569fa55d5"
+      },
+      "slug": "gravity-falls-season-2-episode-6-little-gift-shop-of-horrors"
+    },
+    {
+      "videoID": 451,
+      "_id": {
+        "$oid": "6448965568e6d0d569fa55db"
+      },
+      "slug": "gravity-falls-season-2-episode-7-society-of-the-blind-eye"
+    },
+    {
+      "videoID": 452,
+      "_id": {
+        "$oid": "6448967168e6d0d569fa55e1"
+      },
+      "slug": "gravity-falls-season-2-episode-8-blendin-s-game"
+    },
+    {
+      "videoID": 453,
+      "_id": {
+        "$oid": "644896a668e6d0d569fa55e7"
+      },
+      "slug": "gravity-falls-season-2-episode-9-the-love-god"
+    },
+    {
+      "videoID": 454,
+      "_id": {
+        "$oid": "644896c768e6d0d569fa55ed"
+      },
+      "slug": "gravity-falls-season-2-episode-10-northwest-mansion-noir"
+    },
+    {
+      "videoID": 455,
+      "_id": {
+        "$oid": "644896e668e6d0d569fa55f3"
+      },
+      "slug": "gravity-falls-season-2-episode-11-not-what-he-seems"
+    },
+    {
+      "videoID": 456,
+      "_id": {
+        "$oid": "6448970668e6d0d569fa55f9"
+      },
+      "slug": "gravity-falls-season-2-episode-12-a-tale-of-two-stans"
+    },
+    {
+      "videoID": 457,
+      "_id": {
+        "$oid": "6448975868e6d0d569fa55ff"
+      },
+      "slug": "gravity-falls-season-2-episode-13-dungeons"
+    },
+    {
+      "videoID": 458,
+      "_id": {
+        "$oid": "6448977e68e6d0d569fa5605"
+      },
+      "slug": "gravity-falls-season-2-episode-14-the-stanchurian-candidate"
+    },
+    {
+      "videoID": 459,
+      "_id": {
+        "$oid": "6448979968e6d0d569fa560b"
+      },
+      "slug": "gravity-falls-season-2-episode-15-the-last-mabelcorn"
+    },
+    {
+      "videoID": 460,
+      "_id": {
+        "$oid": "644897b868e6d0d569fa5611"
+      },
+      "slug": "gravity-falls-season-2-episode-16-roadside-attraction"
+    },
+    {
+      "videoID": 461,
+      "_id": {
+        "$oid": "644897d468e6d0d569fa5617"
+      },
+      "slug": "gravity-falls-season-2-episode-17-dipper-and-mabel-vs-the-future"
+    },
+    {
+      "videoID": 462,
+      "_id": {
+        "$oid": "644897ee68e6d0d569fa561d"
+      },
+      "slug": "gravity-falls-season-2-episode-18-weirdmageddon-part-i"
+    },
+    {
+      "videoID": 463,
+      "_id": {
+        "$oid": "6448983868e6d0d569fa5623"
+      },
+      "slug": "gravity-falls-season-2-episode-19-weirdmageddon-2-escape-from-reality"
+    },
+    {
+      "videoID": 464,
+      "_id": {
+        "$oid": "6448985768e6d0d569fa5629"
+      },
+      "slug": "gravity-falls-season-2-episode-20-weirdmageddon-3-take-back-the-falls"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-26T01:41:44.305Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T19:32:57.965Z"
+  },
+  "slug": "gravity-falls-season-2",
+  "movieSeasonID": 49,
+  "__v": 0,
+  "movieID": 9,
+  "create_At": {
+    "$date": "2023-04-26T03:19:51.000Z"
+  }
+}]
