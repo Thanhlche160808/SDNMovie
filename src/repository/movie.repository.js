@@ -38,27 +38,39 @@ const movieRepository = {
         );
         return result
     },
-    markMovie: async ({ userID, movieID }) => {
-        const movie = await Movie.findOne({ _id: movieID });
-        if (!movie) throw new Error("Movie not found.");
-        const user = await User.findOne({ _id: userID });
-        const isMarked = user.mark.includes(movie._id);
-        if (isMarked) {
-            const markedMovie = await User.findOneAndUpdate({
-                _id: userID,
-            }, { $pull: { mark: movieID } });
-            return markedMovie;
-        } else {
-            const markedMovie = await User.findOneAndUpdate({
-                _id: userID,
-            }, { $push: { mark: movieID } });
-            return markedMovie;
-        }
+    getAllViewByMovie: async () => {
+        const movieSeasons = await MovieSeason.aggregate([
+            {
+                $group: {
+                    _id: '$movieID',
+                    totalViews: { $sum: '$view' }
+                }
+            },
+            {
+                $lookup: {
+                    from: 'movies',
+                    localField: '_id',
+                    foreignField: '_id',
+                    as: 'movie'
+                }
+            },
+            {
+                $unwind: '$movie'
+            },
+            {
+                $project: {
+                    _id: 1,
+                    movieName: '$movie.movieName',
+                    totalViews: 1
+                }
+            },
+            {
+                $sort: { totalViews: -1 } // Sort by total views in descending order
+            }
+        ]);
+
+        return movieSeasons
     },
-    getMarkedMovie: async (userID) => {
-        const movies = await User.findOne({ _id: userID }).populate("mark");
-        return movies;
-    }
 }
 
 export default movieRepository
