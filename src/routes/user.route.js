@@ -9,6 +9,8 @@ userRouter.post("/create", userController.addAccount);
 
 userRouter.post("/login", userController.loginAccount);
 
+userRouter.get("/refresh", userController.refreshToken)
+
 userRouter.post("/mark", userController.markMovie);
 
 userRouter.get("/movies", userController.getMarkMovie);

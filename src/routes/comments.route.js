@@ -4,9 +4,9 @@ import express from "express";
 
 const commentRouter = express.Router();
 
-commentRouter.post("/create", authenticate ,commentsController.addAComments);
+commentRouter.post("/create", authenticate, commentsController.addAComments);
 
-commentRouter.get("/movie", commentsController.getCommentsByMovie);
+commentRouter.get("/movie", authenticate, commentsController.getCommentsByMovie);
 
 commentRouter.post("/like", commentsController.likeComment);
 

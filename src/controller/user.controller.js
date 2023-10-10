@@ -25,16 +25,30 @@ const userController = {
             const user = await userRepository.loginAccount({
                 username,
                 password,
-            });
+            }, resp);
             resp.status(200).json(user);
         } catch (error) {
             resp.status(500).json(error);
         }
     },
+    refreshToken: async (req, resp) => {
+        try {
+            const refreshToken = req.cookies['refreshToken']
+            const refresh_token = await userRepository.processNewToken(refreshToken, resp)
+            resp.status(200).json(
+                {
+                    message: "Get refresh token",
+                    data: refresh_token
+                }
+            );
+        } catch (error) {
+            resp.status(400).json({ message: 'Can not find refresh token trong cookies.' });
+        }
+    },
     markMovie: async (req, resp) => {
         console.log(req.body);
         try {
-            const {movieID,_id} = req.body;
+            const { movieID, _id } = req.body;
             await userRepository.markMovie({
                 movieID,
                 userID: _id,
