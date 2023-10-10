@@ -13,6 +13,10 @@ const MovieSchema = new mongoose.Schema(
                 slug: String,
             },
         ],
+        totalView: {
+            type: Number,
+            default: 0,
+        },
     },
     {
         _id: false,
