@@ -18,24 +18,57 @@ const userRepository = {
             ...newUser._doc,
         }
     },
-    loginAccount: async ({ username, password }) => {
+    loginAccount: async ({ username, password }, res) => {
         const user = await User.findOne({ username: username });
         if (!user) throw new Error("User not found.");
         const isMatch = await bcrypt.compare(password, user.password);
         if (!isMatch) throw new Error("Password is incorrect.");
         const payload = {
+            sub: 'token login',
+            iss: 'from server',
             username: user.username,
             id: user.userID,
         };
-        const token = jwt.sign(payload, process.env.SECRET_KEY, {
-            expiresIn: "3d",
+        const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
+            expiresIn: "15m",
         });
-        const { userID, showName, _id } = user;
+        const refresh_token = jwt.sign(payload, process.env.SECRET_KEY, {
+            expiresIn: "30d",
+        });
+        res.setHeader('Authorization', `Bearer ${access_token}`);
+        const cookieValue = `refreshToken=${refresh_token}; HttpOnly; Max-Age=${30 * 24 * 60 * 60}; Path=/`; // 30 days
+        res.setHeader('Set-Cookie', cookieValue);
         return {
-            _id,
-            userID,
-            showName,
-            token,
+            _id: user._id,
+            showName: user.showName,
+            email: user.username,
+            access_token: access_token,
+            refresh_token: refresh_token
+        }
+    },
+    processNewToken: async (refreshToken, res) => {
+        let result = jwt.verify(refreshToken, process.env.SECRET_KEY)
+        const { username, id } = result
+        const payload = {
+            sub: 'token refresh',
+            iss: 'from server',
+            username: username,
+            id: id,
+        };
+        const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
+            expiresIn: "15m",
+        });
+        const refresh_token = jwt.sign(payload, process.env.SECRET_KEY, {
+            expiresIn: "30d",
+        });
+        res.cookie('refreshToken', '', { expires: new Date(0) });
+        const cookieValue = `refreshToken=${refresh_token}; HttpOnly; Max-Age=${30 * 24 * 60 * 60}; Path=/`; // 30 days
+        res.setHeader('Set-Cookie', cookieValue);
+        return {
+            _id: id,
+            email: username,
+            access_token: access_token,
+            refresh_token: refresh_token
         }
     },
     markMovie: async ({ userID, movieID }) => {
