@@ -21,10 +21,11 @@ const movieSeasonRepository = {
         return allMovie;
     },
     getMovieDetail: async (slug) => {
-        const movieDetail = await MovieSeason.find({ slug: slug })
-            .populate("typeMovie._id")
-            .sort({ totalRate: -1 })
-            .limit(8);
+        const movieDetail = await MovieSeason.find({
+            slug,
+        })
+        .populate({ path: "typeMovie._id" })
+        .populate("movieID");
         if (movieDetail.length === 0) throw new Error("Movie not found");
         return movieDetail;
     },
