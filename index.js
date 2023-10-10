@@ -14,6 +14,7 @@ import {
     addvertisementRouter,
     watchingHistoryRouter
 } from './src/routes/index.js';
+import cookieParser from 'cookie-parser';
 
 dotenv.config()
 const app = express();
@@ -27,6 +28,7 @@ mongoose.connect(process.env.MONGO_URL, () => {
 
 const httpServer = http.createServer(app);
 app.use(express.json())
+app.use(cookieParser());
 
 app.use('/api/comment', commentRouter);
 app.use('/api/movie', movieRouter);

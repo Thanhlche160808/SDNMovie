@@ -8,14 +8,10 @@ const authenticate = (req, res, next) => {
     if (tokenParts.length !== 2 || tokenParts[0] !== "Bearer") {
         return res.status(401).json({ message: "Invalid token format" });
     }
-
     const token = tokenParts[1];
-    console.log("token: ", token);
-
     try {
         const decoded = jwt.verify(token, process.env.SECRET_KEY);
-        console.log("decoded: ", decoded);
-        if(Date.now() >= decoded.exp * 1000){
+        if (Date.now() >= decoded.exp * 1000) {
             return res.status(400).json({ message: "Access token expired" });
         }
         req.user = decoded;
