@@ -60,10 +60,8 @@ const userController = {
     },
     getMarkMovie: async (req, resp) => {
         try {
-            const { userID } = req.query._id;
-            const movies = await userRepository.getMarkedMovie({
-                userID,
-            });
+            const { _id }  = req.query;
+            const movies = await userRepository.getMarkedMovie(_id);
             return resp.status(200).json(movies);
         } catch (error) {
             return resp.status(500).json(error);
