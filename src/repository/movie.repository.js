@@ -65,9 +65,15 @@ const movieRepository = {
                 }
             },
             {
-                $sort: { totalViews: -1 } // Sort by total views in descending order
+                $sort: { totalViews: -1 }
             }
         ]);
+
+        for (const movie of movieSeasons) {
+            const movieID = movie._id;
+            const totalViews = movie.totalViews;
+            await Movie.updateOne({ _id: movieID }, { totalView: totalViews });
+        }
 
         return movieSeasons
     },
