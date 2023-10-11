@@ -30,7 +30,17 @@ const movieController = {
                 message: 'Can not add season of movies!!!',
             });
         }
-    }
+    },
+    getAllViewByMovie: async (req, res) => {
+        try {
+            const getAllViewByMovie = await movieRepository.getAllViewByMovie();
+            return res.status(200).json(getAllViewByMovie)
+        } catch (error) {
+            return res.status(500).json({
+                message: 'Can not get all view by movie!!!',
+            });
+        }
+    },
 }
 
 export default movieController
