@@ -1,6 +1,26 @@
 import jwt from "jsonwebtoken";
 
+const listByPassURL = [
+    '/api/user/login',
+    '/api/user/create',
+    '/api/user/refresh',
+]
+
+function checkExistURL(url) {
+    const result = listByPassURL.find(u => u.toLocaleLowerCase().trim() == url.toLowerCase().trim())
+    if (result)
+        return true
+    else
+        return false
+}
+
+
 const authenticate = (req, res, next) => {
+    if (checkExistURL(req.url)) {
+        next()
+        return
+    }
+
     const tokenHeader = req.header("Authorization");
     if (!tokenHeader) return res.status(401).json({ message: "Unauthorized" });
 
