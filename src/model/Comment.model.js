@@ -1,5 +1,13 @@
 import mongoose from "mongoose";
 
+const ReplySchema = new mongoose.Schema({
+    author: String,
+    content: String,
+    date: String,
+    replyComments: [mongoose.Schema.Types.ObjectId]  // Allow nested replies
+});
+
+
 const CommentsSchema = new mongoose.Schema({
     commentID: {
         type: mongoose.Schema.Types.ObjectId,
@@ -11,13 +19,7 @@ const CommentsSchema = new mongoose.Schema({
     movie: {
         type: mongoose.Schema.Types.ObjectId,
     },
-    replyComments: [
-        {
-            author: String,
-            content: String,
-            date: String,
-        },
-    ],
+    replyComments: [ReplySchema],
     date: String,
     like: [
         {

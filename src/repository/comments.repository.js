@@ -62,9 +62,12 @@ const commentsRepository = {
         if (!comment) {
             return res.status(404).json({ error: 'Cannot find comments with Id' });
         }
-        const createdReply = await Comments.create({
-            author, content, date: Date.now()
-        });
+        const createdReply = {
+            _id,
+            author,
+            content,
+            date: Date.now(),
+        };
         comment.replyComments.push(createdReply);
 
         await comment.save();
