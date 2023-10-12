@@ -15,7 +15,7 @@ const CommentsSchema = new mongoose.Schema({
         {
             author: String,
             content: String,
-            dateRep: String,
+            date: String,
         },
     ],
     date: String,

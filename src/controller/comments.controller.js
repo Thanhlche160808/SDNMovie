@@ -38,6 +38,16 @@ const commentController = {
                 message: "Can not delete a comment!",
             });
         }
+    },
+    replyComment: async (req, res) => {
+        try {
+            const result = await commentsRepository.replyComment(req)
+            return res.status(200).json(result);
+        } catch (error) {
+            return res.status(500).json({
+                message: "Can not reply a comment!",
+            });
+        }
     }
 }
 
