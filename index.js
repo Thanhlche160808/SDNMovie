@@ -12,7 +12,8 @@ import {
     rateRouter,
     typeRouter,
     addvertisementRouter,
-    watchingHistoryRouter
+    watchingHistoryRouter,
+    commentReplyRouter
 } from './src/routes/index.js';
 import cookieParser from 'cookie-parser';
 import authenticate from './src/middleware/auth.middleware.js';
@@ -41,6 +42,7 @@ app.use("/api/rate", rateRouter);
 app.use("/api/type", typeRouter);
 app.use("/api/ads", addvertisementRouter);
 app.use("/api/watching_history", watchingHistoryRouter);
+app.use("/api/comment_reply", commentReplyRouter)
 
 const PORT = process.env.PORT || 8000;
 

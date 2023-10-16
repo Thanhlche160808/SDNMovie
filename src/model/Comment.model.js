@@ -11,12 +11,10 @@ const CommentsSchema = new mongoose.Schema({
     movie: {
         type: mongoose.Schema.Types.ObjectId,
     },
-    replyComments: [{
-        id: Number,
-        author: String,
-        content: String,
-        date: String,
-    }],
+    replyCommentsId: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "CommentsReply",
+    },],
     date: String,
     like: [
         {

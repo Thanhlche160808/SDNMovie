@@ -1,4 +1,5 @@
 import Comments from '../model/Comment.model.js';
+import ReplyComment from '../model/CommentReply.model.js';
 import moment from 'moment/moment.js';
 
 const commentsRepository = {
@@ -56,18 +57,28 @@ const commentsRepository = {
         if (!_id) {
             throw new Error("Lack of informations of commentId")
         }
-        const comment = await Comments.findById(_id);
-        if (!comment) {
-            throw new Error("Cannot find comments with Id")
-        }
-        const createdReply = {
+        const newReplyComment = new ReplyComment({
             author,
             content,
-            date: Date.now(),
-        };
-        comment.replyComments.push(createdReply);
+            date: new Date().toISOString()
+        });
+
+        // Save the new reply comment
+        await newReplyComment.save();
+
+        // Find the comment by commentId and add the reply comment's ID to replyCommentsId array
+        const comment = await Comments.findById(_id);
+
+        if (!comment) {
+            throw new Error('Comment not found');
+        }
+
+        comment.replyCommentsId.push(newReplyComment._id);
+
+        // Save the updated comment
         await comment.save();
-        return createdReply
+
+        return newReplyComment;
     },
     updateComment: async (req, res) => {
         const { _id } = req.query;
@@ -87,7 +98,7 @@ const commentsRepository = {
 
         await comment.save();
         return comment;
-    }
+    },
 }
 
 export default commentsRepository
