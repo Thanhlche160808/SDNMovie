@@ -64,6 +64,7 @@ const rateRepository = {
             }
         }
     },
+    
     getRateMovie: async (rateParams) => {
         const { slug } = rateParams;
         const rate = await Rate.find({ MovieSlug: slug })
@@ -71,6 +72,7 @@ const rateRepository = {
             .sort({ updatedAt: -1 });
         return rate
     }
+    
 }
 
 export default rateRepository

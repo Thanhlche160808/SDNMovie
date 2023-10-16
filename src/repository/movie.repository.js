@@ -14,6 +14,67 @@ const movieRepository = {
         const movies = await Movie.find()
         return movies
     },
+    getAllRateByMovie: async () => {
+        const movieRatings = await MovieSeason.aggregate([
+            {
+                $group: {
+                    _id: '$movieID',
+                    numberRatings: { $sum: '$numberRate' } 
+                }
+            },
+            {
+                $lookup: {
+                    from: 'movies',
+                    localField: '_id',
+                    foreignField: '_id',
+                    as: 'movie'
+                }
+            },
+            {
+                $unwind: '$movie'
+            },
+            {
+                $project: {
+                    _id: 1,
+                    movieName: '$movie.movieName',
+                    numberRatings: 1
+                }
+            },
+            {
+                $sort: { numberRatings: -1 }
+            }
+        ]);
+    
+        for (const movie of movieRatings) {
+            const movieID = movie._id;
+            const numberRatings = movie.numberRatings;
+            await Movie.updateOne({ _id: movieID }, { numberRatings: numberRatings });
+        }
+    
+        return movieRatings;
+    },
+    get10RateByMovie: async () => {
+        const topMovies = await MovieSeason.aggregate([
+            {
+                $sortByCount: { totalRate: -1 } // Sắp xếp các mùa/seasons theo điểm đánh giá giảm dần
+            },
+            {
+                $limit: 10 // Giới hạn kết quả chỉ lấy 10 phim
+            },
+            {
+                $project: {
+                    _id: 0,
+                    movieID: "$movieID",
+                    movieSeasonID: "$movieSeasonID",
+                    movieName: "$name",
+                    maxRating: "$totalRate"
+                }
+            }
+        ]);
+    
+        return topMovies;
+    },
+
     addSeason: async (seasonInfo) => {
         const result = await Movie.findOneAndUpdate(
             { _id: seasonInfo._id },
