@@ -2,6 +2,7 @@ import User from "../model/User.model.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import MovieSeason from "../model/MovieSeason.model.js";
+import { CronJob } from "cron";
 
 const userRepository = {
     createAccount: async ({ username, password, showName }) => {
@@ -93,6 +94,30 @@ const userRepository = {
     getMarkedMovie: async (userID) => {
         const movies = await User.findOne({ _id: userID }).populate("mark");
         return movies;
+    },
+    updateVip: async (userID) => {
+        const user = await User.findById(userID);
+        if (!user) {
+            throw new Error("User not found");
+        }
+        user.vip = true;
+        await user.save();
+        console.log('VIP status updated successfully for user with userID:', userID);
+
+        const thirtyDaysInSeconds = 30 * 24 * 60 * 60; // 30 days in seconds
+        const cronExpression = `*/${thirtyDaysInSeconds} * * * * *`;
+
+        const resetJob = new CronJob(cronExpression, async () => {
+            const userToUpdate = await User.findById(userID);
+            if (userToUpdate && userToUpdate.vip) {
+                userToUpdate.vip = false;
+                await userToUpdate.save();
+                console.log('VIP status reset to false for user with userID:', userID);
+            }
+        });
+
+        resetJob.start();
+        return user;
     }
 };
 
