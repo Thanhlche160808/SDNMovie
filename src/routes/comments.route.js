@@ -12,6 +12,8 @@ commentRouter.post("/like", commentsController.likeComment);
 
 commentRouter.post("/delete", commentsController.deleteComment);
 
+commentRouter.patch("/update-comment", commentsController.updateComment);
+
 commentRouter.post("/reply", commentsController.replyComment);
 
 export default commentRouter;

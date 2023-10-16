@@ -51,28 +51,42 @@ const commentsRepository = {
         return deletedComment
     },
     replyComment: async (req) => {
-        const dateFormat = Date.parse(moment().format());
         const { _id } = req.query;
-        const { author, content, dateRep } = req.body;
-        console.log(_id, content, dateRep, author)
+        const { author, content } = req.body;
         if (!_id) {
-            return res.status(400).json({ error: 'Lack of informations of commentId' });
+            throw new Error("Lack of informations of commentId")
         }
         const comment = await Comments.findById(_id);
         if (!comment) {
-            return res.status(404).json({ error: 'Cannot find comments with Id' });
+            throw new Error("Cannot find comments with Id")
         }
         const createdReply = {
-            _id,
             author,
             content,
             date: Date.now(),
         };
         comment.replyComments.push(createdReply);
+        await comment.save();
+        return createdReply
+    },
+    updateComment: async (req, res) => {
+        const { _id } = req.query;
+        const { content } = req.body;
+        if (!_id) {
+            throw new Error("Lack of commentId information");
+        }
+        const comment = await Comments.findById(_id);
+
+        if (!comment) {
+            throw new Error("Cannot find comment with the provided Id");
+        }
+
+        // Update content and updatedAt
+        comment.content = content;
+        comment.updatedAt = new Date();
 
         await comment.save();
-
-        return createdReply
+        return comment;
     }
 }
 
