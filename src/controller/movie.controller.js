@@ -31,6 +31,17 @@ const movieController = {
             });
         }
     },
+    getAllRateByMovie: async (req, res) => {
+        try {
+            const getAllRateByMovie = await movieRepository.getAllRateByMovie();
+            return res.status(200).json(getAllRateByMovie)
+        } catch (error) {
+            return res.status(500).json({
+                message: 'Can not get all rate by movie!!!',
+            })
+        }
+    },
+
     getAllViewByMovie: async (req, res) => {
         try {
             const getAllViewByMovie = await movieRepository.getAllViewByMovie();
@@ -42,5 +53,6 @@ const movieController = {
         }
     },
 }
+
 
 export default movieController

@@ -1,5 +1,6 @@
 import MovieSeason from "../model/MovieSeason.model.js";
 
+
 const movieSeasonRepository = {
     addMovieSeasonService: async ({ name, content, totalChap, image, datePub, typeMovie, view }) => {
         const newMovieSeason = await MovieSeason.create({
@@ -70,6 +71,7 @@ const movieSeasonRepository = {
             .populate("typeMovie._id");
         return movieMostView;
     },
+    
     getFillterMovie: async (type, view, page) => {
         if (type === "all") {
             const count = await MovieSeason.countDocuments();
