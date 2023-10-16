@@ -9,10 +9,14 @@ const UserSchema = new mongoose.Schema({
     showName: String,
     mark: [
         {
-            type: Number,
+            type: mongoose.Schema.Types.ObjectId,
             ref: "MovieSeason",
         },
     ],
+    vip: {
+        type: Boolean,
+        default: false,
+    },
 });
 UserSchema.plugin(AutoIncrement(mongoose), { inc_field: "userID" });
 let User = mongoose.model("User", UserSchema);

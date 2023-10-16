@@ -1,5 +1,6 @@
 import Movie from '../model/Movie.model.js';
 import MovieSeason from '../model/MovieSeason.model.js';
+import User from '../model/User.model.js';
 
 const movieRepository = {
     addMovie: async (movieInfo) => {
@@ -97,7 +98,46 @@ const movieRepository = {
             }
         );
         return result
-    }
+    },
+    getAllViewByMovie: async () => {
+        const movieSeasons = await MovieSeason.aggregate([
+            {
+                $group: {
+                    _id: '$movieID',
+                    totalViews: { $sum: '$view' }
+                }
+            },
+            {
+                $lookup: {
+                    from: 'movies',
+                    localField: '_id',
+                    foreignField: '_id',
+                    as: 'movie'
+                }
+            },
+            {
+                $unwind: '$movie'
+            },
+            {
+                $project: {
+                    _id: 1,
+                    movieName: '$movie.movieName',
+                    totalViews: 1
+                }
+            },
+            {
+                $sort: { totalViews: -1 }
+            }
+        ]);
+
+        for (const movie of movieSeasons) {
+            const movieID = movie._id;
+            const totalViews = movie.totalViews;
+            await Movie.updateOne({ _id: movieID }, { totalView: totalViews });
+        }
+
+        return movieSeasons
+    },
 }
 
 export default movieRepository

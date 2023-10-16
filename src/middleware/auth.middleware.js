@@ -1,9 +1,26 @@
-import * as dotenv from 'dotenv';
 import jwt from "jsonwebtoken";
 
-dotenv.config();
+const listByPassURL = [
+    '/api/user/login',
+    '/api/user/create',
+    '/api/user/refresh',
+]
+
+function checkExistURL(url) {
+    const result = listByPassURL.find(u => u.toLocaleLowerCase().trim() == url.toLowerCase().trim())
+    if (result)
+        return true
+    else
+        return false
+}
+
 
 const authenticate = (req, res, next) => {
+    if (checkExistURL(req.url)) {
+        next()
+        return
+    }
+
     const tokenHeader = req.header("Authorization");
     if (!tokenHeader) return res.status(401).json({ message: "Unauthorized" });
 
@@ -11,13 +28,12 @@ const authenticate = (req, res, next) => {
     if (tokenParts.length !== 2 || tokenParts[0] !== "Bearer") {
         return res.status(401).json({ message: "Invalid token format" });
     }
-
     const token = tokenParts[1];
-    console.log("token: ", token);
-
     try {
         const decoded = jwt.verify(token, process.env.SECRET_KEY);
-        console.log("decoded: ", decoded);
+        if (Date.now() >= decoded.exp * 1000) {
+            return res.status(400).json({ message: "Access token expired" });
+        }
         req.user = decoded;
         next();
     } catch (error) {

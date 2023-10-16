@@ -4,12 +4,16 @@ import express from "express";
 
 const commentRouter = express.Router();
 
-commentRouter.post("/create", authenticate ,commentsController.addAComments);
+commentRouter.post("/create", commentsController.addAComments);
 
 commentRouter.get("/movie", commentsController.getCommentsByMovie);
 
 commentRouter.post("/like", commentsController.likeComment);
 
 commentRouter.post("/delete", commentsController.deleteComment);
+
+commentRouter.patch("/update-comment", commentsController.updateComment);
+
+commentRouter.post("/reply", commentsController.replyComment);
 
 export default commentRouter;

@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "642865f02352d72f91cf8ce0"
+  },
+  "typeName": "Action",
+  "createdAt": {
+    "$date": "2023-04-01T17:12:16.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T17:12:16.680Z"
+  },
+  "slug": "action",
+  "typeID": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64286c722352d72f91cf8ce4"
+  },
+  "typeName": "Anime",
+  "createdAt": {
+    "$date": "2023-04-01T17:40:02.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T17:40:02.361Z"
+  },
+  "slug": "anime",
+  "typeID": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64286da02352d72f91cf8ce9"
+  },
+  "typeName": "Comedy",
+  "createdAt": {
+    "$date": "2023-04-01T17:45:04.104Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T17:45:04.104Z"
+  },
+  "slug": "comedy",
+  "typeID": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64286e382352d72f91cf8cee"
+  },
+  "typeName": "Marvel",
+  "createdAt": {
+    "$date": "2023-04-01T17:47:36.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T17:47:36.936Z"
+  },
+  "slug": "marvel",
+  "typeID": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d58931486bc397e2da80c"
+  },
+  "typeName": "Adventure",
+  "slug": "adventure",
+  "typeID": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fa99574df1e0c57f149a4"
+  },
+  "typeName": "China",
+  "slug": "china",
+  "typeID": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ffd69bd882a26309f1c6a"
+  },
+  "typeName": "Việt Nam",
+  "slug": "viet-nam",
+  "typeID": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ffd73bd882a26309f1c6f"
+  },
+  "typeName": "Tình cảm",
+  "slug": "tinh-cam",
+  "typeID": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643010119a6d0cdb83db6136"
+  },
+  "typeName": "Âu Mỹ",
+  "slug": "au-my",
+  "typeID": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324b8071dc93f77ce8513b"
+  },
+  "typeName": "Chuyển Sinh",
+  "slug": "chuyen-sinh",
+  "typeID": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433906ff2a747d0ea14a18d"
+  },
+  "typeName": "DC",
+  "slug": "dc",
+  "typeID": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433c5e5f3cc8afc91bafa83"
+  },
+  "typeName": "Fantasy",
+  "slug": "fantasy",
+  "typeID": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cee0268e6d0d569fa4906"
+  },
+  "typeName": "Cartoon",
+  "slug": "cartoon",
+  "typeID": 13,
+  "__v": 0
+}]

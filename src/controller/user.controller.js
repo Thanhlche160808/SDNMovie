@@ -4,21 +4,19 @@ import { userRepository } from '../repository/index.js';
 const userController = {
     addAccount: async (req, resp) => {
         try {
-            console.log(1);
             const { username, password, showName } = req.body;
             console.log("username: ", username);
+            console.log("password: ", password);
+            console.log("showName: ", showName);
             const user = await userRepository.createAccount({
                 username,
                 password,
                 showName,
             });
             console.log(2);
-            resp.status(200).json({
-                message: "Create account successfully",
-                data: user,
-            });
+            resp.status(200).json(user);
         } catch (error) {
-            resp.status(500).json(error?.response?.data);
+            resp.status(400).json(error?.response?.data);
         }
     },
     loginAccount: async (req, resp) => {
@@ -27,40 +25,44 @@ const userController = {
             const user = await userRepository.loginAccount({
                 username,
                 password,
-            });
-            resp.status(200).json({
-                message: "Login successfully",
-                data: user,
-            });
+            }, resp);
+            resp.status(200).json(user);
         } catch (error) {
             resp.status(500).json(error);
         }
     },
-    markMovie: async (req, resp) => {
+    refreshToken: async (req, resp) => {
         try {
-            const { userID, movieID } = req.body;
-            const movie = await userRepository.markMovie({
-                userID,
+            const refreshToken = req.cookies['refreshToken']
+            const refresh_token = await userRepository.processNewToken(refreshToken, resp)
+            resp.status(200).json(
+                {
+                    message: "Get refresh token",
+                    data: refresh_token
+                }
+            );
+        } catch (error) {
+            resp.status(400).json({ message: 'Can not find refresh token trong cookies.' });
+        }
+    },
+    markMovie: async (req, resp) => {
+        console.log(req.body);
+        try {
+            const { movieID, _id } = req.body;
+            await userRepository.markMovie({
                 movieID,
+                userID: _id,
             });
-            return resp.status(200).json({
-                message: "Mark movie successfully",
-                data: movie,
-            });
+            return resp.status(200).json("Mark movie successfully");
         } catch (error) {
             return resp.status(500).json(error);
         }
     },
     getMarkMovie: async (req, resp) => {
         try {
-            const { userID } = req.body;
-            const movies = await userRepository.getMarkedMovie({
-                userID,
-            });
-            return resp.status(200).json({
-                message: "Get marked movie successfully",
-                data: movies,
-            });
+            const { _id }  = req.query;
+            const movies = await userRepository.getMarkedMovie(_id);
+            return resp.status(200).json(movies);
         } catch (error) {
             return resp.status(500).json(error);
         }

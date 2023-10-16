@@ -4,11 +4,9 @@ const typeController = {
     addType: async (req, res) => {
         try {
             const newType = await typeMovieRepository.addType(req.body);
-            return res.status(200).json({
-                message: newType,
-            });
+            return res.status(200).json(newType);
         } catch (error) {
-            return res.status(500).json({
+            return res.status(400).json({
                 message: 'Can not add the type of the movie!!!',
             });
         }
@@ -16,10 +14,7 @@ const typeController = {
     getAllType: async (req, res) => {
         try {
             const allType = await typeMovieRepository.getAllType();
-            return res.status(200).json({
-                message: 'Get all type successfully!!!',
-                data: allType
-            });
+            return res.status(200).json(allType);
         } catch (error) {
             return res.status(500).json({
                 message: 'Can not get all type!!!',
@@ -29,10 +24,7 @@ const typeController = {
     getMovieType: async (req, res) => {
         try {
             const result = await typeMovieRepository.getMovieType(req.query);
-            return res.status(200).json({
-                message: 'Get movie type successfully!!!',
-                data: result
-            });
+            return res.status(200).json(result);
         } catch (error) {
             return res.status(500).json({
                 message: 'Can not get movie type!!!',

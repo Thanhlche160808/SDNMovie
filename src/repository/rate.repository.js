@@ -30,16 +30,17 @@ const rateRepository = {
                 }
             );
             return {
-                message: "You have successfully updated your review!!!"
+                msg: "You have successfully updated your review!!!"
             }
         } else {
-            const rate = await Rate.create({
+            const rate = new Rate({
                 movieSeasonID: rateInfo.movieSeasonID,
                 userID: rateInfo.userID,
                 rate: rateInfo.rate,
                 content: rateInfo.content,
                 MovieSlug: rateInfo.MovieSlug,
             });
+            const res = await rate.save();
             const rateMovie = await Rate.find({
                 movieSeasonID: rateInfo.movieSeasonID,
             });
@@ -59,8 +60,8 @@ const rateRepository = {
                 }
             );
             return {
-                message: "You have successfully posted your review!!!",
-                data: rate
+                msg: "You have successfully posted your review!!!",
+                rate: res
             }
         }
     },

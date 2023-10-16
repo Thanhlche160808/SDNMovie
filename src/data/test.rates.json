@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "642db5c4ba1e7c153176f2cc"
+  },
+  "rate": 9,
+  "movieSeasonID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "content": "danh gia ne",
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-04-05T18:41:59.928Z"
+  },
+  "MovieSlug": "vinland-saga-season-1",
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "642e3ee704c938422ac07ab7"
+  },
+  "rate": 10,
+  "MovieSlug": "vinland-saga-season-1",
+  "movieSeasonID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "userID": {
+    "$oid": "6427ce0653f82e268fc77cd4"
+  },
+  "content": "Hay qua bn oi",
+  "createdAt": {
+    "$date": "2023-04-06T03:39:19.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T04:52:50.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e88fc73a551e7d4fb464a"
+  },
+  "rate": 10,
+  "MovieSlug": "rick-and-morty-season-2",
+  "movieSeasonID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "Phim qua hay di ak ",
+  "createdAt": {
+    "$date": "2023-04-06T08:55:24.195Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T08:55:24.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643008cc8064d6f5c6eb5290"
+  },
+  "rate": 10,
+  "MovieSlug": "rick-and-morty-season-1",
+  "movieSeasonID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "Hay",
+  "createdAt": {
+    "$date": "2023-04-07T12:13:00.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:13:00.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643009d71d9c3cadd440d6bf"
+  },
+  "rate": 10,
+  "MovieSlug": "chi-chi-em-em-2",
+  "movieSeasonID": {
+    "$oid": "642ffdcebd882a26309f1c77"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "Qua hay",
+  "createdAt": {
+    "$date": "2023-04-07T12:17:27.246Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:17:27.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300ab56baededd5b6101d7"
+  },
+  "rate": 10,
+  "MovieSlug": "vinland-saga-season-2",
+  "movieSeasonID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "Toi la hoan",
+  "createdAt": {
+    "$date": "2023-04-07T12:21:09.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-08T15:04:50.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64310b705d865217bd2742b1"
+  },
+  "rate": 10,
+  "MovieSlug": "chi-chi-em-em-2",
+  "movieSeasonID": {
+    "$oid": "642ffdcebd882a26309f1c77"
+  },
+  "userID": {
+    "$oid": "6427ce0653f82e268fc77cd4"
+  },
+  "content": "10 qua hay",
+  "createdAt": {
+    "$date": "2023-04-08T06:36:32.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-08T06:36:32.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64310c565d865217bd2742d1"
+  },
+  "rate": 10,
+  "MovieSlug": "vinland-saga-season-2",
+  "movieSeasonID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "userID": {
+    "$oid": "6427ce0653f82e268fc77cd4"
+  },
+  "content": "10 diem",
+  "createdAt": {
+    "$date": "2023-04-08T06:40:22.835Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-08T06:44:53.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324ea471dc93f77ce8518a"
+  },
+  "rate": 10,
+  "MovieSlug": "isekai-shoukan-wa-nidome-desu",
+  "movieSeasonID": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "hay",
+  "createdAt": {
+    "$date": "2023-04-09T05:35:32.187Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T05:35:32.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324eb671dc93f77ce85197"
+  },
+  "rate": 10,
+  "MovieSlug": "isekai-shoukan-wa-nidome-desu",
+  "movieSeasonID": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "userID": {
+    "$oid": "6427ce0653f82e268fc77cd4"
+  },
+  "content": "qua hay",
+  "createdAt": {
+    "$date": "2023-04-09T05:35:50.728Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T05:35:50.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324ecf71dc93f77ce851a3"
+  },
+  "rate": 10,
+  "MovieSlug": "isekai-shoukan-wa-nidome-desu",
+  "movieSeasonID": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "userID": {
+    "$oid": "64301a1e9a6d0cdb83db614f"
+  },
+  "content": "chuan bai roi em hoan oi",
+  "createdAt": {
+    "$date": "2023-04-09T05:36:15.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T05:36:15.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e83e00210bebafc7c312"
+  },
+  "rate": 10,
+  "MovieSlug": "truong-nguyet-tan-minh",
+  "movieSeasonID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "userID": {
+    "$oid": "64301a1e9a6d0cdb83db614f"
+  },
+  "content": "hay qua em oi",
+  "createdAt": {
+    "$date": "2023-04-09T16:30:54.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T16:30:54.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64353952f01acab11b3d5edb"
+  },
+  "rate": 10,
+  "MovieSlug": "dau-pha-thuong-khung-phan-5",
+  "movieSeasonID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "qua hay",
+  "createdAt": {
+    "$date": "2023-04-11T10:41:22.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T10:41:22.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64354b5ef01acab11b3d5fdb"
+  },
+  "rate": 10,
+  "MovieSlug": "dead-mount-death-play",
+  "movieSeasonID": {
+    "$oid": "6434e31519dfa8332c331cd5"
+  },
+  "userID": {
+    "$oid": "64354b42f01acab11b3d5fcc"
+  },
+  "content": "10 diem",
+  "createdAt": {
+    "$date": "2023-04-11T11:58:22.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T11:58:22.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64357874a41435d0b9ce8446"
+  },
+  "rate": 10,
+  "MovieSlug": "truong-nguyet-tan-minh",
+  "movieSeasonID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "Bo phim nay hay vai chuong",
+  "createdAt": {
+    "$date": "2023-04-11T15:10:44.156Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:10:44.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64357f47a41435d0b9ce8535"
+  },
+  "rate": 10,
+  "MovieSlug": "rick-and-morty-season-2",
+  "movieSeasonID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "userID": {
+    "$oid": "64357f29a41435d0b9ce8528"
+  },
+  "content": "web khoẻ điên. Người code là vua",
+  "createdAt": {
+    "$date": "2023-04-11T15:39:51.751Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:39:51.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64358504a41435d0b9ce85b2"
+  },
+  "rate": 10,
+  "MovieSlug": "rick-and-morty-season-2",
+  "movieSeasonID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "userID": {
+    "$oid": "643584b8a41435d0b9ce8599"
+  },
+  "content": "Phim hay qua ",
+  "createdAt": {
+    "$date": "2023-04-11T16:04:20.398Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T16:04:20.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437b22ba41435d0b9ce93e9"
+  },
+  "rate": 10,
+  "MovieSlug": "gotham-knights-season-1",
+  "movieSeasonID": {
+    "$oid": "6436bb05a41435d0b9ce91c3"
+  },
+  "userID": {
+    "$oid": "6437b206a41435d0b9ce93da"
+  },
+  "content": "Phim đỉnh quass",
+  "createdAt": {
+    "$date": "2023-04-13T07:41:31.782Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-13T07:41:31.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437b23ba41435d0b9ce93f5"
+  },
+  "rate": 10,
+  "MovieSlug": "creed-iii",
+  "movieSeasonID": {
+    "$oid": "6436aedba41435d0b9ce9164"
+  },
+  "userID": {
+    "$oid": "6437b206a41435d0b9ce93da"
+  },
+  "content": "Đấm nhau gke quasss",
+  "createdAt": {
+    "$date": "2023-04-13T07:41:47.003Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-13T07:41:47.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437b24ca41435d0b9ce940f"
+  },
+  "rate": 10,
+  "MovieSlug": "kimetsu-no-yaiba",
+  "movieSeasonID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "userID": {
+    "$oid": "6437b206a41435d0b9ce93da"
+  },
+  "content": "Phim hay gkeee",
+  "createdAt": {
+    "$date": "2023-04-13T07:42:04.951Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-13T07:42:04.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438d28ba41435d0b9ce968d"
+  },
+  "rate": 10,
+  "MovieSlug": "ousama-ranking-yuuki-no-takarabako",
+  "movieSeasonID": {
+    "$oid": "6438d1c3a41435d0b9ce966c"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "qua hay",
+  "createdAt": {
+    "$date": "2023-04-14T04:11:55.660Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-14T04:11:55.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acd8ba41435d0b9ce9abf"
+  },
+  "rate": 6,
+  "MovieSlug": "rick-and-morty-season-2",
+  "movieSeasonID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "userID": {
+    "$oid": "643acd58a41435d0b9ce9aac"
+  },
+  "content": "ddm may thang chinabu\nt wibu",
+  "createdAt": {
+    "$date": "2023-04-15T16:15:07.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-15T16:15:07.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f963468e6d0d569fa4c7b"
+  },
+  "rate": 10,
+  "MovieSlug": "rick-and-morty-season-3",
+  "movieSeasonID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "userID": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "content": "Hay",
+  "createdAt": {
+    "$date": "2023-04-19T07:20:20.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T07:20:40.863Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,178 @@
+[{
+  "_id": {
+    "$oid": "6427c21aee27224ea9f8e1cf"
+  },
+  "roleName": "ROLE_ADMIN",
+  "username": "dinhhoan",
+  "password": "123",
+  "showName": "Dinh Hoan",
+  "createdAt": {
+    "$date": "2023-04-01T05:33:14.372Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T05:33:14.372Z"
+  },
+  "userID": 6,
+  "__v": 0,
+  "mark": [
+    {
+      "$oid": "64290e17ad62e8a905338e11"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6427ce0653f82e268fc77cd4"
+  },
+  "roleName": "ROLE_USER",
+  "username": "vuong",
+  "password": "123",
+  "showName": "vuong nguyen",
+  "createdAt": {
+    "$date": "2023-04-01T06:24:06.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T06:24:06.281Z"
+  },
+  "userID": 7,
+  "__v": 0,
+  "mark": [
+    {
+      "$oid": "6428fb8f6e9ab979b4f8e0ef"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64301a1e9a6d0cdb83db614f"
+  },
+  "roleName": "ROLE_USER",
+  "username": "congthanh",
+  "password": "123",
+  "showName": "Cong thanh",
+  "mark": [
+    {
+      "$oid": "64290e17ad62e8a905338e11"
+    },
+    {
+      "$oid": "642ffdcebd882a26309f1c77"
+    },
+    {
+      "$oid": "6428fb8f6e9ab979b4f8e0ef"
+    }
+  ],
+  "userID": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64354b42f01acab11b3d5fcc"
+  },
+  "roleName": "ROLE_USER",
+  "username": "thai",
+  "password": "123",
+  "showName": "thai nguyen",
+  "mark": [],
+  "userID": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64357f29a41435d0b9ce8528"
+  },
+  "roleName": "ROLE_USER",
+  "username": "vipsuper104",
+  "password": "1042001",
+  "showName": "Yêu Đình Hoàn",
+  "mark": [],
+  "userID": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643584b8a41435d0b9ce8599"
+  },
+  "roleName": "ROLE_USER",
+  "username": "letuan",
+  "password": "2002",
+  "showName": "Le Tuan lan dau tro thanh wibu",
+  "mark": [],
+  "userID": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64363d46a41435d0b9ce87a2"
+  },
+  "roleName": "ROLE_USER",
+  "username": "phuong",
+  "password": "123",
+  "showName": "phuong",
+  "mark": [
+    {
+      "$oid": "64324ce471dc93f77ce85154"
+    }
+  ],
+  "userID": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643688c7a41435d0b9ce8eb0"
+  },
+  "roleName": "ROLE_USER",
+  "username": "Nakien05072022",
+  "password": "Nakien05072022",
+  "showName": "kien662001",
+  "mark": [],
+  "userID": 13,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437b206a41435d0b9ce93da"
+  },
+  "roleName": "ROLE_USER",
+  "username": "huyQuan",
+  "password": "09052002",
+  "showName": "huyQuan",
+  "mark": [],
+  "userID": 14,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64384460a41435d0b9ce959e"
+  },
+  "roleName": "ROLE_USER",
+  "username": "minhdong0502",
+  "password": "minhdong0502",
+  "showName": "Minh Dong",
+  "mark": [],
+  "userID": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acd58a41435d0b9ce9aac"
+  },
+  "roleName": "ROLE_USER",
+  "username": "vietthai2001",
+  "password": "vietthai2001",
+  "showName": "VetiTahi",
+  "mark": [],
+  "userID": 16,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6470a6e068e6d0d569fa5e1e"
+  },
+  "roleName": "ROLE_USER",
+  "username": "aaa",
+  "password": "aaa",
+  "showName": "aaa",
+  "mark": [],
+  "userID": 17,
+  "__v": 0
+}]

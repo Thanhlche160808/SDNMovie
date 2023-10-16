@@ -4,10 +4,7 @@ const commentController = {
     addAComments: async (req, res) => {
         try {
             const newComment = await commentsRepository.addAComments(req.body);
-            return res.status(200).json({
-                message: 'Add comments successfully!!!',
-                data: newComment
-            });
+            return res.status(200).json(newComment);
         } catch (error) {
             return res.status(500).json({
                 message: 'Can not add comments!!!',
@@ -17,10 +14,7 @@ const commentController = {
     getCommentsByMovie: async (req, res) => {
         try {
             const result = await commentsRepository.getCommentsByMovie(req.query);
-            return res.status(200).json({
-                message: 'Get comments successfully!!!',
-                data: result
-            });
+            return res.status(200).json(result);
         } catch (error) {
             return res.status(500).json({
                 message: 'Can not get comments by movie!!!',
@@ -30,21 +24,48 @@ const commentController = {
     likeComment: async (req, res) => {
         try {
             const result = await commentsRepository.likeComment(req.body)
-            return res.status(200).json({ status: result });
+            return res.status(200).json(result);
         } catch (error) {
             return res.status(500).json(error);
         }
     },
     deleteComment: async (req, res) => {
         try {
-            const result = await commentsRepository.deleteComment(req.body)
-            return res.status(200).json({
-                message: "Delete a comment successfully!",
-                deleted: result
-            });
+            await commentsRepository.deleteComment(req.body)
+            return res.status(200).json("Delete a comment successfully!");
         } catch (error) {
             return res.status(500).json({
                 message: "Can not delete a comment!",
+            });
+        }
+    },
+    replyComment: async (req, res) => {
+        try {
+            const result = await commentsRepository.replyComment(req)
+            return res.status(200).json(result);
+        } catch (error) {
+            return res.status(500).json({
+                message: "Can not reply a comment!",
+            });
+        }
+    },
+    updateComment: async (req, res) => {
+        try {
+            const result = await commentsRepository.updateComment(req)
+            return res.status(200).json(result);
+        } catch (error) {
+            return res.status(500).json({
+                message: "Can not reply a comment!",
+            });
+        }
+    },
+    updateReplyComment: async (req, res) => {
+        try {
+            const result = await commentsRepository.updateReplyComment(req)
+            return res.status(200).json(result);
+        } catch (error) {
+            return res.status(500).json({
+                message: "Can not update a comment!",
             });
         }
     }

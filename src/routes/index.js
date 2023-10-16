@@ -4,7 +4,10 @@ import movieSeasonRouter from "./movieSeason.route.js"
 import movieRouter from "./movie.route.js";
 import movieVideoRouter from "./movieVideo.route.js";
 import rateRouter from "./rate.route.js";
-import typeRouter from "./type.routes.js";
+import typeRouter from "./type.route.js";
+import addvertisementRouter from "./advertisement.route.js";
+import watchingHistoryRouter from "./watchingHistory.route.js";
+import commentReplyRouter from "./commentsReplies.route.js";
 export {
     userRouter,
     commentRouter,
@@ -12,5 +15,8 @@ export {
     movieSeasonRouter,
     movieVideoRouter,
     rateRouter,
-    typeRouter
+    typeRouter,
+    addvertisementRouter,
+    watchingHistoryRouter,
+    commentReplyRouter
 }

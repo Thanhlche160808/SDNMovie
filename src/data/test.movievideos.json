@@ -1,0 +1,7090 @@
+[{
+  "_id": {
+    "$oid": "64295f646e464ac645f9029a"
+  },
+  "video": "https://short.ink/CSSyuzceH",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680432995/vxvz0yrju5tsay3o3bbd.jpg",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 1 - Một nơi nào đó, không phải ở đây",
+  "createdAt": {
+    "$date": "2023-04-02T10:56:36.785Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T10:56:36.785Z"
+  },
+  "slug": "vinland-saga-tap-1-mot-noi-nao-do-khong-phai-o-day",
+  "movieVideoID": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642960e3d4a3973d65de0152"
+  },
+  "video": "https://short.ink/-uK7B7o-K",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680433378/wgnyojxy1dsjeu6wnxps.jpg",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 2 - Thanh kiếm",
+  "createdAt": {
+    "$date": "2023-04-02T11:02:59.652Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T11:02:59.652Z"
+  },
+  "slug": "vinland-saga-tap-2-thanh-kiem",
+  "movieVideoID": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296c72c1be040a96767a25"
+  },
+  "video": "https://short.ink/QxqzLbjy1",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436337/jlamvar10mfi8myrtzur.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 3 - Đại Quái",
+  "slug": "vinland-saga-tap-3-dai-quai",
+  "movieVideoID": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296d37c1be040a96767a40"
+  },
+  "video": "https://short.ink/RvXHqisu6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436533/kvdzgcgqtd1avotg8vib.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 4 - Chiến binh thực thụ",
+  "slug": "vinland-saga-tap-4-chien-binh-thuc-thu",
+  "movieVideoID": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296d5fc1be040a96767a46"
+  },
+  "video": "https://short.ink/capoAwUGw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436574/plgrkl7ssprket1fdh5v.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 5 - Con của Đại Quái",
+  "slug": "vinland-saga-tap-5-con-cua-dai-quai",
+  "movieVideoID": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296d8cc1be040a96767a4c"
+  },
+  "video": "https://short.ink/kwSJLneA6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436619/aovpilmrjvpbfohw2uvw.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 6 - Cuộc hành trình bắt đầu",
+  "slug": "vinland-saga-tap-6-cuoc-hanh-trinh-bat-dau",
+  "movieVideoID": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296df0c1be040a96767a67"
+  },
+  "video": "https://short.ink/N_jqssm_M",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436719/cx0dolg3kkmq0xvpg7k2.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 7 - Normanni",
+  "slug": "vinland-saga-tap-7-normanni",
+  "movieVideoID": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296e19c1be040a96767a6d"
+  },
+  "video": "https://short.ink/GZ668bEfw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436759/jiwowomjlpyijiijgmvv.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 8 - Ngoài rìa biển cả",
+  "slug": "vinland-saga-tap-8-ngoai-ria-bien-ca",
+  "movieVideoID": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296e65c1be040a96767a73"
+  },
+  "video": "https://short.ink/lf7yJLDf5",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436836/rmdkops3vugafswcxnte.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 9 - Cuộc chiến cầu Luân Đôn",
+  "slug": "vinland-saga-tap-9-cuoc-chien-cau-luan-don",
+  "movieVideoID": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296e92c1be040a96767a79"
+  },
+  "video": "https://short.ink/S5PaiQ7Av",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436880/joapqpeob67mgh34x7mu.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 10 - Ragnarok",
+  "slug": "vinland-saga-tap-10-ragnarok",
+  "movieVideoID": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296eecc1be040a96767a7f"
+  },
+  "video": "https://short.ink/3nkTnKqzt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680436971/gpj3yowhdiogl623m66z.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 11 - Canh bạc",
+  "slug": "vinland-saga-tap-11-canh-bac",
+  "movieVideoID": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296f0dc1be040a96767a85"
+  },
+  "video": "https://short.ink/7bQFbHlHU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437003/yqqf57ehni8i0j7xn7sk.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 12 - Vùng đất phía bên kia bờ",
+  "slug": "vinland-saga-tap-12-vung-dat-phia-ben-kia-bo",
+  "movieVideoID": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296f6fc1be040a96767a8b"
+  },
+  "video": "https://short.ink/VDK0BRcha",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437102/kf0h5vurhqhusr0iwtv6.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 13 - Đứa con của Anh hùng",
+  "slug": "vinland-saga-tap-13-dua-con-cua-anh-hung",
+  "movieVideoID": 13,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64296fa8c1be040a96767a91"
+  },
+  "video": "https://short.ink/i3w9cwQP0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437159/poiiqdvljgut0auilluv.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 14 - Tia sáng của bình minh",
+  "slug": "vinland-saga-tap-14-tia-sang-cua-binh-minh",
+  "movieVideoID": 14,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6429703dc1be040a96767a97"
+  },
+  "video": "https://short.ink/u7rjyNedo",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437308/aevnkfc2mrstp7y3mo9q.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 15 - Đằng sau Yule",
+  "slug": "vinland-saga-tap-15-dang-sau-yule",
+  "movieVideoID": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64297068c1be040a96767a9d"
+  },
+  "video": "https://short.ink/krT7U1o7n",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437351/m4afp8zzk5gxdcycxr48.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 16 - Lịch sử của quái thú",
+  "slug": "vinland-saga-tap-16-lich-su-cua-quai-thu",
+  "movieVideoID": 16,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6429709cc1be040a96767aa3"
+  },
+  "video": "https://short.ink/X0GyAZWtW0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437403/xlixthvtjo0d9r6p3efb.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 17 - Đầy tớ",
+  "slug": "vinland-saga-tap-17-day-to",
+  "movieVideoID": 17,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642970cfc1be040a96767aa9"
+  },
+  "video": "https://short.ink/DXWtPg005",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437454/iv2y23yh0e3vdxoxd1bv.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 18 - Ra khỏi cái nôi",
+  "slug": "vinland-saga-tap-18-ra-kh-i-cai-noi",
+  "movieVideoID": 18,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642970edc1be040a96767aaf"
+  },
+  "video": "https://short.ink/VOHnJgpV8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437484/zr4mnmwtw3a4exkslovs.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 19 - Hợp chiến",
+  "slug": "vinland-saga-tap-19-hop-chien",
+  "movieVideoID": 19,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6429712ac1be040a96767ab5"
+  },
+  "video": "https://short.ink/zIJD0Oeux",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437545/kjiuxj5b7j9nbzvkxigl.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 20 - Vương miệng",
+  "slug": "vinland-saga-tap-20-vuong-mieng",
+  "movieVideoID": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64297156c1be040a96767abb"
+  },
+  "video": "https://short.ink/LALQKY6UW",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437589/ugjd8n07prvjm4jc7gan.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 21 - Đoàn tụ",
+  "slug": "vinland-saga-tap-21-doan-tu",
+  "movieVideoID": 21,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642971acc1be040a96767ac1"
+  },
+  "video": "https://short.ink/vdn56Nd2U",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437675/gduosgzomfjhqvdvgdtg.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 22 - Sói đơn",
+  "slug": "vinland-saga-tap-22-soi-don",
+  "movieVideoID": 22,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642971ebc1be040a96767ac7"
+  },
+  "video": "https://short.ink/T9FSlBsZn",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437738/ilempkumxwx3ktuvznhv.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 23 - Sai lầm",
+  "slug": "vinland-saga-tap-23-sai-lam",
+  "movieVideoID": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64297210c1be040a96767acd"
+  },
+  "video": "https://short.ink/b0CwJoVb3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680437775/pb203mimxbb5sivmjjvt.jpg",
+  "time": "24:44",
+  "movieID": {
+    "$oid": "6428fb8f6e9ab979b4f8e0ef"
+  },
+  "name": "Vinland Saga Tập 24 - Kết thúc đoạn mở đầu",
+  "slug": "vinland-saga-tap-24-ket-thuc-doan-mo-dau",
+  "movieVideoID": 24,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5a191486bc397e2da83d"
+  },
+  "video": "https://short.ink/9eFqJa2TF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680693783/yuvoh63pog0rpjsoaa1q.jpg",
+  "time": "23:02",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 01",
+  "slug": "ousama-ranking-ep-01",
+  "movieVideoID": 25,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5a791486bc397e2da858"
+  },
+  "video": "https://short.ink/Q9sBbheDV",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680693879/gksd96b48frh95zn3ujz.jpg",
+  "time": "23:02",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 02",
+  "slug": "ousama-ranking-ep-02",
+  "movieVideoID": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5af11486bc397e2da85e"
+  },
+  "video": "https://short.ink/_Og_P2me_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680693999/a76jx6shl6zwhkuawkxn.jpg",
+  "time": "23:02",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 03",
+  "slug": "ousama-ranking-ep-03",
+  "movieVideoID": 27,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5b0b1486bc397e2da864"
+  },
+  "video": "https://short.ink/4qurogsuY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694025/u9chtbe6zntdlfzmjrwp.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 04",
+  "slug": "ousama-ranking-ep-04",
+  "movieVideoID": 28,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5b371486bc397e2da86a"
+  },
+  "video": "https://short.ink/UJqcDotVM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694070/asl0ronga6fpv1vdb1yd.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 05",
+  "slug": "ousama-ranking-ep-05",
+  "movieVideoID": 29,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5b581486bc397e2da870"
+  },
+  "video": "https://short.ink/3gYetC7Km",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694103/bugwedrijnc7zhwmq8sz.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 06",
+  "slug": "ousama-ranking-ep-06",
+  "movieVideoID": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5b771486bc397e2da876"
+  },
+  "video": "https://short.ink/mgZPrk-wD",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694134/agsfvlbeoh4zsittozmm.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 07",
+  "slug": "ousama-ranking-ep-07",
+  "movieVideoID": 31,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5b941486bc397e2da87c"
+  },
+  "video": "https://short.ink/Rjk9V7Ohf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694162/z3xith8jrfdfyjr5ppzu.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 08",
+  "slug": "ousama-ranking-ep-08",
+  "movieVideoID": 32,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5bb51486bc397e2da882"
+  },
+  "video": "https://short.ink/Dg9KU-Uu2",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694196/iu533pzxennzusq4bnen.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 09",
+  "slug": "ousama-ranking-ep-09",
+  "movieVideoID": 33,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5bd31486bc397e2da888"
+  },
+  "video": "https://short.ink/ZUDaX4Hob",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694226/ymnefegirdyemqivkrxc.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 10",
+  "slug": "ousama-ranking-ep-10",
+  "movieVideoID": 34,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5bef1486bc397e2da88e"
+  },
+  "video": "https://short.ink/Lm5kdP0yk",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694253/rtb5abj5dodho8v7gaqn.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 11",
+  "slug": "ousama-ranking-ep-11",
+  "movieVideoID": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5c091486bc397e2da894"
+  },
+  "video": "https://short.ink/xFraJdYxf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694279/uxcgp2jrylh0kiubcqve.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 12",
+  "slug": "ousama-ranking-ep-12",
+  "movieVideoID": 36,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5c251486bc397e2da89a"
+  },
+  "video": "https://short.ink/DKf5L30-E",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694307/gvb0ec8lchs1ujuxaoka.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 13",
+  "slug": "ousama-ranking-ep-13",
+  "movieVideoID": 37,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5c401486bc397e2da8a0"
+  },
+  "video": "https://short.ink/6-a7Vazqi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694334/kqprzfiyzfrdcvgh5tq3.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 14",
+  "slug": "ousama-ranking-ep-14",
+  "movieVideoID": 38,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5c571486bc397e2da8a6"
+  },
+  "video": "https://short.ink/pYZ--qJBE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694357/qdg6lwyz96wx9ovh5q2c.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 15",
+  "slug": "ousama-ranking-ep-15",
+  "movieVideoID": 39,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5c731486bc397e2da8ac"
+  },
+  "video": "https://short.ink/FRtLzC4cI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694386/we6covptjemilgh2sgw0.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 16",
+  "slug": "ousama-ranking-ep-16",
+  "movieVideoID": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5c8c1486bc397e2da8b2"
+  },
+  "video": "https://short.ink/L6KsE6XO9",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694411/qxtilxktgmxkrpmkx8wm.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 17",
+  "slug": "ousama-ranking-ep-17",
+  "movieVideoID": 41,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5ca81486bc397e2da8b8"
+  },
+  "video": "https://short.ink/XekyTKd0e",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694439/npkxhvgzq77rrarvqdla.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 18",
+  "slug": "ousama-ranking-ep-18",
+  "movieVideoID": 42,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5cc51486bc397e2da8be"
+  },
+  "video": "https://short.ink/54I2w23Jw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694467/if7z2gd4wnhchbbv8bal.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 19",
+  "slug": "ousama-ranking-ep-19",
+  "movieVideoID": 43,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5cdd1486bc397e2da8c4"
+  },
+  "video": "https://short.ink/oY0qIM9LWj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694491/pygocfwftoodv3msfxpf.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 20",
+  "slug": "ousama-ranking-ep-20",
+  "movieVideoID": 44,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5cf71486bc397e2da8ca"
+  },
+  "video": "https://short.ink/cHSIpRaKh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694518/ccfmpkhuzdkyllmawed6.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 21",
+  "slug": "ousama-ranking-ep-21",
+  "movieVideoID": 45,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5d0c1486bc397e2da8d0"
+  },
+  "video": "https://short.ink/fmYP-OmgY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694539/j54ddkpxfnfubdhq39oq.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 22",
+  "slug": "ousama-ranking-ep-22",
+  "movieVideoID": 46,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d5d271486bc397e2da8d6"
+  },
+  "video": "https://short.ink/whnf1_cE5",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680694565/hugb0oqbj0bz1gcasy7w.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642d58c31486bc397e2da816"
+  },
+  "name": "Ousama Ranking- Ep 23_END",
+  "slug": "ousama-ranking-ep-23_end",
+  "movieVideoID": 47,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d9832d02b02e9bbd163c5"
+  },
+  "video": "https://short.ink/6TAmTnZxs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709681/yxou34qrnmlacn3bnywj.jpg",
+  "time": "22:35",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 1",
+  "slug": "rick-va-morty-phan-1-tap-1",
+  "movieVideoID": 48,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d9866d02b02e9bbd163cb"
+  },
+  "video": "https://short.ink/lsJjOAkeK",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709732/q62tk3wfedhrdwacpnom.jpg",
+  "time": "22:33",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 2 ",
+  "slug": "rick-va-morty-phan-1-tap-2",
+  "movieVideoID": 49,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d98a4d02b02e9bbd163d1"
+  },
+  "video": "https://short.ink/aGh1oUaIt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709795/gavrf5grmvxous980lzt.jpg",
+  "time": "22:29",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 3",
+  "slug": "rick-va-morty-phan-1-tap-3",
+  "movieVideoID": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d98cdd02b02e9bbd163d7"
+  },
+  "video": "https://short.ink/9yFQUxA-1",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709835/cftvu3xbst7gookfr6on.jpg",
+  "time": "21:39",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 4 ",
+  "slug": "rick-va-morty-phan-1-tap-4",
+  "movieVideoID": 51,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d98fad02b02e9bbd163dd"
+  },
+  "video": "https://short.ink/87wDAJd5H",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709881/aiycpyun5e975ewq0r9l.jpg",
+  "time": "21:42",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 5",
+  "slug": "rick-va-morty-phan-1-tap-5",
+  "movieVideoID": 52,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d9942d02b02e9bbd163e3"
+  },
+  "video": "https://short.ink/g3GOt-8F3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680709952/ra8bqetfddhuh9f0lhih.jpg",
+  "time": "22:02",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 6",
+  "slug": "rick-va-morty-phan-1-tap-6",
+  "movieVideoID": 53,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d9990d02b02e9bbd163e9"
+  },
+  "video": "https://short.ink/hPb6kRrcs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680710031/a8x7xrivd5yekbqrgycv.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 7",
+  "slug": "rick-va-morty-phan-1-tap-7",
+  "movieVideoID": 54,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d99b8d02b02e9bbd163ef"
+  },
+  "video": "https://short.ink/iGK-4aUgi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680710070/golmdgu6vox7mnntsg2d.jpg",
+  "time": "22:48",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 8",
+  "slug": "rick-va-morty-phan-1-tap-8",
+  "movieVideoID": 55,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d99f9d02b02e9bbd163f5"
+  },
+  "video": "https://short.ink/U360MbL96",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680710136/iwq4lfvpktumive8vazp.jpg",
+  "time": "22:53",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 9",
+  "slug": "rick-va-morty-phan-1-tap-9",
+  "movieVideoID": 56,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d9a22d02b02e9bbd163fb"
+  },
+  "video": "https://short.ink/qSNuxKgD_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680710176/cq8wz94vhlhati0zmzfw.jpg",
+  "time": "23:01",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 10",
+  "slug": "rick-va-morty-phan-1-tap-10",
+  "movieVideoID": 57,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642d9a4ed02b02e9bbd16401"
+  },
+  "video": "https://short.ink/7lT_d0cOt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680710221/f5q1j5glfyarfkupsnep.jpg",
+  "time": "22:55",
+  "movieID": {
+    "$oid": "642d97f0d02b02e9bbd163bc"
+  },
+  "name": "Rick và Morty (Phần 1) tập 11",
+  "slug": "rick-va-morty-phan-1-tap-11",
+  "movieVideoID": 58,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e86a673a551e7d4fb45a9"
+  },
+  "video": "https://short.ink/SqAjAfziW",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770725/psfgqomtnpngyjdqdqnv.jpg",
+  "time": "23:23",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 1",
+  "slug": "rick-va-morty-phan-2-tap-1",
+  "movieVideoID": 59,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e86c373a551e7d4fb45af"
+  },
+  "video": "https://short.ink/pKzgb7-Hf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770755/yaqrutindkkpl43ewmwu.jpg",
+  "time": "23:17",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 2",
+  "slug": "rick-va-morty-phan-2-tap-2",
+  "movieVideoID": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e86db73a551e7d4fb45b5"
+  },
+  "video": "https://short.ink/s8MdX--Cw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770778/xewoo9etg8xf8aqufhiy.jpg",
+  "time": "23:28",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 3",
+  "slug": "rick-va-morty-phan-2-tap-3",
+  "movieVideoID": 61,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e86f473a551e7d4fb45bb"
+  },
+  "video": "https://short.ink/5j2gepDKI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770804/qumfghw2edk3nnhyvmw7.jpg",
+  "time": "22:27",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 4",
+  "slug": "rick-va-morty-phan-2-tap-4",
+  "movieVideoID": 62,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e871573a551e7d4fb45c1"
+  },
+  "video": "https://short.ink/u5LDkDL-e",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770836/uciomc9p9fdc7hga5mv5.jpg",
+  "time": "23:33",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 5",
+  "slug": "rick-va-morty-phan-2-tap-5",
+  "movieVideoID": 63,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e873373a551e7d4fb45c7"
+  },
+  "video": "https://short.ink/HbvVkrC4q",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770866/u5i63t87w2ew71msjkyk.jpg",
+  "time": "22:55",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 6",
+  "slug": "rick-va-morty-phan-2-tap-6",
+  "movieVideoID": 64,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e875473a551e7d4fb45cd"
+  },
+  "video": "https://short.ink/JFPR2NQxZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770900/gw7bhhbsjkef6mvvrg1i.jpg",
+  "time": "23:26",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 7 ",
+  "slug": "rick-va-morty-phan-2-tap-7",
+  "movieVideoID": 65,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e876e73a551e7d4fb45d3"
+  },
+  "video": "https://short.ink/wsVHkAdJ_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770925/whsusxbetdm2gmab1ucq.jpg",
+  "time": "23:03",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 8",
+  "slug": "rick-va-morty-phan-2-tap-8",
+  "movieVideoID": 66,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e878e73a551e7d4fb45d9"
+  },
+  "video": "https://short.ink/evwXPNKHJ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770957/osp4ez4ysahpg1bm7mql.jpg",
+  "time": "22:37",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 9",
+  "slug": "rick-va-morty-phan-2-tap-9",
+  "movieVideoID": 67,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642e87a473a551e7d4fb45df"
+  },
+  "video": "https://short.ink/snDUXb6xD",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680770980/qx0pca2ciinzwii5f8p4.jpg",
+  "time": "23:33",
+  "movieID": {
+    "$oid": "642e865773a551e7d4fb459c"
+  },
+  "name": "Rick và Morty (Phần 2) tập 10",
+  "slug": "rick-va-morty-phan-2-tap-10",
+  "movieVideoID": 68,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fac2774df1e0c57f149b4"
+  },
+  "video": "https://short.ink/wAzfc6MCB",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680845862/mdzgh2ewi8esgxux6ose.jpg",
+  "time": "25:34",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 1",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-1",
+  "movieVideoID": 69,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fac8b74df1e0c57f149ba"
+  },
+  "video": "https://short.ink/tZRkbhN2m",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680845963/yivffeihyyp8l8sbl9bf.jpg",
+  "time": "24:09",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 2",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-2",
+  "movieVideoID": 70,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642facc074df1e0c57f149c0"
+  },
+  "video": "https://short.ink/JPZPrJaQX",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846016/srfepy5mgtbqteyp330e.jpg",
+  "time": "17:34",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 3",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-3",
+  "movieVideoID": 71,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fad7174df1e0c57f149c6"
+  },
+  "video": "https://short.ink/lrSLPumLn",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846193/wvbvutvapsdihglttpsh.jpg",
+  "time": "24:56",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 4",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-4",
+  "movieVideoID": 72,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fada974df1e0c57f149cc"
+  },
+  "video": "https://short.ink/7UaoKmFef1",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846249/iyyub0hvgkl7apius8o4.jpg",
+  "time": "24:22",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 5",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-5",
+  "movieVideoID": 73,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fae3674df1e0c57f149d2"
+  },
+  "video": "https://short.ink/8Gk4VQw3j",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846389/syq3tgllbufwhmimaqyy.jpg",
+  "time": "24:35",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 6",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-6",
+  "movieVideoID": 74,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fae7d74df1e0c57f149d8"
+  },
+  "video": "https://short.ink/uTOK5cEfs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846462/u4dsi2v0jigtumgabtep.jpg",
+  "time": "15:15",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 7",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-7",
+  "movieVideoID": 75,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642faf0874df1e0c57f149de"
+  },
+  "video": "https://short.ink/Hvrg5EXn-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846599/y8aoacwgd4bzonlkaf3q.jpg",
+  "time": "21:20",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 8",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-8",
+  "movieVideoID": 76,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642faf4474df1e0c57f149e4"
+  },
+  "video": "https://short.ink/E9rhNZiPh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846660/y6ywyu8ih5jngjup097s.jpg",
+  "time": "22:21",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 9",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-9",
+  "movieVideoID": 77,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642faf6774df1e0c57f149ea"
+  },
+  "video": "https://short.ink/ozmlgDotB",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846695/snosqb6hfxq0mc9wykl1.jpg",
+  "time": "23:46",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 10",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-10",
+  "movieVideoID": 78,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fafa374df1e0c57f149f0"
+  },
+  "video": "https://short.ink/f9aseLf6L",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846755/gm13xlelyvasgylw6qwt.jpg",
+  "time": "20:47",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập 11",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-11",
+  "movieVideoID": 79,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fafc774df1e0c57f149f6"
+  },
+  "video": "https://short.ink/sSsWjNFCq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680846791/nyawxpbeyvmwaqo0fpvm.jpg",
+  "time": "17:19",
+  "movieID": {
+    "$oid": "642fa9e874df1e0c57f149ac"
+  },
+  "name": "Đấu Phá Thương Khung Phần 1 Tập end",
+  "slug": "dau-pha-thuong-khung-phan-1-tap-end",
+  "movieVideoID": 80,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fb1ba74df1e0c57f14a1c"
+  },
+  "video": "https://short.ink/_CivHAr1f",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680847289/nqxpjt37oyfpic8mkxrl.jpg",
+  "time": "20:12",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 1",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-1",
+  "movieVideoID": 81,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642fb1f474df1e0c57f14a22"
+  },
+  "video": "https://short.ink/iMmRyPUbG",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680847348/nenrveuct7vywep4myzu.jpg",
+  "time": "18:48",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 2",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-2",
+  "movieVideoID": 82,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ffe1abd882a26309f1c7f"
+  },
+  "video": "https://short.ink/BsWuBtoAx",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680866842/zjsbwn6rd4vc2novx14w.jpg",
+  "time": "1:55:44",
+  "movieID": {
+    "$oid": "642ffdcebd882a26309f1c77"
+  },
+  "name": "Chị Chị Em Em 2 tập Full Tiếng Việt",
+  "slug": "chi-chi-em-em-2-tap-full-tieng-viet",
+  "movieVideoID": 83,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300167bd882a26309f1cbc"
+  },
+  "video": "https://short.ink/CxRRFN1ro",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867687/yeaqbyb0macdbgtdbquk.jpg",
+  "time": "20:35",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 3",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-3",
+  "movieVideoID": 84,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300190bd882a26309f1cc2"
+  },
+  "video": "https://short.ink/R272nZvvE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867728/yzkve2y0dagjxpzrs1gi.jpg",
+  "time": "14:45",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 4",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-4",
+  "movieVideoID": 85,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643001b8bd882a26309f1cc8"
+  },
+  "video": "https://short.ink/b1A_5pCjc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867768/r47b90dmrkeneovjdg1m.jpg",
+  "time": "15:53",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 5",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-5",
+  "movieVideoID": 86,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643001dfbd882a26309f1cce"
+  },
+  "video": "https://short.ink/Rea6qAcD4",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867807/v78cppzkmlu8sgavl241.jpg",
+  "time": "15:33",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 6",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-6",
+  "movieVideoID": 87,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6430020bbd882a26309f1cd4"
+  },
+  "video": "https://short.ink/Ts7ZeeSfU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867850/ryesvzbaevxra27fbqg0.jpg",
+  "time": "19:39",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 7",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-7",
+  "movieVideoID": 88,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6430022ebd882a26309f1cda"
+  },
+  "video": "https://short.ink/Ix9hgf8xM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867886/xqppz72jgukhrexxm64c.jpg",
+  "time": "15:14",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 8",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-8",
+  "movieVideoID": 89,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300257bd882a26309f1ce0"
+  },
+  "video": "https://short.ink/OaCIPUmekd",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867927/jjwpbhobe6x5e7argkmo.jpg",
+  "time": "18:40",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 9",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-9",
+  "movieVideoID": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6430027cbd882a26309f1ce6"
+  },
+  "video": "https://short.ink/QPjm7hc3r",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867964/ejykwyiasgedgauuxl9i.jpg",
+  "time": "15:19",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 10",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-10",
+  "movieVideoID": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6430029fbd882a26309f1cec"
+  },
+  "video": "https://short.ink/DIXT9xpRW",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680867999/un1qrnm6obhygrurciat.jpg",
+  "time": "19:26",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập 11",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-11",
+  "movieVideoID": 92,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643002ddbd882a26309f1cf2"
+  },
+  "video": "https://short.ink/blIUg4led",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680868061/jm3wprjjtrc8ed8lumto.jpg",
+  "time": "20:29",
+  "movieID": {
+    "$oid": "642fb12e74df1e0c57f14a14"
+  },
+  "name": "Đấu Phá Thương Khung Phần 2 Tập end",
+  "slug": "dau-pha-thuong-khung-phan-2-tap-end",
+  "movieVideoID": 93,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300e759a6d0cdb83db60e2"
+  },
+  "video": "https://short.ink/jOFG7SsJD",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871028/umr5flgf1ukxfpavijkf.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 1",
+  "slug": "vinland-saga-season-2-tap-1",
+  "movieVideoID": 94,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300e9a9a6d0cdb83db60e8"
+  },
+  "video": "https://short.ink/Zc3sWIFNj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871065/qkec9a2gdiqzikvfqkfi.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 2",
+  "slug": "vinland-saga-season-2-tap-2",
+  "movieVideoID": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300eb09a6d0cdb83db60ee"
+  },
+  "video": "https://short.ink/Wqh0DGslF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871088/heaoylwoq7am5lmrjean.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 3",
+  "slug": "vinland-saga-season-2-tap-3",
+  "movieVideoID": 96,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300ecd9a6d0cdb83db60f4"
+  },
+  "video": "https://short.ink/DKb0Buywa-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871116/ebppzd9hxact9hbzdmdc.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 4",
+  "slug": "vinland-saga-season-2-tap-4",
+  "movieVideoID": 97,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300ee49a6d0cdb83db60fa"
+  },
+  "video": "https://short.ink/_G8LBBIP0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871139/mmxupo9or6bsn8zk5wzk.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 5",
+  "slug": "vinland-saga-season-2-tap-5",
+  "movieVideoID": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300f009a6d0cdb83db6100"
+  },
+  "video": "https://short.ink/O0Vr_XtpA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871168/tuqcwrysoqulldyvbcny.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 6",
+  "slug": "vinland-saga-season-2-tap-6",
+  "movieVideoID": 99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300f169a6d0cdb83db6106"
+  },
+  "video": "https://short.ink/_Y3g1OPed",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871190/rjz6ygom2qz1emhj2zde.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 7",
+  "slug": "vinland-saga-season-2-tap-7",
+  "movieVideoID": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300f2e9a6d0cdb83db610c"
+  },
+  "video": "https://short.ink/wslpXMg4H",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871213/rqdhvhhlxtlapcimuulo.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 8",
+  "slug": "vinland-saga-season-2-tap-8",
+  "movieVideoID": 101,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300f469a6d0cdb83db6112"
+  },
+  "video": "https://short.ink/_s4LRW041",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871238/jutndmxzifltmzn7rji6.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 9",
+  "slug": "vinland-saga-season-2-tap-9",
+  "movieVideoID": 102,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64300f609a6d0cdb83db6118"
+  },
+  "video": "https://short.ink/lpSUWtwAN",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680871263/p69t8h1bwl44vqfbhmy3.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 10",
+  "slug": "vinland-saga-season-2-tap-10",
+  "movieVideoID": 103,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64311302b6c4ab2edcc2d409"
+  },
+  "video": "https://short.ink/972KJo0mK",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680937730/jebny80enxldbdyhjq3i.jpg",
+  "time": "3:12:53",
+  "movieID": {
+    "$oid": "643010459a6d0cdb83db613e"
+  },
+  "name": "Avatar 2 Dòng Chảy Của Nước - Phim Mới 2023",
+  "slug": "avatar-2-dong-chay-cua-nuoc-phim-moi-2023",
+  "movieVideoID": 104,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64311d27b6c4ab2edcc2d432"
+  },
+  "video": "https://short.ink/NSKtIM8r83",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680940326/nx21yj5mrhxerkt32ly3.jpg",
+  "time": "26:03",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 11",
+  "slug": "vinland-saga-season-2-tap-11",
+  "movieVideoID": 105,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64311d5eb6c4ab2edcc2d438"
+  },
+  "video": "https://short.ink/Dszl8SpmZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680940382/roo78s5pnvhs910ac0ep.jpg",
+  "time": "26:13",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 12",
+  "slug": "vinland-saga-season-2-tap-12",
+  "movieVideoID": 106,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64311d9eb6c4ab2edcc2d43e"
+  },
+  "video": "https://short.ink/fExerQsXl",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680940446/hz37gdm7qru3bjupvpyn.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 13",
+  "slug": "vinland-saga-season-2-tap-13",
+  "movieVideoID": 107,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643124b5b6c4ab2edcc2d47a"
+  },
+  "video": "https://short.ink/cI8NrjuSj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942262/f83mqqtu9cojoxtkfchw.jpg",
+  "time": "51:07",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 1.",
+  "slug": "truong-nguyet-tan-minh-tap-1",
+  "movieVideoID": 108,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643124ebb6c4ab2edcc2d480"
+  },
+  "video": "https://short.ink/npA53tRNi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942316/ldge9hh2dtrt1rk6t9wx.jpg",
+  "time": "48:26",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 2",
+  "slug": "truong-nguyet-tan-minh-tap-2",
+  "movieVideoID": 109,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64312510b6c4ab2edcc2d486"
+  },
+  "video": "https://short.ink/wybsLiaL0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942352/dcohq3kjnpbjiaedk8xl.jpg",
+  "time": "49:55",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 3",
+  "slug": "truong-nguyet-tan-minh-tap-3",
+  "movieVideoID": 110,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64312566b6c4ab2edcc2d48c"
+  },
+  "video": "https://short.ink/Flk2PYwZY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942438/qmrwy8grg4tqzbuzo7ei.jpg",
+  "time": "49:29",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 4",
+  "slug": "truong-nguyet-tan-minh-tap-4",
+  "movieVideoID": 111,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64312594b6c4ab2edcc2d492"
+  },
+  "video": "https://short.ink/p1re-dnsr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942484/frawkmqj2x0kyehkvw3q.jpg",
+  "time": "48:21",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 5 ",
+  "slug": "truong-nguyet-tan-minh-tap-5",
+  "movieVideoID": 112,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643125ebb6c4ab2edcc2d498"
+  },
+  "video": "https://short.ink/2CfOwAsk7",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942570/zujztzqoz27hgiuz1odf.jpg",
+  "time": "49:03",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 6",
+  "slug": "truong-nguyet-tan-minh-tap-6",
+  "movieVideoID": 113,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6431260eb6c4ab2edcc2d49e"
+  },
+  "video": "https://short.ink/iYxRQhnQY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942605/c9nsipxnjsebc6k6xgbp.jpg",
+  "time": "49:19",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 7",
+  "slug": "truong-nguyet-tan-minh-tap-7",
+  "movieVideoID": 114,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64312637b6c4ab2edcc2d4a4"
+  },
+  "video": "https://short.ink/V6XZKQVkS",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680942647/n4agfmf14cxkni6cpebg.jpg",
+  "time": "49:27",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh Tập 8 ",
+  "slug": "truong-nguyet-tan-minh-tap-8",
+  "movieVideoID": 115,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318631c26f646eb5193ff2"
+  },
+  "video": "https://short.ink/eoBeIDgIE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967217/qjodgnpze3yq5n1ek1vh.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 01",
+  "slug": "dr-stone-ep-01",
+  "movieVideoID": 116,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643186a8c26f646eb5193ff8"
+  },
+  "video": "https://short.ink/7oZl-nxek",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967335/i1jrjlkgdv9t1mak63zk.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 02",
+  "slug": "dr-stone-ep-02",
+  "movieVideoID": 117,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643186e2c26f646eb5193ffe"
+  },
+  "video": "https://short.ink/BWuOEDDqi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967394/kd4ejqkfeyulaardldsc.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 03",
+  "slug": "dr-stone-ep-03",
+  "movieVideoID": 118,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318710c26f646eb5194004"
+  },
+  "video": "https://short.ink/OB2T7m6oE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967440/x9btividrknkhhffl39z.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 04",
+  "slug": "dr-stone-ep-04",
+  "movieVideoID": 119,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318786c26f646eb519400a"
+  },
+  "video": "https://short.ink/VqohD8aYu",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967558/xsrlj3qjcukvtet9uxmp.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 05",
+  "slug": "dr-stone-ep-05",
+  "movieVideoID": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643187ecc26f646eb5194010"
+  },
+  "video": "https://short.ink/IbDvbH_Ue",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967660/krvglyscqfznt5oyqvf1.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 06",
+  "slug": "dr-stone-ep-06",
+  "movieVideoID": 121,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6431881cc26f646eb5194016"
+  },
+  "video": "https://short.ink/ctvc2NRFZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967708/oduoeoh8j4w8mr8oqwex.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 07",
+  "slug": "dr-stone-ep-07",
+  "movieVideoID": 122,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318839c26f646eb519401c"
+  },
+  "video": "https://short.ink/KCRJkA969",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967737/adfouzhmxwskzocjnc9s.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 08",
+  "slug": "dr-stone-ep-08",
+  "movieVideoID": 123,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6431885ac26f646eb5194022"
+  },
+  "video": "https://short.ink/uu0nE4kHR",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967769/msc8lvk1hqe55aayotgw.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 09",
+  "slug": "dr-stone-ep-09",
+  "movieVideoID": 124,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6431889ac26f646eb5194028"
+  },
+  "video": "https://short.ink/p3Y56V-3K",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967835/zlm9ki5f3u9j7gjngge3.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 10",
+  "slug": "dr-stone-ep-10",
+  "movieVideoID": 125,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643188f6c26f646eb519402e"
+  },
+  "video": "https://short.ink/sB4t7UE6O",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967926/jt5owjid1p89vhyofw70.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 11",
+  "slug": "dr-stone-ep-11",
+  "movieVideoID": 126,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318915c26f646eb5194034"
+  },
+  "video": "https://short.ink/cDczmVRAm",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680967957/hlrj67oivlzapnhvarae.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 12",
+  "slug": "dr-stone-ep-12",
+  "movieVideoID": 127,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318944c26f646eb519403a"
+  },
+  "video": "https://short.ink/VoaylSKie",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968004/xpjpk4evwzjd10sqpxjv.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 13",
+  "slug": "dr-stone-ep-13",
+  "movieVideoID": 128,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318981c26f646eb5194040"
+  },
+  "video": "https://short.ink/OG8Y0h4zA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968065/adknsge8fz8i7gtopfnp.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 14",
+  "slug": "dr-stone-ep-14",
+  "movieVideoID": 129,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643189b8c26f646eb5194046"
+  },
+  "video": "https://short.ink/veEAW73PL",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968119/qqihpfyicmbv2pa1zqdx.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 15",
+  "slug": "dr-stone-ep-15",
+  "movieVideoID": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643189e3c26f646eb519404c"
+  },
+  "video": "https://short.ink/0tL7cojhm",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968163/pco8xgs3edaixtd8zqv5.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 16",
+  "slug": "dr-stone-ep-16",
+  "movieVideoID": 131,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318a01c26f646eb5194052"
+  },
+  "video": "https://short.ink/OCN-dtNbc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968193/nadtzz5nr3mpskvye41b.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 17",
+  "slug": "dr-stone-ep-17",
+  "movieVideoID": 132,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318a4ac26f646eb5194058"
+  },
+  "video": "https://short.ink/tL8l0ybAZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968266/o4h3ghwintavod02z5pw.jpg",
+  "time": "24:04",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 18",
+  "slug": "dr-stone-ep-18",
+  "movieVideoID": 133,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318a68c26f646eb519405e"
+  },
+  "video": "https://short.ink/DRfBQYA_F",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968295/llaljwrz4ca9purvkcaf.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 19",
+  "slug": "dr-stone-ep-19",
+  "movieVideoID": 134,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318a8cc26f646eb5194064"
+  },
+  "video": "https://short.ink/M7gFcCfXs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968332/z5tfd5d9hgta13aiirzh.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 20",
+  "slug": "dr-stone-ep-20",
+  "movieVideoID": 135,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318ac2c26f646eb519406a"
+  },
+  "video": "https://short.ink/IeWQcn2LW",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968386/shlmp7r2ito6x09rds5v.jpg",
+  "time": "24:04",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 21",
+  "slug": "dr-stone-ep-21",
+  "movieVideoID": 136,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318ae3c26f646eb5194070"
+  },
+  "video": "https://short.ink/SokTJTj5n",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968418/m9znmfkzl12emyvnor7i.jpg",
+  "time": "24:06",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 22",
+  "slug": "dr-stone-ep-22",
+  "movieVideoID": 137,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318b0bc26f646eb5194076"
+  },
+  "video": "https://short.ink/vAuTYqNrR",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968459/ilggvs66rqocjmpydwrl.jpg",
+  "time": "24:04",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 23",
+  "slug": "dr-stone-ep-23",
+  "movieVideoID": 138,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64318b2bc26f646eb519407c"
+  },
+  "video": "https://short.ink/glDZkyA2q",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1680968490/ttvbhvpj6nill7fchyjp.jpg",
+  "time": "24:04",
+  "movieID": {
+    "$oid": "643185e8c26f646eb5193fea"
+  },
+  "name": "Dr. Stone- Ep 24_END",
+  "slug": "dr-stone-ep-24_end",
+  "movieVideoID": 139,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324a8771dc93f77ce85128"
+  },
+  "video": "https://short.ink/Hn-v3BLU2",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681017478/e6orpy485asegenyi4pi.jpg",
+  "time": "52:45",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 9",
+  "slug": "truong-nguyet-tan-minh-2023-tap-9",
+  "movieVideoID": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324ab871dc93f77ce8512e"
+  },
+  "video": "https://short.ink/hkpwEwU5z",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681017527/efq27oe4yjejvrdbrv4j.jpg",
+  "time": "53:18",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 10",
+  "slug": "truong-nguyet-tan-minh-2023-tap-10",
+  "movieVideoID": 141,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324c3c71dc93f77ce8514b"
+  },
+  "video": "https://short.ink/mmS7R_5_1",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681017916/znvln0wjdlzsgkq1cfkr.jpg",
+  "time": "23:32",
+  "movieID": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "name": "Isekai Shoukan wa Nidome desu- Ep 01",
+  "slug": "isekai-shoukan-wa-nidome-desu-ep-01",
+  "movieVideoID": 142,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64324d4071dc93f77ce8515c"
+  },
+  "video": "https://short.ink/lEbVgOfSs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681018175/m3pijzaqbrjzjqvybixr.jpg",
+  "time": "24:04",
+  "movieID": {
+    "$oid": "64324ce471dc93f77ce85154"
+  },
+  "name": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru- Level Up wa Jinsei wo Kaeta- Ep 01",
+  "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ep-01",
+  "movieVideoID": 143,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432554471dc93f77ce851fa"
+  },
+  "video": "https://short.ink/arSIYxAQe",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020227/p89dww79hk2yqf4dapxx.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 01",
+  "slug": "dr-stone-stone-wars-ep-01",
+  "movieVideoID": 144,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432556e71dc93f77ce85200"
+  },
+  "video": "https://short.ink/DAGmsIWJd",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020270/zfrnycufzfqok3aqwrd3.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 02",
+  "slug": "dr-stone-stone-wars-ep-02",
+  "movieVideoID": 145,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432559571dc93f77ce85206"
+  },
+  "video": "https://short.ink/KaAO2TjxaA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020308/wpr1e74wxjiierm2htme.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 03",
+  "slug": "dr-stone-stone-wars-ep-03",
+  "movieVideoID": 146,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643255b771dc93f77ce8520c"
+  },
+  "video": "https://short.ink/ASMI7caYC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020342/uqsyfcp6z1a6jhe0hrqy.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 04",
+  "slug": "dr-stone-stone-wars-ep-04",
+  "movieVideoID": 147,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643255da71dc93f77ce85212"
+  },
+  "video": "https://short.ink/QMAMTxPI5",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020377/gfjumtmnogy0hhlvge2c.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 05",
+  "slug": "dr-stone-stone-wars-ep-05",
+  "movieVideoID": 148,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643255f871dc93f77ce85218"
+  },
+  "video": "https://short.ink/hY3HI-KPT",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020408/jjefhz4pgqzwc8hheght.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 06",
+  "slug": "dr-stone-stone-wars-ep-06",
+  "movieVideoID": 149,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432560e71dc93f77ce8521e"
+  },
+  "video": "https://short.ink/cH3dXEycA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020429/g5ikt96qslugaega0fw6.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 07",
+  "slug": "dr-stone-stone-wars-ep-07",
+  "movieVideoID": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432563471dc93f77ce85224"
+  },
+  "video": "https://short.ink/39LxJvvQ2",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020466/zecvvbpakbwbb8zyarhu.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 08",
+  "slug": "dr-stone-stone-wars-ep-08",
+  "movieVideoID": 151,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432564f71dc93f77ce8522a"
+  },
+  "video": "https://short.ink/V9SC5rib7",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020493/axnrbsggtessic1yfc8t.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 09",
+  "slug": "dr-stone-stone-wars-ep-09",
+  "movieVideoID": 152,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432566f71dc93f77ce85230"
+  },
+  "video": "https://short.ink/9--jYnEra",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020527/ignlswdqkamhsefa76fb.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 10",
+  "slug": "dr-stone-stone-wars-ep-10",
+  "movieVideoID": 153,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432568e71dc93f77ce85236"
+  },
+  "video": "https://short.ink/6wALp1q3h",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681020558/ftwhpcg2mox5mcdj2qcr.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "6432520471dc93f77ce851d6"
+  },
+  "name": "Dr. Stone- Stone Wars- Ep 11_END",
+  "slug": "dr-stone-stone-wars-ep-11_end",
+  "movieVideoID": 154,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432ab2413155bc0c87c92c5"
+  },
+  "video": "https://short.ink/shoNi8tTZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681042211/k1d8k70xjiwnjn8vpsj8.jpg",
+  "time": "22:20",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Fights Break Sphere 3 - Tập 1",
+  "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-1",
+  "movieVideoID": 155,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432ab4713155bc0c87c92cb"
+  },
+  "video": "https://short.ink/uT8umAJgV",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681042245/da7alzm0sueohplnao4o.jpg",
+  "time": "23:01",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Fights Break Sphere 3 - Tập 2",
+  "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-2",
+  "movieVideoID": 156,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432ab8c13155bc0c87c92d1"
+  },
+  "video": "https://short.ink/pvQ44gfCB",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681042315/zhvbbmimfybpzstzj09w.jpg",
+  "time": "23:06",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Fights Break Sphere 3 - Tập 3",
+  "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-3",
+  "movieVideoID": 157,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b19d13155bc0c87c92ef"
+  },
+  "video": "https://short.ink/ui6KRxncON",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681043868/ftop8nctwyqdwvsfevw7.jpg",
+  "time": "21:44",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Fights Break Sphere 3 - Tập 4",
+  "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-4",
+  "movieVideoID": 158,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b1c813155bc0c87c92f5"
+  },
+  "video": "https://short.ink/hw2LAygVp",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681043911/ke3khgnvkjgukf5q9yqy.jpg",
+  "time": "21:37",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Fights Break Sphere 3 - Tập 5",
+  "slug": "dau-pha-thuong-khung-phan-3-fights-break-sphere-3-tap-5",
+  "movieVideoID": 159,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b22c13155bc0c87c92fb"
+  },
+  "video": "https://short.ink/iBPYaRjL3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044011/pkuxtumgw071jmuzqzs4.jpg",
+  "time": "23:26",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Tập 6",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-6",
+  "movieVideoID": 160,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b25b13155bc0c87c9301"
+  },
+  "video": "https://short.ink/g64IezaV-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044058/mzyc7ijwjo3xztmmo0ly.jpg",
+  "time": "22:49",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Tập 7",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-7",
+  "movieVideoID": 161,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b28913155bc0c87c9307"
+  },
+  "video": "https://short.ink/SIdinMZa8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044104/t8tj53ogb88h380rkuoo.jpg",
+  "time": "24:30",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Tập 8",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-8",
+  "movieVideoID": 162,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b2b613155bc0c87c930d"
+  },
+  "video": "https://short.ink/02b8mQzY5",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044148/qo39qbpl3djl7atsp6tq.jpg",
+  "time": "22:48",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Tập 9",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-9",
+  "movieVideoID": 163,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b2f513155bc0c87c9313"
+  },
+  "video": "https://short.ink/l8EAceh0h",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044211/lek589rbi2cjdnqkg3mx.jpg",
+  "time": "23:02",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Tập 10",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-10",
+  "movieVideoID": 164,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b34e13155bc0c87c9319"
+  },
+  "video": "https://short.ink/EmP-IY5zY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044301/olyylnbidpewxjthy5uh.jpg",
+  "time": "22:56",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3 - Tập 11",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-11",
+  "movieVideoID": 165,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b38313155bc0c87c931f"
+  },
+  "video": "https://short.ink/ReSfJiLOz",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044354/qsaqnr8bwvfafjuqg4nc.jpg",
+  "time": "24:37",
+  "movieID": {
+    "$oid": "6432aa9d13155bc0c87c92bd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 3  - Tập 12",
+  "slug": "dau-pha-thuong-khung-phan-3-tap-12",
+  "movieVideoID": 166,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b59613155bc0c87c9336"
+  },
+  "video": "https://short.ink/wFcyceU6H",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044885/uzs0lcicl8ivvtkupu94.jpg",
+  "time": "23:21",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 1",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-1",
+  "movieVideoID": 167,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b5bd13155bc0c87c933c"
+  },
+  "video": "https://short.ink/yZWop0SJb",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044924/nc2p7efdokpnqm4zdji5.jpg",
+  "time": "22:03",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 2",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-2",
+  "movieVideoID": 168,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b5ef13155bc0c87c9342"
+  },
+  "video": "https://short.ink/_SXFK9nsm",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681044973/phqlra9tkgslvn3cgdou.jpg",
+  "time": "23:22",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 3",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-3",
+  "movieVideoID": 169,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b61513155bc0c87c9348"
+  },
+  "video": "https://short.ink/RvWwUsx0X",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045012/rqwyxqgqljtzqp6t1kdw.jpg",
+  "time": "23:28",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 4",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-4",
+  "movieVideoID": 170,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b65013155bc0c87c934e"
+  },
+  "video": "https://short.ink/-CCf6kpbw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045071/bxfcgtaptcjh6x8a63fm.jpg",
+  "time": "23:25",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 5",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-5",
+  "movieVideoID": 171,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b69113155bc0c87c9354"
+  },
+  "video": "https://short.ink/yJDRo71j4",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045136/ddxnthm5vhutfqtv9pig.jpg",
+  "time": "23:35",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 6",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-6",
+  "movieVideoID": 172,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b6c013155bc0c87c935a"
+  },
+  "video": "https://short.ink/qE2jmtB-D",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045183/rl7e74dsdde08n9hdgvr.jpg",
+  "time": "22:38",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 7",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-7",
+  "movieVideoID": 173,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b6f013155bc0c87c9360"
+  },
+  "video": "https://short.ink/0jUfykiew",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045231/qxziwxztbauwyqfugiio.jpg",
+  "time": "22:58",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 8",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-8",
+  "movieVideoID": 174,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b78d13155bc0c87c9366"
+  },
+  "video": "https://short.ink/dzerzLspw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045388/ieaey2qlkdaznc88n0ff.jpg",
+  "time": "21:21",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 9",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-9",
+  "movieVideoID": 175,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b7be13155bc0c87c936c"
+  },
+  "video": "https://short.ink/-mYKm7ceg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045437/rxojpir0gxoeyncdw4lk.jpg",
+  "time": "23:14",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 10",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-10",
+  "movieVideoID": 176,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b7e913155bc0c87c9372"
+  },
+  "video": "https://short.ink/PPygTmHRC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045480/uz0kstlabwvzw3aw9rig.jpg",
+  "time": "23:48",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 11",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-11",
+  "movieVideoID": 177,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b86013155bc0c87c9378"
+  },
+  "video": "https://short.ink/7Zy9NcJET",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045599/hqq2vlebrmsmqdzxuv3b.jpg",
+  "time": "23:53",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 12",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-12",
+  "movieVideoID": 178,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432b8d713155bc0c87c937e"
+  },
+  "video": "https://short.ink/-an4kAkN9",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681045718/zl78bot277cxgcxq9knl.jpg",
+  "time": "23:33",
+  "movieID": {
+    "$oid": "6432b52b13155bc0c87c932e"
+  },
+  "name": "Đấu Phá Thương Khung OVA 3 – Tập 13",
+  "slug": "dau-pha-thuong-khung-ova-3-tap-13",
+  "movieVideoID": 179,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d20713155bc0c87c939e"
+  },
+  "video": "https://short.ink/MD-1JqHyw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052166/eblxoqzuqqo3zm2rpvhc.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 1",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-1",
+  "movieVideoID": 180,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d25313155bc0c87c93a4"
+  },
+  "video": "https://short.ink/HJ7Zvhcb2",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052242/boa0donx336fitjbamjp.jpg",
+  "time": "23:27",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 2",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-2",
+  "movieVideoID": 181,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d28513155bc0c87c93aa"
+  },
+  "video": "https://short.ink/4owfI93k6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052292/xycrl8b2ieo8yoew1pu3.jpg",
+  "time": "22:53",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 3 ",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-3",
+  "movieVideoID": 182,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d2bb13155bc0c87c93b0"
+  },
+  "video": "https://short.ink/a06gt-C_M",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052346/sw9jpkxbj3mznnndo6uc.jpg",
+  "time": "22:00",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 4",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-4",
+  "movieVideoID": 183,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d30a13155bc0c87c93b6"
+  },
+  "video": "https://short.ink/WK_1fW2u0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052425/alym91ijh03b5iiyksfr.jpg",
+  "time": "22:38",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 5",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-5",
+  "movieVideoID": 184,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d32b13155bc0c87c93bc"
+  },
+  "video": "https://short.ink/MRurg2uRY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052458/u523le79j3dckmxvglmk.jpg",
+  "time": "22:43",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 6 ",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-6",
+  "movieVideoID": 185,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d36313155bc0c87c93c2"
+  },
+  "video": "https://short.ink/XlFpB2qP6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052514/dodpkzogqh9hvv8fdago.jpg",
+  "time": "22:31",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 7",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-7",
+  "movieVideoID": 186,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d39513155bc0c87c93c8"
+  },
+  "video": "https://short.ink/FdaYvbX8o",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052564/wspqco4f7cynfy3grpyt.jpg",
+  "time": "22:54",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 8",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-8",
+  "movieVideoID": 187,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d3e413155bc0c87c93ce"
+  },
+  "video": "https://short.ink/rcj8tJ3_o",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052643/agypggwmqchzwfmzxfrg.jpg",
+  "time": "21:03",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 9",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-9",
+  "movieVideoID": 188,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d44513155bc0c87c93d4"
+  },
+  "video": "https://short.ink/-w9Ahn7n9",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681052739/tgpvpefb98dis7iohwuf.jpg",
+  "time": "22:12",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 10",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-10",
+  "movieVideoID": 189,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d71d13155bc0c87c93e5"
+  },
+  "video": "https://short.ink/6ni0FNfNm",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053468/thxoeo0y1m8fio2tg1mx.jpg",
+  "time": "23:41",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5 Tập 1",
+  "slug": "dau-pha-thuong-khung-phan-5-tap-1",
+  "movieVideoID": 190,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d74f13155bc0c87c93eb"
+  },
+  "video": "https://short.ink/Rh0LaYNJi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053518/ybbuuucswgk2yhaw61zg.jpg",
+  "time": "23:22",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5 Tập 2",
+  "slug": "dau-pha-thuong-khung-phan-5-tap-2",
+  "movieVideoID": 191,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d7a813155bc0c87c93f1"
+  },
+  "video": "https://short.ink/Tvzy17-8D",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053607/ijto8znvgbslmfeugjyf.jpg",
+  "time": "22:27",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 03",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-03",
+  "movieVideoID": 192,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d7e113155bc0c87c93f7"
+  },
+  "video": "https://short.ink/to7jYEj1N",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053664/et05occgmmpvoaaukjuu.jpg",
+  "time": "23:28",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 04",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-04",
+  "movieVideoID": 193,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d83713155bc0c87c93fd"
+  },
+  "video": "https://short.ink/n0Z5nSujG",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053750/gftu0subqzjku1mwzk8q.jpg",
+  "time": "22:48",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 05",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-05",
+  "movieVideoID": 194,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d87913155bc0c87c9403"
+  },
+  "video": "https://short.ink/Mn2Msq1UP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053816/arjeijlmmcpdweeabuaz.jpg",
+  "time": "22:50",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 06",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-06",
+  "movieVideoID": 195,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d8b113155bc0c87c9409"
+  },
+  "video": "https://short.ink/MbqjqVd8_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053872/u5apdobiix71xdzyv0fn.jpg",
+  "time": "21:39",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 07",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-07",
+  "movieVideoID": 196,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d8e513155bc0c87c940f"
+  },
+  "video": "https://short.ink/aBmBMvm6P",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053924/xwqacnnc1r5n9yk0fc0a.jpg",
+  "time": "22:38",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 08",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-08",
+  "movieVideoID": 197,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d92a13155bc0c87c9415"
+  },
+  "video": "https://short.ink/enOdMMPZt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681053993/w5j0mo0hg8eqst4rdwav.jpg",
+  "time": "22:30",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 09",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-09",
+  "movieVideoID": 198,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d95a13155bc0c87c941b"
+  },
+  "video": "https://short.ink/essJtUQ59",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054041/iwlutd9bicdk66m6a7db.jpg",
+  "time": "22:10",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 10",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-10",
+  "movieVideoID": 199,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432d9da13155bc0c87c9421"
+  },
+  "video": "https://short.ink/Jvam6h8At",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054169/xde58lvyusymoae6f3yp.jpg",
+  "time": "22:29",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 11",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-11",
+  "movieVideoID": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432da0813155bc0c87c9427"
+  },
+  "video": "https://short.ink/ulxg2YgGG6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054215/lcc4iymilh790934z2ar.jpg",
+  "time": "21:55",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 12",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-12",
+  "movieVideoID": 201,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432da8313155bc0c87c942d"
+  },
+  "video": "https://short.ink/7T0o6joDR",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054338/gvtzgliawpdyf52aqibi.jpg",
+  "time": "22:31",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 13",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-13",
+  "movieVideoID": 202,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dabd13155bc0c87c9433"
+  },
+  "video": "https://short.ink/bomK2nqcw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054396/oyr7sywwfnthf8cylsce.jpg",
+  "time": "20:13",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 14",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-14",
+  "movieVideoID": 203,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432db8f13155bc0c87c943c"
+  },
+  "video": "https://short.ink/g4baKVw9Ko",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054606/ozacbjpqemiul0gfk8ne.jpg",
+  "time": "21:22",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 11",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-11",
+  "movieVideoID": 204,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dc2413155bc0c87c9442"
+  },
+  "video": "https://short.ink/ja3qPjWeu",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054754/ys1mqvhwa5cu8085kkq4.jpg",
+  "time": "21:46",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 12",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-12",
+  "movieVideoID": 205,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dc5d13155bc0c87c9448"
+  },
+  "video": "https://short.ink/0P_EyGtDa",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054812/uecz1uybebx4g8onabng.jpg",
+  "time": "21:44",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 13",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-13",
+  "movieVideoID": 206,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dc8d13155bc0c87c944e"
+  },
+  "video": "https://short.ink/VABF11FkJ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054859/trbnn6zcmnbd52dc2ssb.jpg",
+  "time": "21:11",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 14",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-14",
+  "movieVideoID": 207,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dccb13155bc0c87c9454"
+  },
+  "video": "https://short.ink/03W1y_uVr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681054921/dhp3g72f8kfyfhx32awe.jpg",
+  "time": "21:47",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 15",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-15",
+  "movieVideoID": 208,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dd9013155bc0c87c945a"
+  },
+  "video": "https://short.ink/Os9sbEM_B",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055119/sk7tiywzcydwt8e3zydw.jpg",
+  "time": "21:21",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 16",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-16",
+  "movieVideoID": 209,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432ddbb13155bc0c87c9460"
+  },
+  "video": "https://short.ink/dHs50Fkoz",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055162/ubzei6csv5bzvvb4xnno.jpg",
+  "time": "22:33",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 17",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-17",
+  "movieVideoID": 210,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432ddfa13155bc0c87c9466"
+  },
+  "video": "https://short.ink/ydiSY3Eps",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055225/cta8kvgjdyzzssotjbfb.jpg",
+  "time": "22:00",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 18",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-18",
+  "movieVideoID": 211,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432de7013155bc0c87c946c"
+  },
+  "video": "https://short.ink/qUNR2mRz8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055342/o4jcguv3drnuhe7ahmcz.jpg",
+  "time": "21:15",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 19",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-19",
+  "movieVideoID": 212,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432ded013155bc0c87c9472"
+  },
+  "video": "https://short.ink/s-Insk5g4",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055439/vqj4kn1iplcpk2at69at.jpg",
+  "time": "22:37",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 20",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-20",
+  "movieVideoID": 213,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432df0513155bc0c87c9478"
+  },
+  "video": "https://short.ink/Gf90j97TG",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055492/bhk5wz4lpqnfwkkahpwf.jpg",
+  "time": "21:58",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 21",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-21",
+  "movieVideoID": 214,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432df4613155bc0c87c947e"
+  },
+  "video": "https://short.ink/KnBGJQ2T6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055557/ycmudn4xuwvtqcsvtroh.jpg",
+  "time": "22:28",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 22",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-22",
+  "movieVideoID": 215,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432df7713155bc0c87c9484"
+  },
+  "video": "https://short.ink/vwgsG7zTg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055606/hipxan2reqgzfu24pccp.jpg",
+  "time": "23:04",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 23",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-23",
+  "movieVideoID": 216,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432dfaa13155bc0c87c948a"
+  },
+  "video": "https://short.ink/XUl7YhvGI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055656/tumgneb5iwxzkvhssymx.jpg",
+  "time": "24:43",
+  "movieID": {
+    "$oid": "6432d10b13155bc0c87c9396"
+  },
+  "name": "Đấu Phá Thương Khung Phần 4 Tập 24",
+  "slug": "dau-pha-thuong-khung-phan-4-tap-24",
+  "movieVideoID": 217,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e02413155bc0c87c949f"
+  },
+  "video": "https://short.ink/hBYbLNCPs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055779/ww1edhylkaeneeywntiw.jpg",
+  "time": "20:05",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 15",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-15",
+  "movieVideoID": 218,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e05213155bc0c87c94a5"
+  },
+  "video": "https://short.ink/QlGL-QFsF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055825/rfgfzr51kyh26p4xdzac.jpg",
+  "time": "20:57",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 16",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-16",
+  "movieVideoID": 219,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e08c13155bc0c87c94ab"
+  },
+  "video": "https://short.ink/RYpbaypIO",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055883/dhbimatjzufekx4yjx44.jpg",
+  "time": "21:20",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 17",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-17",
+  "movieVideoID": 220,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e0bd13155bc0c87c94b1"
+  },
+  "video": "https://short.ink/iRtCmFJy0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055932/lhyjzapi2xj2ifq1yyyw.jpg",
+  "time": "22:02",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 18",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-18",
+  "movieVideoID": 221,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e0f213155bc0c87c94b7"
+  },
+  "video": "https://short.ink/wDKdua0do",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681055984/az463bb8x0jodlgehyij.jpg",
+  "time": "20:00",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 19",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-19",
+  "movieVideoID": 222,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e12313155bc0c87c94bd"
+  },
+  "video": "https://short.ink/tJ9Hsg9mo",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056033/xj0hnjglxvbjzaeehpw5.jpg",
+  "time": "21:07",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 20",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-20",
+  "movieVideoID": 223,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e19b13155bc0c87c94c3"
+  },
+  "video": "https://short.ink/Mwfh53Nzs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056153/tutu4d7yrbhgjvzwceso.jpg",
+  "time": "20:45",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 21",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-21",
+  "movieVideoID": 224,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e21213155bc0c87c94c9"
+  },
+  "video": "https://short.ink/oF7lnpwiE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056273/pmysp9dnzcsi0sjki9nv.jpg",
+  "time": "21:44",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 22",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-22",
+  "movieVideoID": 225,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e26f13155bc0c87c94cf"
+  },
+  "video": "https://short.ink/eLr2Q7kPc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056366/zqppg2cwnvyzav423yla.jpg",
+  "time": "20:25",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 23",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-23",
+  "movieVideoID": 226,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e2a113155bc0c87c94d5"
+  },
+  "video": "https://short.ink/3F4Z4bBC-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056416/ypoovnemiftpgyynxvxn.jpg",
+  "time": "20:55",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 24",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-24",
+  "movieVideoID": 227,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e2c713155bc0c87c94db"
+  },
+  "video": "https://short.ink/QrAEY4e9d",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056454/vpaco7flxxgtzi6zyr3x.jpg",
+  "time": "21:49",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 25",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-25",
+  "movieVideoID": 228,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e30913155bc0c87c94e1"
+  },
+  "video": "https://short.ink/uiW7BPvrE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056520/unaskelcdvw7d56gwhjw.jpg",
+  "time": "22:38",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 26",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-26",
+  "movieVideoID": 229,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e33813155bc0c87c94e7"
+  },
+  "video": "https://short.ink/EeH7IxyvP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056567/scfes3ln95s3ibb3aool.jpg",
+  "time": "20:45",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 27",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-27",
+  "movieVideoID": 230,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e37913155bc0c87c94ed"
+  },
+  "video": "https://short.ink/CraQq9iN7",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056631/p5sbm3mqiybxxwxsvhor.jpg",
+  "time": "21:28",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 28",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-28",
+  "movieVideoID": 231,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e3b313155bc0c87c94f3"
+  },
+  "video": "https://short.ink/49-Owjape",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056689/slu6ioxougk1r1luoutf.jpg",
+  "time": "23:06",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 29",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-29",
+  "movieVideoID": 232,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e3e313155bc0c87c94f9"
+  },
+  "video": "https://short.ink/bBpxBVeJo",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056737/xcjdstfknf3domerlb7k.jpg",
+  "time": "22:41",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 30",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-30",
+  "movieVideoID": 233,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e41413155bc0c87c94ff"
+  },
+  "video": "https://short.ink/nBTT11qcc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056787/ujczavgkwuktgdabz2ww.jpg",
+  "time": "22:31",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 31",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-31",
+  "movieVideoID": 234,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e48813155bc0c87c9505"
+  },
+  "video": "https://short.ink/kUEBn2lGq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056903/zsagijm2kch9uxkuiwdm.jpg",
+  "time": "21:25",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 32",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-32",
+  "movieVideoID": 235,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e4e013155bc0c87c950b"
+  },
+  "video": "https://short.ink/DEfRNbItF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681056991/fsut3ynimjhaxgxm1aij.jpg",
+  "time": "23:36",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 33",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-33",
+  "movieVideoID": 236,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e50b13155bc0c87c9511"
+  },
+  "video": "https://short.ink/dJun0LLRc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057034/l7yyjtegkbvyldqug7b1.jpg",
+  "time": "22:15",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 34",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-34",
+  "movieVideoID": 237,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e53113155bc0c87c9517"
+  },
+  "video": "https://short.ink/0PDECu7oc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057072/nyyugyvyqgqmyugjw2os.jpg",
+  "time": "20:51",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 35",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-35",
+  "movieVideoID": 238,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e55d13155bc0c87c951d"
+  },
+  "video": "https://short.ink/fnfolHdrb",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057116/qblsahq7bvc5zvv0h7ux.jpg",
+  "time": "21:25",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 36",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-36",
+  "movieVideoID": 239,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e58913155bc0c87c9523"
+  },
+  "video": "https://short.ink/wX_ySKlLL",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057159/lxyggwcdwwp10te7fzpf.jpg",
+  "time": "21:39",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 37",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-37",
+  "movieVideoID": 240,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e5ab13155bc0c87c9529"
+  },
+  "video": "https://short.ink/4cWx_GQFX",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057194/gtcjst4bnnniwara0kdi.jpg",
+  "time": "22:24",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5- Ep 38",
+  "slug": "dau-pha-thuong-khung-phan-5-ep-38",
+  "movieVideoID": 241,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e5d113155bc0c87c952f"
+  },
+  "video": "https://short.ink/wwrIOTgLbm",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057231/iubzdvkcbpj3oosuai4i.jpg",
+  "time": "21:35",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5 Tập 39",
+  "slug": "dau-pha-thuong-khung-phan-5-tap-39",
+  "movieVideoID": 242,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e77e00210bebafc7c2f9"
+  },
+  "video": "https://short.ink/DTNqSWeaj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057660/jft48un3fw7isd76nikx.jpg",
+  "time": "53:56",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 11",
+  "slug": "truong-nguyet-tan-minh-2023-tap-11",
+  "movieVideoID": 243,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6432e7c300210bebafc7c2ff"
+  },
+  "video": "https://short.ink/TRR3JR29N",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681057729/b3hcs4t4vmuvozllv48d.jpg",
+  "time": "54:15",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 12",
+  "slug": "truong-nguyet-tan-minh-2023-tap-12",
+  "movieVideoID": 244,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64338e85f2a747d0ea14a15a"
+  },
+  "video": "https://short.ink/-jdK7al02f",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681100420/beyz0uqvpfxqfookleka.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64338d9bf2a747d0ea14a152"
+  },
+  "name": "Dr. Stone- New World- Ep 01",
+  "slug": "dr-stone-new-world-ep-01",
+  "movieVideoID": 245,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64339103f2a747d0ea14a19d"
+  },
+  "video": "https://short.ink/ylqnf1pZt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681101060/auq2q2uo9zlud4grybeo.jpg",
+  "time": "2:10:28",
+  "movieID": {
+    "$oid": "643390a3f2a747d0ea14a195"
+  },
+  "name": "Shazam Cơn Thịnh Nộ Của Các Vị Thần",
+  "slug": "shazam-con-thinh-no-cua-cac-vi-than",
+  "movieVideoID": 246,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64339228f2a747d0ea14a1ca"
+  },
+  "video": "https://short.ink/fZlTzn4gN",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681101352/bfstpp9ufpany6ftmvqa.jpg",
+  "time": "24:25",
+  "movieID": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "name": "Tập 01 Jigokuraku - Địa Ngục Cực Lạc",
+  "slug": "tap-01-jigokuraku-dia-nguc-cuc-lac",
+  "movieVideoID": 247,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64339285f2a747d0ea14a1d0"
+  },
+  "video": "https://short.ink/hVdeqXIUS",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681101445/xy6ovpulju36gvo181i4.jpg",
+  "time": "24:25",
+  "movieID": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "name": "Tập 02 Jigokuraku - Địa Ngục Cực Lạc",
+  "slug": "tap-02-jigokuraku-dia-nguc-cuc-lac",
+  "movieVideoID": 248,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433be3bf3cc8afc91baf9d1"
+  },
+  "video": "https://short.ink/f9AQf_EhS",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112635/ignvjgm3oietqx7azwez.jpg",
+  "time": "1:00:09",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 1- The Name of the Game",
+  "slug": "the-boys-season-1-episode-1-the-name-of-the-game",
+  "movieVideoID": 249,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433beb6f3cc8afc91baf9d7"
+  },
+  "video": "https://short.ink/9qkFpNqzU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112758/nfznlgnjbyq0bm7samly.jpg",
+  "time": "59:07",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 2- Cherry",
+  "slug": "the-boys-season-1-episode-2-cherry",
+  "movieVideoID": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433bef6f3cc8afc91baf9dd"
+  },
+  "video": "https://short.ink/8SQFr_JIc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112822/y12vjyfs6az9mbgly7jt.jpg",
+  "time": "54:58",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 3- Get Some",
+  "slug": "the-boys-season-1-episode-3-get-some",
+  "movieVideoID": 251,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433bf1ff3cc8afc91baf9e3"
+  },
+  "video": "https://short.ink/YCDDy51JY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112862/lwvbqfnacue0e4edomuq.jpg",
+  "time": "56:33",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 4- The Female of the Species",
+  "slug": "the-boys-season-1-episode-4-the-female-of-the-species",
+  "movieVideoID": 252,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433bf46f3cc8afc91baf9e9"
+  },
+  "video": "https://short.ink/9fK136Ajt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112901/xclsyzwgqbkybwu5mzea.jpg",
+  "time": "1:00:15",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 5- Good for the Soul",
+  "slug": "the-boys-season-1-episode-5-good-for-the-soul",
+  "movieVideoID": 253,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433bf74f3cc8afc91baf9ef"
+  },
+  "video": "https://short.ink/wvXK-45wl",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112947/k28rnzqewm3vfaehq4k1.jpg",
+  "time": "1:00:14",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 6- The Innocents",
+  "slug": "the-boys-season-1-episode-6-the-innocents",
+  "movieVideoID": 254,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433bf9af3cc8afc91baf9f5"
+  },
+  "video": "https://short.ink/_fRYp4vKl",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681112986/fjwnqwmu2rcqkthoqpy9.jpg",
+  "time": "56:24",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 7- The Self-Preservation Society",
+  "slug": "the-boys-season-1-episode-7-the-self-preservation-society",
+  "movieVideoID": 255,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433bfc2f3cc8afc91baf9fb"
+  },
+  "video": "https://short.ink/kldESSWvA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681113025/scyacpgqj3ajd7midjyr.jpg",
+  "time": "1:06:39",
+  "movieID": {
+    "$oid": "6433bdfcf3cc8afc91baf9c9"
+  },
+  "name": "The Boys Season 1 Episode 8- You Found Me",
+  "slug": "the-boys-season-1-episode-8-you-found-me",
+  "movieVideoID": 256,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433cd3df3cc8afc91bafaa5"
+  },
+  "video": "https://short.ink/umhe0AUAn",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116477/fbizzi3lmpg6wdc7x3m9.jpg",
+  "time": "1:02:57",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 1",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-1",
+  "movieVideoID": 257,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433cd7bf3cc8afc91bafaab"
+  },
+  "video": "https://short.ink/-ii9j3CDx",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116538/edduvzz0f0n1r2ocanps.jpg",
+  "time": "59:25",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 2 ",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-2",
+  "movieVideoID": 258,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433cdaff3cc8afc91bafab1"
+  },
+  "video": "https://short.ink/HNZ7sH7Vg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116591/umqtb7l3rxvsvhxvhljd.jpg",
+  "time": "58:33",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 3 ",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-3",
+  "movieVideoID": 259,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433cde9f3cc8afc91bafab7"
+  },
+  "video": "https://short.ink/MeJUskkPu",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116649/d4thrkfv77c5idczwsbl.jpg",
+  "time": "1:08:11",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 4",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-4",
+  "movieVideoID": 260,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ce1af3cc8afc91bafabd"
+  },
+  "video": "https://short.ink/VQK-PYzHt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116698/uzxvjqjfdtspa5nmhjwb.jpg",
+  "time": "1:00:46",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 5",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-5",
+  "movieVideoID": 261,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ce47f3cc8afc91bafac3"
+  },
+  "video": "https://short.ink/QnDUWlcab",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116743/xq8kdvj82ktsidaln0ks.jpg",
+  "time": "1:05:11",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 6",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-6",
+  "movieVideoID": 262,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ce6df3cc8afc91bafac9"
+  },
+  "video": "https://short.ink/UZcU2GS5o",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116780/dgorrvrcg0guhi4gdpuc.jpg",
+  "time": "54:29",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 7",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-7",
+  "movieVideoID": 263,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433ce97f3cc8afc91bafacf"
+  },
+  "video": "https://short.ink/EwiRH8_f9",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681116823/glty6cku2wklzshcaqap.jpg",
+  "time": "1:07:26",
+  "movieID": {
+    "$oid": "6433c3daf3cc8afc91bafa47"
+  },
+  "name": "Siêu Anh Hùng Phá Hoại (Phần 2) Tập 8 - Tập cuối",
+  "slug": "sieu-anh-hung-pha-hoai-phan-2-tap-8-tap-cuoi",
+  "movieVideoID": 264,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433facc2fb4e5690107212e"
+  },
+  "video": "https://short.ink/sQcmHPbrw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128139/pqp7elhbfhcsufbxbfze.jpg",
+  "time": "1:01:58",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E1",
+  "slug": "theboyss03e1",
+  "movieVideoID": 265,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433faf02fb4e56901072134"
+  },
+  "video": "https://short.ink/dUX5P8FnC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128176/cxkyyprm3mo98qkuyzk0.jpg",
+  "time": "59:50",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E2",
+  "slug": "theboyss03e2",
+  "movieVideoID": 266,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433fb162fb4e5690107213a"
+  },
+  "video": "https://short.ink/j_gtZGJ8o",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128214/e4kymp5v3d5zqh8iwl6p.jpg",
+  "time": "1:01:09",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E3",
+  "slug": "theboyss03e3",
+  "movieVideoID": 267,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433fb372fb4e56901072140"
+  },
+  "video": "https://short.ink/SOAe-F8_L",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128247/gwpgbv0yic1jglrbgbqj.jpg",
+  "time": "1:01:27",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E4",
+  "slug": "theboyss03e4",
+  "movieVideoID": 268,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433fb602fb4e56901072146"
+  },
+  "video": "https://short.ink/MZlZwK6WE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128288/pjp6bkjrdazzlscnclla.jpg",
+  "time": "1:01:10",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E5",
+  "slug": "theboyss03e5",
+  "movieVideoID": 269,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433fb882fb4e5690107214c"
+  },
+  "video": "https://short.ink/4a6rirLoQ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128327/vypmbnnkgqz9ljeiyldk.jpg",
+  "time": "1:00:42",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E6",
+  "slug": "theboyss03e6",
+  "movieVideoID": 270,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433fbb12fb4e56901072152"
+  },
+  "video": "https://short.ink/2_Pt4W49W",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128369/krpnkvgsrc6i4rjc2isj.jpg",
+  "time": "1:04:55",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E7",
+  "slug": "theboyss03e7",
+  "movieVideoID": 271,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6433fbd22fb4e56901072158"
+  },
+  "video": "https://short.ink/-07QGz1M0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681128402/lqc2vl4lcknpjjxr6pti.jpg",
+  "time": "1:02:00",
+  "movieID": {
+    "$oid": "6433fa762fb4e56901072126"
+  },
+  "name": "TheBoysS03E8",
+  "slug": "theboyss03e8",
+  "movieVideoID": 272,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434e19719dfa8332c331cbc"
+  },
+  "video": "https://short.ink/BKQqYruv_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681187223/natbxizppnrf1czl32yp.jpg",
+  "time": "54:37",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 13",
+  "slug": "truong-nguyet-tan-minh-2023-tap-13",
+  "movieVideoID": 273,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434e1e319dfa8332c331cc2"
+  },
+  "video": "https://short.ink/FEguZATCs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681187298/dbodijbikcbdp7r65yf2.jpg",
+  "time": "55:30",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 14",
+  "slug": "truong-nguyet-tan-minh-2023-tap-14",
+  "movieVideoID": 274,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434e36319dfa8332c331ce0"
+  },
+  "video": "https://short.ink/R8b6GaZLx",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681187682/ch8za6eexsae6ybwtjmw.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "6434e31519dfa8332c331cd5"
+  },
+  "name": "Dead Mount Death Play- Ep 01",
+  "slug": "dead-mount-death-play-ep-01",
+  "movieVideoID": 275,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6434e5eb19dfa8332c331d15"
+  },
+  "video": "https://short.ink/QDuiH5hJ6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681188331/gvguiqu82mtbfxlrhlyd.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64324ce471dc93f77ce85154"
+  },
+  "name": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru- Level Up wa Jinsei wo Kaeta- Ep 02",
+  "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ep-02",
+  "movieVideoID": 276,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64356f4ea41435d0b9ce83a9"
+  },
+  "video": "https://short.ink/nEBxAHUjV",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681223500/tavguviocbynuyc4cipc.jpg",
+  "time": "53:31",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 15",
+  "slug": "truong-nguyet-tan-minh-2023-tap-15",
+  "movieVideoID": 277,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64356f70a41435d0b9ce83af"
+  },
+  "video": "https://short.ink/URtyalcmF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681223529/c3qqibd0vd5tro0e7kn1.jpg",
+  "time": "55:08",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 16",
+  "slug": "truong-nguyet-tan-minh-2023-tap-16",
+  "movieVideoID": 278,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359caba41435d0b9ce8678"
+  },
+  "video": "https://short.ink/ZNkhdAiph",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235114/poj14hyw7cjjpon3rbi8.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 01",
+  "slug": "kimetsu-no-yaiba-ep-01",
+  "movieVideoID": 279,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359cd0a41435d0b9ce867e"
+  },
+  "video": "https://short.ink/rv48F1pUR",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235151/zb2qnx96olhj166ui7ui.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 02",
+  "slug": "kimetsu-no-yaiba-ep-02",
+  "movieVideoID": 280,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359cefa41435d0b9ce8684"
+  },
+  "video": "https://short.ink/P8lFtf1XZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235182/f9tr9ionyoazhoass7mo.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 03",
+  "slug": "kimetsu-no-yaiba-ep-03",
+  "movieVideoID": 281,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359d0ea41435d0b9ce868a"
+  },
+  "video": "https://short.ink/YT1zYvRH-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235212/rqetfwjkmrjhkucmt88g.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 04",
+  "slug": "kimetsu-no-yaiba-ep-04",
+  "movieVideoID": 282,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359d32a41435d0b9ce8690"
+  },
+  "video": "https://short.ink/bDQ81s-jU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235249/qwcxf866xsfqwkehnhfs.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 05",
+  "slug": "kimetsu-no-yaiba-ep-05",
+  "movieVideoID": 283,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359d58a41435d0b9ce8696"
+  },
+  "video": "https://short.ink/4z_cFY4eH",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235286/l0hrwq3nxhnex23z256u.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 06",
+  "slug": "kimetsu-no-yaiba-ep-06",
+  "movieVideoID": 284,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359d8aa41435d0b9ce869c"
+  },
+  "video": "https://short.ink/Udd-Zf6ik",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235337/elbyyp7pphngk2qsstfv.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 07",
+  "slug": "kimetsu-no-yaiba-ep-07",
+  "movieVideoID": 285,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359dbaa41435d0b9ce86a2"
+  },
+  "video": "https://short.ink/YVggv2TN-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235385/lmiadtpqfswckinfwhbx.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 08",
+  "slug": "kimetsu-no-yaiba-ep-08",
+  "movieVideoID": 286,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359ddca41435d0b9ce86a8"
+  },
+  "video": "https://short.ink/PB5jdtXD_s",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235419/eq72tfk09pjvfrupdvsa.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 09",
+  "slug": "kimetsu-no-yaiba-ep-09",
+  "movieVideoID": 287,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359e03a41435d0b9ce86ae"
+  },
+  "video": "https://short.ink/3DyTUcZds",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235458/ycmuhbtu13qmapdusyzp.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 10",
+  "slug": "kimetsu-no-yaiba-ep-10",
+  "movieVideoID": 288,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359e23a41435d0b9ce86b4"
+  },
+  "video": "https://short.ink/5TM2XdqLh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235490/r4ioypqy3emkwpzhzksk.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 11",
+  "slug": "kimetsu-no-yaiba-ep-11",
+  "movieVideoID": 289,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359ea6a41435d0b9ce86ba"
+  },
+  "video": "https://short.ink/wOBPDazdl",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235621/us0e86fzcdyihwhii8xq.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 12",
+  "slug": "kimetsu-no-yaiba-ep-12",
+  "movieVideoID": 290,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359ed8a41435d0b9ce86c0"
+  },
+  "video": "https://short.ink/dvmvesbSt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235671/bxiya6hel5mkau6xzpfp.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 13",
+  "slug": "kimetsu-no-yaiba-ep-13",
+  "movieVideoID": 291,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359f9da41435d0b9ce86c6"
+  },
+  "video": "https://short.ink/1p81dCxPf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235867/nfaxaodswteodilu1nad.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 14",
+  "slug": "kimetsu-no-yaiba-ep-14",
+  "movieVideoID": 292,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359fb9a41435d0b9ce86cc"
+  },
+  "video": "https://short.ink/hBrxcEF4W",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235896/l41cttprdcagm3p27asd.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 15",
+  "slug": "kimetsu-no-yaiba-ep-15",
+  "movieVideoID": 293,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64359fd6a41435d0b9ce86d2"
+  },
+  "video": "https://short.ink/oz4HM4nDH",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235924/v4cne0ows8rrcqodiuhh.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 16",
+  "slug": "kimetsu-no-yaiba-ep-16",
+  "movieVideoID": 294,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a005a41435d0b9ce86d8"
+  },
+  "video": "https://short.ink/g8xpPpWCM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681235971/m8i62uxfqguopkuulp4y.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 17",
+  "slug": "kimetsu-no-yaiba-ep-17",
+  "movieVideoID": 295,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a06ba41435d0b9ce86de"
+  },
+  "video": "https://short.ink/oskuWOW7k",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236073/bzr3wl45uytscydlhppk.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 18",
+  "slug": "kimetsu-no-yaiba-ep-18",
+  "movieVideoID": 296,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a0b4a41435d0b9ce86e4"
+  },
+  "video": "https://short.ink/uXvTJkbHXu",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236147/nmrvkpgaomjfeyvw0gmd.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 19",
+  "slug": "kimetsu-no-yaiba-ep-19",
+  "movieVideoID": 297,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a10aa41435d0b9ce86ea"
+  },
+  "video": "https://short.ink/52h7waoeh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236233/qwk80ugqyx16iyud7vyp.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 20",
+  "slug": "kimetsu-no-yaiba-ep-20",
+  "movieVideoID": 298,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a134a41435d0b9ce86f0"
+  },
+  "video": "https://short.ink/tdhss-EX9",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236274/nt8p14jq1iyvsmjqdkts.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 21",
+  "slug": "kimetsu-no-yaiba-ep-21",
+  "movieVideoID": 299,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a199a41435d0b9ce86f6"
+  },
+  "video": "https://short.ink/ZE2pfvkzI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236376/lxytzvivat1tcoibaasw.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 22",
+  "slug": "kimetsu-no-yaiba-ep-22",
+  "movieVideoID": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a1bba41435d0b9ce86fc"
+  },
+  "video": "https://short.ink/vY2853nVL",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236410/lg2bomxokpsvohlrgpcy.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 23",
+  "slug": "kimetsu-no-yaiba-ep-23",
+  "movieVideoID": 301,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a1e1a41435d0b9ce8702"
+  },
+  "video": "https://short.ink/GPAJ48AKA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236448/him9l282xtjzslu1yzto.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 24",
+  "slug": "kimetsu-no-yaiba-ep-24",
+  "movieVideoID": 302,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a204a41435d0b9ce8708"
+  },
+  "video": "https://short.ink/6al1xmUOx",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236482/nfbmublqskznqrklgqma.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 25",
+  "slug": "kimetsu-no-yaiba-ep-25",
+  "movieVideoID": 303,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6435a229a41435d0b9ce870e"
+  },
+  "video": "https://short.ink/cdztaI9MQ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681236520/fzkgqafb5dh7xbo4vhoy.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64359c66a41435d0b9ce866d"
+  },
+  "name": "Kimetsu no Yaiba- Ep 26_END",
+  "slug": "kimetsu-no-yaiba-ep-26_end",
+  "movieVideoID": 304,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64364650a41435d0b9ce88be"
+  },
+  "video": "https://short.ink/yrZ8yLpri8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278543/d9q4lakut1cf2y8vas0d.jpg",
+  "time": "26:16",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 01",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-01",
+  "movieVideoID": 305,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436466ea41435d0b9ce88c4"
+  },
+  "video": "https://short.ink/-9g-iRl5i",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278573/vi0o3oxilwlbdzojymuu.jpg",
+  "time": "22:55",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 02",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-02",
+  "movieVideoID": 306,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436469ba41435d0b9ce88ca"
+  },
+  "video": "https://short.ink/nH0ACUHLA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278618/ryhznpl0udqqqtasoa9u.jpg",
+  "time": "25:04",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 03",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-03",
+  "movieVideoID": 307,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643646b9a41435d0b9ce88d0"
+  },
+  "video": "https://short.ink/W1EQ3JJgo",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278647/ukpwt28fuywmt0ok5ds3.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 04",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-04",
+  "movieVideoID": 308,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643646dba41435d0b9ce88dc"
+  },
+  "video": "https://short.ink/XuVTpk_FF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278682/ofa1sxpa3ehk1omlptoa.jpg",
+  "time": "21:40",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 05",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-05",
+  "movieVideoID": 309,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643646f8a41435d0b9ce88e5"
+  },
+  "video": "https://short.ink/HTFqVqfPu",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278711/v4cvfyo6jmse29jsjw9k.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 06",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-06",
+  "movieVideoID": 310,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64364716a41435d0b9ce88ee"
+  },
+  "video": "https://short.ink/D2a1GlI75",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278740/clxxmghnuxupigz21od3.jpg",
+  "time": "26:30",
+  "movieID": {
+    "$oid": "64364610a41435d0b9ce88b3"
+  },
+  "name": "Kimetsu no Yaiba- Mugen Ressha-hen- Ep 07_END",
+  "slug": "kimetsu-no-yaiba-mugen-ressha-hen-ep-07_end",
+  "movieVideoID": 311,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643647caa41435d0b9ce8908"
+  },
+  "video": "https://short.ink/7tHiCZj8c",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278921/y3ppd2ndvwzmd4kyqpv2.jpg",
+  "time": "47:01",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 01",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-01",
+  "movieVideoID": 312,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643647eda41435d0b9ce890e"
+  },
+  "video": "https://short.ink/zwkVrpxJE",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278956/mcrhtkuh8n72iajjckfs.jpg",
+  "time": "23:42",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 02",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-02",
+  "movieVideoID": 313,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436480ea41435d0b9ce8914"
+  },
+  "video": "https://short.ink/WQ8q0_d0z",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681278989/tnxq5d6vgysedazh5lcw.jpg",
+  "time": "23:49",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 03",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-03",
+  "movieVideoID": 314,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436482ba41435d0b9ce891a"
+  },
+  "video": "https://short.ink/-FpQsKN6B",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279018/ar4yqydvgnrya6yrvggf.jpg",
+  "time": "23:42",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 04",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-04",
+  "movieVideoID": 315,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436484aa41435d0b9ce8920"
+  },
+  "video": "https://short.ink/r955bKynu",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279048/bt8dtssvueyn6ll7uugq.jpg",
+  "time": "23:49",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 05",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-05",
+  "movieVideoID": 316,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436489ba41435d0b9ce8926"
+  },
+  "video": "https://short.ink/tRi8rGxc0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279130/qt8pogchpcufiova7ecf.jpg",
+  "time": "23:42",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 06",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-06",
+  "movieVideoID": 317,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643648cda41435d0b9ce892c"
+  },
+  "video": "https://short.ink/6DgtagnDO",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279180/mzp65ah2qxlelvr7bmba.jpg",
+  "time": "23:49",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 07",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-07",
+  "movieVideoID": 318,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643648eea41435d0b9ce8932"
+  },
+  "video": "https://short.ink/w3FQ9yiGI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279212/i0xbpqemnppbppcwjq9c.jpg",
+  "time": "23:42",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 08",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-08",
+  "movieVideoID": 319,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64364913a41435d0b9ce8938"
+  },
+  "video": "https://short.ink/MbIGKSlIrQ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279250/ezzuopv5syxohdwzo2vi.jpg",
+  "time": "23:49",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 09",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-09",
+  "movieVideoID": 320,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436493fa41435d0b9ce893e"
+  },
+  "video": "https://short.ink/QKZCyhy5U",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279293/wynz5fik4hjifs9etz1e.jpg",
+  "time": "23:42",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 10",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-10",
+  "movieVideoID": 321,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436496ba41435d0b9ce8944"
+  },
+  "video": "https://short.ink/oV19sVi_v",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681279338/dln2scgw4bdmbfjwc50u.jpg",
+  "time": "32:35",
+  "movieID": {
+    "$oid": "6436477aa41435d0b9ce88fd"
+  },
+  "name": "Lưỡi Gươm Diệt Quỷ Phần 2 - Khu Kỹ Viện- Ep 11_END",
+  "slug": "luoi-guom-diet-quy-phan-2-khu-ky-vien-ep-11_end",
+  "movieVideoID": 322,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436551aa41435d0b9ce89e1"
+  },
+  "video": "https://short.ink/tUdD6k2sr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681282329/bekif04pzil33sbl8xju.jpg",
+  "time": "49:25",
+  "movieID": {
+    "$oid": "6436546da41435d0b9ce89c5"
+  },
+  "name": "Thanh Gươm Diệt Quỷ (Phần 3) Tập 1 - Giấc mộng của ai kia",
+  "slug": "thanh-guom-diet-quy-phan-3-tap-1-giac-mong-cua-ai-kia",
+  "movieVideoID": 323,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643656f1a41435d0b9ce8a19"
+  },
+  "video": "https://short.ink/MBTzLPLxn",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681282800/nogd7acrt7lnwjrbtabx.jpg",
+  "time": "25:57",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Vinland Saga Season 2 Tập 14 ",
+  "slug": "vinland-saga-season-2-tap-14",
+  "movieVideoID": 324,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64366437a41435d0b9ce8be4"
+  },
+  "video": "https://short.ink/GImsM412x",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681286198/eepcjo5x6vy3expgmanb.jpg",
+  "time": "2:05:11",
+  "movieID": {
+    "$oid": "643663b9a41435d0b9ce8bd9"
+  },
+  "name": "Ant-Man and the Wasp- Quantumania 2023",
+  "slug": "ant-man-and-the-wasp-quantumania-2023",
+  "movieVideoID": 325,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643687aba41435d0b9ce8e7a"
+  },
+  "video": "https://short.ink/Ge2VenAxS",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681295273/n5ijcoekorpt2fusopfy.jpg",
+  "time": "54:02",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 17",
+  "slug": "truong-nguyet-tan-minh-2023-tap-17",
+  "movieVideoID": 326,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64368cc6a41435d0b9ce8f24"
+  },
+  "video": "https://short.ink/jvWE-Al5T",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681296581/ksjvkx4vvoac2zplyi38.jpg",
+  "time": "1:53:32",
+  "movieID": {
+    "$oid": "64368c84a41435d0b9ce8f19"
+  },
+  "name": "Bỗng Dưng Trúng Số",
+  "slug": "bong-dung-trung-so",
+  "movieVideoID": 327,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436a4b4a41435d0b9ce9091"
+  },
+  "video": "https://short.ink/6IH9ia1HD",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681302708/g9canungo0psvh3nqvh7.jpg",
+  "time": "2:41:00",
+  "movieID": {
+    "$oid": "64369230a41435d0b9ce8f99"
+  },
+  "name": "John Wick: Chapter 4",
+  "slug": "john-wick-chapter-4",
+  "movieVideoID": 328,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436af1fa41435d0b9ce916f"
+  },
+  "video": "https://short.ink/jjDWbrbwz",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681305374/j5lrq325oql22utt7eff.jpg",
+  "time": "1:56:50",
+  "movieID": {
+    "$oid": "6436aedba41435d0b9ce9164"
+  },
+  "name": "Creed III ",
+  "slug": "creed-iii",
+  "movieVideoID": 329,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436b236a41435d0b9ce9189"
+  },
+  "video": "https://short.ink/uBerCY9dC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681306164/piat3mjpgv4m1x9cebod.jpg",
+  "time": "2:04:50",
+  "movieID": {
+    "$oid": "6436b1d5a41435d0b9ce917e"
+  },
+  "name": "Black Adam",
+  "slug": "black-adam",
+  "movieVideoID": 330,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436bb7fa41435d0b9ce91ce"
+  },
+  "video": "https://short.ink/azSbegv4D",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681308540/iwoq8yqe1zvbozrhseb0.jpg",
+  "time": "41:45",
+  "movieID": {
+    "$oid": "6436bb05a41435d0b9ce91c3"
+  },
+  "name": "Gotham Knights Season 1 Episode 1- Pilot",
+  "slug": "gotham-knights-season-1-episode-1-pilot",
+  "movieVideoID": 331,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436bcb2a41435d0b9ce91d4"
+  },
+  "video": "https://short.ink/xN5iDSjiq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681308845/fpz68fqvsoqc3qynzv19.jpg",
+  "time": "41:14",
+  "movieID": {
+    "$oid": "6436bb05a41435d0b9ce91c3"
+  },
+  "name": "Gotham Knights Season 1 Episode 2- Scene of the Crime",
+  "slug": "gotham-knights-season-1-episode-2-scene-of-the-crime",
+  "movieVideoID": 332,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436bd0ba41435d0b9ce91da"
+  },
+  "video": "https://short.ink/jGHfnB9xs",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681308935/zg50gdhahkr5xkpy7hvk.jpg",
+  "time": "42:11",
+  "movieID": {
+    "$oid": "6436bb05a41435d0b9ce91c3"
+  },
+  "name": "Gotham Knights Season 1 Episode 3- Under Pressure",
+  "slug": "gotham-knights-season-1-episode-3-under-pressure",
+  "movieVideoID": 333,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6436beaea41435d0b9ce91e0"
+  },
+  "video": "https://short.ink/CQ4ghv8e7",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681309349/kdc5vrzlhkkdg1en6knh.jpg",
+  "time": "42:03",
+  "movieID": {
+    "$oid": "6436bb05a41435d0b9ce91c3"
+  },
+  "name": "Gotham Knights Season 1 Episode 4- Of Butchers and Betrayals",
+  "slug": "gotham-knights-season-1-episode-4-of-butchers-and-betrayals",
+  "movieVideoID": 334,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437b55ea41435d0b9ce942b"
+  },
+  "video": "https://short.ink/YLGH344Lj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681372509/rhpclzz7aq7iw1o6a3jb.jpg",
+  "time": "1:42:21",
+  "movieID": {
+    "$oid": "6437b534a41435d0b9ce9420"
+  },
+  "name": "Puss in Boots: The Last Wish",
+  "slug": "puss-in-boots-the-last-wish",
+  "movieVideoID": 335,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6437e336a41435d0b9ce94f5"
+  },
+  "video": "https://short.ink/flh9ubmDP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681384244/fs8seon9ea5rd9muz44i.jpg",
+  "time": "59:22",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 18",
+  "slug": "truong-nguyet-tan-minh-2023-tap-18",
+  "movieVideoID": 336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643843fba41435d0b9ce9593"
+  },
+  "video": "https://short.ink/x6zgdZW3T",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681409018/uyj3p4t6ltmj3ocagtgz.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64338d9bf2a747d0ea14a152"
+  },
+  "name": "Dr. Stone- New World- Ep 02",
+  "slug": "dr-stone-new-world-ep-02",
+  "movieVideoID": 337,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438d257a41435d0b9ce9677"
+  },
+  "video": "https://short.ink/cg_qUS2n-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681445461/ipksxvebgldber8louze.jpg",
+  "time": "22:50",
+  "movieID": {
+    "$oid": "6438d1c3a41435d0b9ce966c"
+  },
+  "name": "Ousama Ranking- Yuuki no Takarabako- Ep 01",
+  "slug": "ousama-ranking-yuuki-no-takarabako-ep-01",
+  "movieVideoID": 338,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438d4f6a41435d0b9ce96b9"
+  },
+  "video": "https://short.ink/BUBCMO_mN",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681446132/yinbu5jfefaufm87lkom.jpg",
+  "time": "23:45",
+  "movieID": {
+    "$oid": "6438d4b5a41435d0b9ce96ae"
+  },
+  "name": "Kaminaki Sekai no Kamisama Katsudou- Ep 01",
+  "slug": "kaminaki-sekai-no-kamisama-katsudou-ep-01",
+  "movieVideoID": 339,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438d529a41435d0b9ce96bf"
+  },
+  "video": "https://short.ink/2PZP3rwfM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681446183/e1qcttmporr3ne1mnqra.jpg",
+  "time": "23:34",
+  "movieID": {
+    "$oid": "6438d4b5a41435d0b9ce96ae"
+  },
+  "name": "Kaminaki Sekai no Kamisama Katsudou- Ep 02",
+  "slug": "kaminaki-sekai-no-kamisama-katsudou-ep-02",
+  "movieVideoID": 340,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438db8ea41435d0b9ce96d4"
+  },
+  "video": "https://short.ink/k5X7NQ3hU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681447820/n4pl6ohgfqyflkhaodkb.jpg",
+  "time": "19:33",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không- Ep 01",
+  "slug": "thon-phe-tinh-khong-ep-01",
+  "movieVideoID": 341,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438de43a41435d0b9ce96da"
+  },
+  "video": "https://short.ink/jTrB9yVzt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681448512/bngsjzicmeus2ubdgt6c.jpg",
+  "time": "21:44",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không- Ep 02",
+  "slug": "thon-phe-tinh-khong-ep-02",
+  "movieVideoID": 342,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438df4ba41435d0b9ce96f0"
+  },
+  "video": "https://short.ink/0Liyz_6g8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681448778/oikomfmvuxkgastwajsh.jpg",
+  "time": "21:42",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không- Ep 03",
+  "slug": "thon-phe-tinh-khong-ep-03",
+  "movieVideoID": 343,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438e4e9a41435d0b9ce971b"
+  },
+  "video": "https://short.ink/JNaRlHkgPt",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681450215/dqp96dhddx6xe4w35vh9.jpg",
+  "time": "20:44",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 4",
+  "slug": "thon-phe-tinh-khong-tap-4",
+  "movieVideoID": 344,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438e58ba41435d0b9ce9721"
+  },
+  "video": "https://short.ink/So5yUB2OJ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681450377/b30rv6jw9waxmppzjvwg.jpg",
+  "time": "20:03",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 5",
+  "slug": "thon-phe-tinh-khong-tap-5",
+  "movieVideoID": 345,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f086a41435d0b9ce9741"
+  },
+  "video": "https://short.ink/ZibpGr1gf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681453188/fzuspetcux1nchgqo2c6.jpg",
+  "time": "21:34",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 6",
+  "slug": "thon-phe-tinh-khong-tap-6",
+  "movieVideoID": 346,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f0dba41435d0b9ce9747"
+  },
+  "video": "https://short.ink/BblYJzm6p",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681453274/dt9v5n1nr7c7fb9duz1w.jpg",
+  "time": "20:15",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 7",
+  "slug": "thon-phe-tinh-khong-tap-7",
+  "movieVideoID": 347,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f0fca41435d0b9ce974d"
+  },
+  "video": "https://short.ink/kfXjZZkUr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681453306/zlsrnikkwe5uumknaak4.jpg",
+  "time": "19:29",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 8",
+  "slug": "thon-phe-tinh-khong-tap-8",
+  "movieVideoID": 348,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f11da41435d0b9ce9753"
+  },
+  "video": "https://short.ink/6Fegt1nZz",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681453340/baiaj5s3e6cxp2cnjoqx.jpg",
+  "time": "20:34",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 9",
+  "slug": "thon-phe-tinh-khong-tap-9",
+  "movieVideoID": 349,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f140a41435d0b9ce9759"
+  },
+  "video": "https://short.ink/hC30lcOYq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681453374/gqee6pfhavzn1i9jrjdl.jpg",
+  "time": "21:12",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 10",
+  "slug": "thon-phe-tinh-khong-tap-10",
+  "movieVideoID": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6438f164a41435d0b9ce975f"
+  },
+  "video": "https://short.ink/t7UinqfVr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681453411/vojskykpbqngijrmuuop.jpg",
+  "time": "21:35",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 11",
+  "slug": "thon-phe-tinh-khong-tap-11",
+  "movieVideoID": 351,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643911dba41435d0b9ce976e"
+  },
+  "video": "https://short.ink/kZR5YiPEk",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461722/wexwxucmbjssfvipocnb.jpg",
+  "time": "21:38",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 12",
+  "slug": "thon-phe-tinh-khong-tap-12",
+  "movieVideoID": 352,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643911fda41435d0b9ce9774"
+  },
+  "video": "https://short.ink/W8_O5_VqN",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461756/fryzlknbjzqfufhfb6kf.jpg",
+  "time": "21:15",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 13",
+  "slug": "thon-phe-tinh-khong-tap-13",
+  "movieVideoID": 353,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439121ea41435d0b9ce977a"
+  },
+  "video": "https://short.ink/PAG2u9WAh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461789/jtt1qkypzefqthrkfqsc.jpg",
+  "time": "20:46",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 14",
+  "slug": "thon-phe-tinh-khong-tap-14",
+  "movieVideoID": 354,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439123aa41435d0b9ce9780"
+  },
+  "video": "https://short.ink/i-4bNmuoM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461817/jamkztjrz8mbrnq7sxdp.jpg",
+  "time": "21:19",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 15",
+  "slug": "thon-phe-tinh-khong-tap-15",
+  "movieVideoID": 355,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439125aa41435d0b9ce9786"
+  },
+  "video": "https://short.ink/sa5pb-KCf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461849/tui9ysmjnvazr52xvava.jpg",
+  "time": "21:02",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 16",
+  "slug": "thon-phe-tinh-khong-tap-16",
+  "movieVideoID": 356,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6439127ba41435d0b9ce978c"
+  },
+  "video": "https://short.ink/dVRvD5evY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461881/n6o2kmr1rflyvufxyblr.jpg",
+  "time": "20:51",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 17",
+  "slug": "thon-phe-tinh-khong-tap-17",
+  "movieVideoID": 357,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643912aea41435d0b9ce9792"
+  },
+  "video": "https://short.ink/EeTceO3pV",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681461933/avk7lyei3y9rd4mgg0wi.jpg",
+  "time": "21:42",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 18 ",
+  "slug": "thon-phe-tinh-khong-tap-18",
+  "movieVideoID": 358,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64396d66a41435d0b9ce97f0"
+  },
+  "video": "https://short.ink/LfetxDAzG",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681485156/k2vjouvaoilhibzjrwmb.jpg",
+  "time": "1:54:58",
+  "movieID": {
+    "$oid": "64396d2fa41435d0b9ce97e5"
+  },
+  "name": "Free Guy",
+  "slug": "free-guy",
+  "movieVideoID": 359,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2e7ba41435d0b9ce988d"
+  },
+  "video": "https://short.ink/qpgNqOGmn",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534586/hjsbfvgh76gv32geoj5l.jpg",
+  "time": "21:11",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 19",
+  "slug": "thon-phe-tinh-khong-tap-19",
+  "movieVideoID": 360,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2edba41435d0b9ce9893"
+  },
+  "video": "https://short.ink/sIL4IFnKq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534681/glkala07kozv9z2nozng.jpg",
+  "time": "19:58",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 20 ",
+  "slug": "thon-phe-tinh-khong-tap-20",
+  "movieVideoID": 361,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2efea41435d0b9ce9899"
+  },
+  "video": "https://short.ink/tkhmM9sHI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534717/xwdlrfl4ebfvhejvqpcy.jpg",
+  "time": "20:54",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 21",
+  "slug": "thon-phe-tinh-khong-tap-21",
+  "movieVideoID": 362,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2f1fa41435d0b9ce989f"
+  },
+  "video": "https://short.ink/hRaRL28fU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534750/ngowbt6z51c7edswulxy.jpg",
+  "time": "20:35",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 22",
+  "slug": "thon-phe-tinh-khong-tap-22",
+  "movieVideoID": 363,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2f53a41435d0b9ce98a5"
+  },
+  "video": "https://short.ink/YbcLKvxbV",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534801/xuvtkcs9hamjiolohc7n.jpg",
+  "time": "20:44",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 23 ",
+  "slug": "thon-phe-tinh-khong-tap-23",
+  "movieVideoID": 364,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2f76a41435d0b9ce98ab"
+  },
+  "video": "https://short.ink/oHbX22JkU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534836/cdeqrn52mecv0rxclwru.jpg",
+  "time": "20:31",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 24",
+  "slug": "thon-phe-tinh-khong-tap-24",
+  "movieVideoID": 365,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2f97a41435d0b9ce98b1"
+  },
+  "video": "https://short.ink/ES_gzTZlg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534869/muvqmsgm7m1kowda91wi.jpg",
+  "time": "20:47",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 25",
+  "slug": "thon-phe-tinh-khong-tap-25",
+  "movieVideoID": 366,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2fb9a41435d0b9ce98b7"
+  },
+  "video": "https://short.ink/kQenYHj1T",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534903/vyubh5lk8gpo6zuzovjp.jpg",
+  "time": "21:24",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 26",
+  "slug": "thon-phe-tinh-khong-tap-26",
+  "movieVideoID": 367,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a2feaa41435d0b9ce98bd"
+  },
+  "video": "https://short.ink/evAkXY0UZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681534953/aelgbkfk7cx7vfllkmck.jpg",
+  "time": "21:56",
+  "movieID": {
+    "$oid": "6438d80ca41435d0b9ce96c9"
+  },
+  "name": "Thôn Phệ Tinh Không Tập 27",
+  "slug": "thon-phe-tinh-khong-tap-27",
+  "movieVideoID": 368,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a302da41435d0b9ce98c9"
+  },
+  "video": "https://short.ink/47qXPTUDb",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681535020/u7tx6eankfutaq8n1ivi.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "643a2dc3a41435d0b9ce9885"
+  },
+  "name": "Mashle Tập 1",
+  "slug": "mashle-tap-1",
+  "movieVideoID": 369,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643a304ba41435d0b9ce98cf"
+  },
+  "video": "https://short.ink/S7_CAlkFOf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681535049/ozc2g4m7p47gf21pngoh.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "643a2dc3a41435d0b9ce9885"
+  },
+  "name": "Mashle Tập 2",
+  "slug": "mashle-tap-2",
+  "movieVideoID": 370,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ace88a41435d0b9ce9ada"
+  },
+  "video": "https://short.ink/OT3IF6Cis",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575559/fuzhiroutljsi5mbn5n4.jpg",
+  "time": "24:09",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 01",
+  "slug": "bleach-sennen-kessen-hen-ep-01",
+  "movieVideoID": 371,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acec8a41435d0b9ce9ae0"
+  },
+  "video": "https://short.ink/pVDC7aI9U",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575622/e3yigv7yitevp1av4oyx.jpg",
+  "time": "23:58",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 02",
+  "slug": "bleach-sennen-kessen-hen-ep-02",
+  "movieVideoID": 372,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acef5a41435d0b9ce9ae6"
+  },
+  "video": "https://short.ink/0J66AGNti",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575668/ykfzicoaimca7mqm35qx.jpg",
+  "time": "23:59",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 03",
+  "slug": "bleach-sennen-kessen-hen-ep-03",
+  "movieVideoID": 373,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acf19a41435d0b9ce9aec"
+  },
+  "video": "https://short.ink/L8b3YM2QO",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575702/nuhesuxesm4glgqcpads.jpg",
+  "time": "24:01",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 04",
+  "slug": "bleach-sennen-kessen-hen-ep-04",
+  "movieVideoID": 374,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acf3ea41435d0b9ce9af2"
+  },
+  "video": "https://short.ink/O-t1tImNZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575741/henpjuumgnbrbkefoddr.jpg",
+  "time": "23:58",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 05",
+  "slug": "bleach-sennen-kessen-hen-ep-05",
+  "movieVideoID": 375,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acf65a41435d0b9ce9af8"
+  },
+  "video": "https://short.ink/8MN1OKfrZ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575780/n0ttr3p1qrzadlicveid.jpg",
+  "time": "23:57",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 06",
+  "slug": "bleach-sennen-kessen-hen-ep-06",
+  "movieVideoID": 376,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643acfd1a41435d0b9ce9afe"
+  },
+  "video": "https://short.ink/xvApzCZ4N",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681575888/atfxvrma2yti3fyzhhqp.jpg",
+  "time": "23:58",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 07",
+  "slug": "bleach-sennen-kessen-hen-ep-07",
+  "movieVideoID": 377,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ad04fa41435d0b9ce9b04"
+  },
+  "video": "https://short.ink/uey2CRCTk",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681576012/jpu86f6pbnkqxdirrw2b.jpg",
+  "time": "23:59",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 08",
+  "slug": "bleach-sennen-kessen-hen-ep-08",
+  "movieVideoID": 378,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ad0a5a41435d0b9ce9b0a"
+  },
+  "video": "https://short.ink/1SpTUcZFlP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681576099/m97qhkxznysnpkyqilg6.jpg",
+  "time": "23:58",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 09",
+  "slug": "bleach-sennen-kessen-hen-ep-09",
+  "movieVideoID": 379,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ad0cfa41435d0b9ce9b10"
+  },
+  "video": "https://short.ink/JOgaXSn5V",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681576142/c8uxyikvyo8pcflu0fnu.jpg",
+  "time": "23:57",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 10",
+  "slug": "bleach-sennen-kessen-hen-ep-10",
+  "movieVideoID": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ad0efa41435d0b9ce9b16"
+  },
+  "video": "https://short.ink/NS4wSN-vP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681576173/mtgk6zs0wer9cihciiui.jpg",
+  "time": "23:59",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 11",
+  "slug": "bleach-sennen-kessen-hen-ep-11",
+  "movieVideoID": 381,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ad164a41435d0b9ce9b1c"
+  },
+  "video": "https://short.ink/f9zr7dgPF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681576291/xlxuobcv64slbhiu8iz0.jpg",
+  "time": "23:58",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 12",
+  "slug": "bleach-sennen-kessen-hen-ep-12",
+  "movieVideoID": 382,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ad1d3a41435d0b9ce9b22"
+  },
+  "video": "https://short.ink/hyNjZk7Euh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681576399/ag5z8lnp9n6ep8odmorl.jpg",
+  "time": "23:58",
+  "movieID": {
+    "$oid": "643ace4aa41435d0b9ce9acf"
+  },
+  "name": "Bleach- Sennen Kessen-hen- Ep 13_END",
+  "slug": "bleach-sennen-kessen-hen-ep-13_end",
+  "movieVideoID": 383,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643b85b2a41435d0b9ce9bad"
+  },
+  "video": "https://short.ink/X99mEoy7s",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681622449/sni8pxsckycef7l64x9g.jpg",
+  "time": "24:25",
+  "movieID": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "name": "Jigokuraku Tập 3 ",
+  "slug": "jigokuraku-tap-3",
+  "movieVideoID": 384,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643b85f7a41435d0b9ce9bb9"
+  },
+  "video": "https://short.ink/ceTB3ilwd",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681622518/qemm7cllysj3wq8puh4r.jpg",
+  "time": "21:57",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5 Tập 40",
+  "slug": "dau-pha-thuong-khung-phan-5-tap-40",
+  "movieVideoID": 385,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643b8631a41435d0b9ce9bc5"
+  },
+  "video": "https://short.ink/UtlcmvZZi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681622576/toamqee3lxxfj7vaziz3.jpg",
+  "time": "23:32",
+  "movieID": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "name": "Isekai Shoukan wa Nidome desu- Ep 02",
+  "slug": "isekai-shoukan-wa-nidome-desu-ep-02",
+  "movieVideoID": 386,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ca4a0a41435d0b9ce9d7f"
+  },
+  "video": "https://short.ink/sWXi3E7B8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681695902/gqt58axyvxi3gsbl9oat.jpg",
+  "time": "23:55",
+  "movieID": {
+    "$oid": "6436546da41435d0b9ce89c5"
+  },
+  "name": "Tập 02 Thanh Gươm Diệt Quỷ- Làng Thợ Rèn",
+  "slug": "tap-02-thanh-guom-diet-quy-lang-tho-ren",
+  "movieVideoID": 387,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cedb468e6d0d569fa48f9"
+  },
+  "video": "https://short.ink/8R-ybG4Y5",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681714611/pxvskngn4j8s1epvvaui.jpg",
+  "time": "55:03",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 19",
+  "slug": "truong-nguyet-tan-minh-2023-tap-19",
+  "movieVideoID": 388,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643ceeb668e6d0d569fa4919"
+  },
+  "video": "https://short.ink/f84iZB55W",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681714869/psxdoybjykitoun1no1v.jpg",
+  "time": "21:04",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 1",
+  "slug": "gravity-falls-season-1-episode-1",
+  "movieVideoID": 389,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643cef1e68e6d0d569fa491f"
+  },
+  "video": "https://short.ink/9knbVigYl",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681714973/t0gurs9drgnvwfg3pv70.jpg",
+  "time": "21:33",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 2",
+  "slug": "gravity-falls-season-1-episode-2",
+  "movieVideoID": 390,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d126d68e6d0d569fa493d"
+  },
+  "video": "https://short.ink/JrUJizI3f",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681724012/blgifnudhqu6qskzal82.jpg",
+  "time": "21:55",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 3- Headhunters",
+  "slug": "gravity-falls-season-1-episode-3-headhunters",
+  "movieVideoID": 391,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d12d168e6d0d569fa4943"
+  },
+  "video": "https://short.ink/CrCurw4gl",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681724112/kcantpfdidw2mpahztej.jpg",
+  "time": "22:19",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 4- The Hand That Rocks the Mabel",
+  "slug": "gravity-falls-season-1-episode-4-the-hand-that-rocks-the-mabel",
+  "movieVideoID": 392,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d14e668e6d0d569fa4959"
+  },
+  "video": "https://short.ink/HI3MFApgR",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681724645/admfpgsehwzx0ok2hwk3.jpg",
+  "time": "20:28",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 5- The Inconveniencing",
+  "slug": "gravity-falls-season-1-episode-5-the-inconveniencing",
+  "movieVideoID": 393,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d15ac68e6d0d569fa4963"
+  },
+  "video": "https://short.ink/1r09yNCFi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681724843/oe2ednfwtv1iy3dbnhgz.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 6- Dipper vs. Manliness",
+  "slug": "gravity-falls-season-1-episode-6-dipper-vs-manliness",
+  "movieVideoID": 394,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643d15e168e6d0d569fa4969"
+  },
+  "video": "https://short.ink/-Z5Ph7sBgm",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681724895/gf3uizqvxpcpqvhdqj9g.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 7- Double Dipper ",
+  "slug": "gravity-falls-season-1-episode-7-double-dipper",
+  "movieVideoID": 395,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643def1b68e6d0d569fa49f3"
+  },
+  "video": "https://short.ink/7J3tpKubh",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681780506/eyhd47m9lfeozthutnmr.jpg",
+  "time": "21:38",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 8- Irrational Treasure",
+  "slug": "gravity-falls-season-1-episode-8-irrational-treasure",
+  "movieVideoID": 396,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643def6668e6d0d569fa49f9"
+  },
+  "video": "https://short.ink/NdZc9tmX7",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681780582/udqsirchsv0ck06pf9j5.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 9- The Time Traveler's Pig",
+  "slug": "gravity-falls-season-1-episode-9-the-time-traveler-s-pig",
+  "movieVideoID": 397,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643defae68e6d0d569fa49ff"
+  },
+  "video": "https://short.ink/0Obuadugx",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681780653/qvoylb7256waeosb2f1b.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 10- Fight Fighters",
+  "slug": "gravity-falls-season-1-episode-10-fight-fighters",
+  "movieVideoID": 398,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643df45168e6d0d569fa4a15"
+  },
+  "video": "https://short.ink/3C0C6tBei",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681781840/bdsdpepkm03aapttgcdu.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 11- Little Dipper ",
+  "slug": "gravity-falls-season-1-episode-11-little-dipper",
+  "movieVideoID": 399,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643df48a68e6d0d569fa4a1b"
+  },
+  "video": "https://short.ink/DMF26GXgF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681781896/ymfd3wbjm9l3tefccvuo.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 12- Summerween",
+  "slug": "gravity-falls-season-1-episode-12-summerween",
+  "movieVideoID": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643df4ef68e6d0d569fa4a21"
+  },
+  "video": "https://short.ink/y99YRL5uP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681781998/ov1qly3hvnk3rwlzvt40.jpg",
+  "time": "21:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 13- Boss Mabel",
+  "slug": "gravity-falls-season-1-episode-13-boss-mabel",
+  "movieVideoID": 401,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643df51a68e6d0d569fa4a27"
+  },
+  "video": "https://short.ink/4Innn1Xam",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681782041/e0m6wcrkxucfxql10twi.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 14- Bottomless Pit!",
+  "slug": "gravity-falls-season-1-episode-14-bottomless-pit",
+  "movieVideoID": 402,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643df56368e6d0d569fa4a33"
+  },
+  "video": "https://short.ink/v3RiKIds-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681782114/bbus3ffq97029mhly3h6.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64324ce471dc93f77ce85154"
+  },
+  "name": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru- Level Up wa Jinsei wo Kaeta- Ep 03",
+  "slug": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ep-03",
+  "movieVideoID": 403,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643df59668e6d0d569fa4a3c"
+  },
+  "video": "https://short.ink/kC9BHaQO8",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681782164/bshcn6ddz4pocsvnpffk.jpg",
+  "time": "25:55",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Tập 15 Vinland Saga Season 2 (Vinland Saga SS2)",
+  "slug": "tap-15-vinland-saga-season-2-vinland-saga-ss2",
+  "movieVideoID": 404,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643eb71868e6d0d569fa4ac7"
+  },
+  "video": "https://short.ink/F1iNzecEF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681831702/ncypva4wvjvyeemvvrno.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "6434e31519dfa8332c331cd5"
+  },
+  "name": "Tập 02 Dead Mount Death",
+  "slug": "tap-02-dead-mount-death",
+  "movieVideoID": 405,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f852d68e6d0d569fa4b81"
+  },
+  "video": "https://short.ink/prpFYYlY5",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681884460/qo2ftbul2xwnp7iowahq.jpg",
+  "time": "23:52",
+  "movieID": {
+    "$oid": "643f84f568e6d0d569fa4b76"
+  },
+  "name": "Tập 01 Tengoku Daimakyou",
+  "slug": "tap-01-tengoku-daimakyou",
+  "movieVideoID": 406,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f857568e6d0d569fa4b87"
+  },
+  "video": "https://short.ink/iMfKTMrj-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681884532/fenwoppcxdacejhb3s8r.jpg",
+  "time": "23:41",
+  "movieID": {
+    "$oid": "643f84f568e6d0d569fa4b76"
+  },
+  "name": "Tập 02 Tengoku Daimakyou ",
+  "slug": "tap-02-tengoku-daimakyou",
+  "movieVideoID": 407,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f85c668e6d0d569fa4b8d"
+  },
+  "video": "https://short.ink/H6KBMIpRg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681884613/z8hvnsnz9ihljvledwvv.jpg",
+  "time": "23:42",
+  "movieID": {
+    "$oid": "643f84f568e6d0d569fa4b76"
+  },
+  "name": "Tập 03 Tengoku Daimakyou",
+  "slug": "tap-03-tengoku-daimakyou",
+  "movieVideoID": 408,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f91ee68e6d0d569fa4bb9"
+  },
+  "video": "https://short.ink/WpjBoHFMU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681887724/kxot6yceogaq0wepljeg.jpg",
+  "time": "56:13",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 20",
+  "slug": "truong-nguyet-tan-minh-2023-tap-20",
+  "movieVideoID": 409,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f921268e6d0d569fa4bbf"
+  },
+  "video": "https://short.ink/Df-NwuKxg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681887760/pqpffrjrjbhewwvauq8o.jpg",
+  "time": "53:31",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 21",
+  "slug": "truong-nguyet-tan-minh-2023-tap-21",
+  "movieVideoID": 410,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f923b68e6d0d569fa4bc5"
+  },
+  "video": "https://short.ink/xAZUrsyNM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681887802/bh5o2xemk4zlead0trcw.jpg",
+  "time": "57:20",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 22",
+  "slug": "truong-nguyet-tan-minh-2023-tap-22",
+  "movieVideoID": 411,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f931668e6d0d569fa4c02"
+  },
+  "video": "https://short.ink/pwSVwr2LU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888021/lsbx25ljznryqoge6izf.jpg",
+  "time": "23:59",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 1 ",
+  "slug": "rick-va-morty-phan-3-tap-1",
+  "movieVideoID": 412,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f932d68e6d0d569fa4c08"
+  },
+  "video": "https://short.ink/Xb1udgCyj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888044/jnwk0ngxeapciwohftky.jpg",
+  "time": "23:13",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 2",
+  "slug": "rick-va-morty-phan-3-tap-2",
+  "movieVideoID": 413,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f934d68e6d0d569fa4c0e"
+  },
+  "video": "https://short.ink/wxgoHn2IY",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888076/cevijs0qbw5t49idjpr8.jpg",
+  "time": "24:01",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 3",
+  "slug": "rick-va-morty-phan-3-tap-3",
+  "movieVideoID": 414,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f936968e6d0d569fa4c14"
+  },
+  "video": "https://short.ink/MCjqwf8iy",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888105/a98zljtn9js3ac6h7jzo.jpg",
+  "time": "23:38",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 4",
+  "slug": "rick-va-morty-phan-3-tap-4",
+  "movieVideoID": 415,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f938268e6d0d569fa4c1a"
+  },
+  "video": "https://short.ink/S79cGNeI0",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888129/qdhg1gsxjtdmq8fdf3gf.jpg",
+  "time": "23:00",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 5",
+  "slug": "rick-va-morty-phan-3-tap-5",
+  "movieVideoID": 416,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f939d68e6d0d569fa4c20"
+  },
+  "video": "https://short.ink/33sROuF9t",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888156/gutky9gjybgtklefui1y.jpg",
+  "time": "23:15",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 6",
+  "slug": "rick-va-morty-phan-3-tap-6",
+  "movieVideoID": 417,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f93b768e6d0d569fa4c26"
+  },
+  "video": "https://short.ink/tgDkiMKo3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888182/yb7zhnyeqm6yftlqb5tl.jpg",
+  "time": "22:48",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 7",
+  "slug": "rick-va-morty-phan-3-tap-7",
+  "movieVideoID": 418,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f93d868e6d0d569fa4c2c"
+  },
+  "video": "https://short.ink/jGeWhAlyC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888214/lutbcuku5tas1fw4r01t.jpg",
+  "time": "22:40",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 8",
+  "slug": "rick-va-morty-phan-3-tap-8",
+  "movieVideoID": 419,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f93ee68e6d0d569fa4c32"
+  },
+  "video": "https://short.ink/C6LXuiHI_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888237/jqv5xmkamavbge9pjcuv.jpg",
+  "time": "22:55",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 9",
+  "slug": "rick-va-morty-phan-3-tap-9",
+  "movieVideoID": 420,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f940b68e6d0d569fa4c38"
+  },
+  "video": "https://short.ink/_KiwGjJGC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681888265/uiffozj5wk8ro1qy7r0y.jpg",
+  "time": "23:23",
+  "movieID": {
+    "$oid": "643f92d368e6d0d569fa4beb"
+  },
+  "name": "Rick và Morty (Phần 3) tập 10",
+  "slug": "rick-va-morty-phan-3-tap-10",
+  "movieVideoID": 421,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "643f978b68e6d0d569fa4cb8"
+  },
+  "video": "https://short.ink/WZcfWNQYr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681889162/uvuuayvjz9lromympwf5.jpg",
+  "time": "21:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": " Gravity Falls Season 1 Episode 16",
+  "slug": "gravity-falls-season-1-episode-16",
+  "movieVideoID": 422,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6441455668e6d0d569fa4e1b"
+  },
+  "video": "https://short.ink/WZcfWNQYr",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681999179/tzvxeamlfyvpdjffnuf2.jpg",
+  "time": "21:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 16",
+  "slug": "gravity-falls-season-1-episode-16",
+  "movieVideoID": 423,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644145b668e6d0d569fa4e24"
+  },
+  "video": "https://short.ink/8Ou5bMM3_",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1681999284/z4aft9osfll5px3juedc.jpg",
+  "time": "21:34",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 17",
+  "slug": "gravity-falls-season-1-episode-17",
+  "movieVideoID": 424,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6441584568e6d0d569fa4e45"
+  },
+  "video": "https://short.ink/bVsVgiTKc",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682004034/bozfhjbn9puoz2s0gsuo.jpg",
+  "time": "53:42",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 23 ",
+  "slug": "truong-nguyet-tan-minh-2023-tap-23",
+  "movieVideoID": 425,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6441fa8d68e6d0d569fa4e63"
+  },
+  "video": "https://short.ink/62mveg7uA",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682045579/w1gooagbxifkm5oel2cc.jpg",
+  "time": "51:05",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 24",
+  "slug": "truong-nguyet-tan-minh-2023-tap-24",
+  "movieVideoID": 426,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6441fb5868e6d0d569fa4e72"
+  },
+  "video": "https://short.ink/pY35NY2DPf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682045783/ipwsrozsyubn1lfwfw8z.jpg",
+  "time": "22:12",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": " Gravity Falls Season 1 Episode 18- Land Before",
+  "slug": "gravity-falls-season-1-episode-18-land-before",
+  "movieVideoID": 427,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6442199668e6d0d569fa4e8d"
+  },
+  "video": "https://short.ink/YDFKZGhQv",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682053524/ljgncb2guqhvniaxu4yb.jpg",
+  "time": "22:49",
+  "movieID": {
+    "$oid": "6438d1c3a41435d0b9ce966c"
+  },
+  "name": "Tập 02 Bảng Xếp Hạng Quốc Vương Mùa 2",
+  "slug": "tap-02-bang-xep-hang-quoc-vuong-mua-2",
+  "movieVideoID": 428,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644219c368e6d0d569fa4e96"
+  },
+  "video": "https://short.ink/AWZUWuirI",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682053570/wxqncp1h7ftfjfcxjtbk.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64338d9bf2a747d0ea14a152"
+  },
+  "name": "Tập 03 Dr. Stone 3rd Season",
+  "slug": "tap-03-dr-stone-3rd-season",
+  "movieVideoID": 429,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644389ad68e6d0d569fa4f42"
+  },
+  "video": "https://short.ink/oH-ROo0bj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682147756/tp6uurzxidifjmq8g1ym.jpg",
+  "time": "23:14",
+  "movieID": {
+    "$oid": "643a2dc3a41435d0b9ce9885"
+  },
+  "name": "Tập 03 Mashle ",
+  "slug": "tap-03-mashle",
+  "movieVideoID": 430,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64440e1868e6d0d569fa504e"
+  },
+  "video": "https://short.ink/v43lYBaTU",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682181653/zwcf9c5tmgpt3ht57gjf.jpg",
+  "time": "24:25",
+  "movieID": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "name": "Tập 04 Jigokuraku",
+  "slug": "tap-04-jigokuraku",
+  "movieVideoID": 431,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64440e6568e6d0d569fa5057"
+  },
+  "video": "https://short.ink/-6sxwibAj",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682181732/xit9c0h9a0fsh5gzjuyq.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "643f84f568e6d0d569fa4b76"
+  },
+  "name": "Tập 04 Tengoku Daimakyou",
+  "slug": "tap-04-tengoku-daimakyou",
+  "movieVideoID": 432,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6444bd5e68e6d0d569fa50e2"
+  },
+  "video": "https://short.ink/BqxqEf9Kz",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682226524/izcbakuhszmenddjup5k.jpg",
+  "time": "21:46",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5 Tập 41",
+  "slug": "dau-pha-thuong-khung-phan-5-tap-41",
+  "movieVideoID": 433,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6445657168e6d0d569fa514a"
+  },
+  "video": "https://short.ink/hDm9r6DME",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682269551/apxzwlzhyncrxsxlaziq.jpg",
+  "time": "23:57",
+  "movieID": {
+    "$oid": "6436546da41435d0b9ce89c5"
+  },
+  "name": "Tập 03 Thanh Gươm Diệt Quỷ- Làng Thợ Rèn",
+  "slug": "tap-03-thanh-guom-diet-quy-lang-tho-ren",
+  "movieVideoID": 434,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64460f1268e6d0d569fa52eb"
+  },
+  "video": "https://short.ink/RsWkIIGxF",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682312976/hvc7fachtzhpx0tjgyvk.jpg",
+  "time": "24:04",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 20- Gideon Rises",
+  "slug": "gravity-falls-season-1-episode-20-gideon-rises",
+  "movieVideoID": 436,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64460f6f68e6d0d569fa52f1"
+  },
+  "video": "https://short.ink/WPQrzcuehq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682313070/h1ztkberqok1r1g0tbrb.jpg",
+  "time": "23:19",
+  "movieID": {
+    "$oid": "643cee4368e6d0d569fa490e"
+  },
+  "name": "Gravity Falls Season 1 Episode 19- Dreamscaperers",
+  "slug": "gravity-falls-season-1-episode-19-dreamscaperers",
+  "movieVideoID": 437,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447622968e6d0d569fa5454"
+  },
+  "video": "https://short.ink/AVyY2M8xv",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682399782/uttdwvnmcep2ghfms2ne.jpg",
+  "time": "23:40",
+  "movieID": {
+    "$oid": "6434e31519dfa8332c331cd5"
+  },
+  "name": "Tập 03 Dead Mount Death",
+  "slug": "tap-03-dead-mount-death",
+  "movieVideoID": 438,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447826368e6d0d569fa5486"
+  },
+  "video": "https://short.ink/A7t5o4MPo",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682408032/rcvelgxvx7rnfwqddss7.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64324ce471dc93f77ce85154"
+  },
+  "name": "Tập 04 Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru- Level Up",
+  "slug": "tap-04-isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up",
+  "movieVideoID": 439,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447c4df68e6d0d569fa550c"
+  },
+  "video": "https://short.ink/njwAcNGdw",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682425053/z5ikmgtaxez4yeqoldsd.jpg",
+  "time": "23:32",
+  "movieID": {
+    "$oid": "64324bf471dc93f77ce85143"
+  },
+  "name": "Isekai Shoukan wa Nidome desu- Ep 03",
+  "slug": "isekai-shoukan-wa-nidome-desu-ep-03",
+  "movieVideoID": 440,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447d64b68e6d0d569fa5515"
+  },
+  "video": "https://short.ink/uDvragZSi",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682429512/vhbsv6pcet1hbdq67z4z.jpg",
+  "time": "51:26",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 25",
+  "slug": "truong-nguyet-tan-minh-2023-tap-25",
+  "movieVideoID": 441,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447d67468e6d0d569fa551b"
+  },
+  "video": "https://short.ink/xnl922KdW",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682429555/ar8dvgkdaxvqwa6qyvvx.jpg",
+  "time": "52:29",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 26",
+  "slug": "truong-nguyet-tan-minh-2023-tap-26",
+  "movieVideoID": 442,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447d6a668e6d0d569fa5521"
+  },
+  "video": "https://short.ink/ja8E3C4Mq",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682429604/xs8v4cerytizpygmgu75.jpg",
+  "time": "51:00",
+  "movieID": {
+    "$oid": "6431247eb6c4ab2edcc2d472"
+  },
+  "name": "Trường Nguyệt Tẫn Minh 2023 Tập 27",
+  "slug": "truong-nguyet-tan-minh-2023-tap-27",
+  "movieVideoID": 443,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6447d6d968e6d0d569fa552a"
+  },
+  "video": "https://short.ink/o2DEPr9-i",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682429655/jcnq2r3pxm9ebjtnxavx.jpg",
+  "time": "25:55",
+  "movieID": {
+    "$oid": "64290e17ad62e8a905338e11"
+  },
+  "name": "Tập 16 Vinland Saga Season 2",
+  "slug": "tap-16-vinland-saga-season-2",
+  "movieVideoID": 444,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448819f68e6d0d569fa55a7"
+  },
+  "video": "https://short.ink/1XxkRb_ZQ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682473374/ilxjusre1k3tqres8yiz.jpg",
+  "time": "22:34",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 1 Scary-oke",
+  "slug": "gravity-falls-season-2-episode-1-scary-oke",
+  "movieVideoID": 445,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644881c168e6d0d569fa55ad"
+  },
+  "video": "https://short.ink/OWQ8FFa5i",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682473408/uhqvvjlb0re4tlwpmnkl.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 2 Into the Bunker",
+  "slug": "gravity-falls-season-2-episode-2-into-the-bunker",
+  "movieVideoID": 446,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644881e868e6d0d569fa55b3"
+  },
+  "video": "https://short.ink/SQj_RCx9F",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682473446/pkngeby91keaqtejbgzr.jpg",
+  "time": "22:19",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 3 The Golf War",
+  "slug": "gravity-falls-season-2-episode-3-the-golf-war",
+  "movieVideoID": 447,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644895e868e6d0d569fa55c9"
+  },
+  "video": "https://short.ink/GSq2i3p0n",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478567/gxacrwqpemn88ph8cf6u.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 4 Sock Opera",
+  "slug": "gravity-falls-season-2-episode-4-sock-opera",
+  "movieVideoID": 448,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448961268e6d0d569fa55cf"
+  },
+  "video": "https://short.ink/F6DAX3pzC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478608/i4ljtyjcod00z6rt7wzk.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 5 Soos and the Real Girl",
+  "slug": "gravity-falls-season-2-episode-5-soos-and-the-real-girl",
+  "movieVideoID": 449,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448963368e6d0d569fa55d5"
+  },
+  "video": "https://short.ink/Ri60p3XAQ",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478642/nofbcssxaw7notehgiak.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": " Gravity Falls - Season 2 - Episode 6 Little Gift Shop of Horrors",
+  "slug": "gravity-falls-season-2-episode-6-little-gift-shop-of-horrors",
+  "movieVideoID": 450,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448965568e6d0d569fa55db"
+  },
+  "video": "https://short.ink/CVMO43zhP",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478675/sjpjir2bgdfpkrhcnmkw.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": " Gravity Falls - Season 2 - Episode 7 Society of the Blind Eye",
+  "slug": "gravity-falls-season-2-episode-7-society-of-the-blind-eye",
+  "movieVideoID": 451,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448967168e6d0d569fa55e1"
+  },
+  "video": "https://short.ink/h4TVmd8cN",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478704/knglloskor8zoriltwpf.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 8 Blendin's Game",
+  "slug": "gravity-falls-season-2-episode-8-blendin-s-game",
+  "movieVideoID": 452,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644896a668e6d0d569fa55e7"
+  },
+  "video": "https://short.ink/EnB0_TA4-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478756/cctlz2gzezk5hj0jpueu.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 9 The Love God",
+  "slug": "gravity-falls-season-2-episode-9-the-love-god",
+  "movieVideoID": 453,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644896c768e6d0d569fa55ed"
+  },
+  "video": "https://short.ink/EeQJV6hI3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478790/yc3kpk78tkj2lt0pqivr.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 10 Northwest Mansion Noir",
+  "slug": "gravity-falls-season-2-episode-10-northwest-mansion-noir",
+  "movieVideoID": 454,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644896e668e6d0d569fa55f3"
+  },
+  "video": "https://short.ink/pM3lGRfli",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478821/od3qqydprxuwhpix5xsg.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 11 Not What He Seems",
+  "slug": "gravity-falls-season-2-episode-11-not-what-he-seems",
+  "movieVideoID": 455,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448970668e6d0d569fa55f9"
+  },
+  "video": "https://short.ink/HyNB6IKqM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478853/gr3jd8elbktmz6c0wrmb.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 12 A Tale of Two Stans",
+  "slug": "gravity-falls-season-2-episode-12-a-tale-of-two-stans",
+  "movieVideoID": 456,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448975868e6d0d569fa55ff"
+  },
+  "video": "https://short.ink/M5r8_Sjt3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478934/hnsdtnxgclgt5ut5u0sv.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 13 Dungeons",
+  "slug": "gravity-falls-season-2-episode-13-dungeons",
+  "movieVideoID": 457,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448977e68e6d0d569fa5605"
+  },
+  "video": "https://short.ink/1wJnQjNBk",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682478973/mlbn2gemmcdbgt4nh86z.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 14 The Stanchurian Candidate",
+  "slug": "gravity-falls-season-2-episode-14-the-stanchurian-candidate",
+  "movieVideoID": 458,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448979968e6d0d569fa560b"
+  },
+  "video": "https://short.ink/34_hPkfR3",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682479000/axqfsois7s1soxpxvfps.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 15 The Last Mabelcorn",
+  "slug": "gravity-falls-season-2-episode-15-the-last-mabelcorn",
+  "movieVideoID": 459,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644897b868e6d0d569fa5611"
+  },
+  "video": "https://short.ink/rdcCfyDK-",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682479031/jmdr2rrtfzgpio6ctfpl.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 16 Roadside Attraction",
+  "slug": "gravity-falls-season-2-episode-16-roadside-attraction",
+  "movieVideoID": 460,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644897d468e6d0d569fa5617"
+  },
+  "video": "https://short.ink/9Nl_htwk2",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682479059/trgh4sg2qztuazgjgzdr.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 17 Dipper and Mabel vs. the Future",
+  "slug": "gravity-falls-season-2-episode-17-dipper-and-mabel-vs-the-future",
+  "movieVideoID": 461,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644897ee68e6d0d569fa561d"
+  },
+  "video": "https://short.ink/Dc3PLUGaC",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682479085/wijqsefuitkmnfyeqmcm.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 18 Weirdmageddon Part I",
+  "slug": "gravity-falls-season-2-episode-18-weirdmageddon-part-i",
+  "movieVideoID": 462,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448983868e6d0d569fa5623"
+  },
+  "video": "https://short.ink/41kl5d4lx",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682479159/qzduarwm3neigx43a9nw.jpg",
+  "time": "22:04",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 19 Weirdmageddon 2 Escape from Reality",
+  "slug": "gravity-falls-season-2-episode-19-weirdmageddon-2-escape-from-reality",
+  "movieVideoID": 463,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6448985768e6d0d569fa5629"
+  },
+  "video": "https://short.ink/IU6N0q_KD",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682479190/njmkiwiw3wqkt2dovxbf.jpg",
+  "time": "43:58",
+  "movieID": {
+    "$oid": "6448815868e6d0d569fa5593"
+  },
+  "name": "Gravity Falls - Season 2 - Episode 20 Weirdmageddon 3 Take Back the Falls",
+  "slug": "gravity-falls-season-2-episode-20-weirdmageddon-3-take-back-the-falls",
+  "movieVideoID": 464,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449f44668e6d0d569fa5716"
+  },
+  "video": "https://short.ink/7w8Qjg_6J",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682568260/oqnwjtroyiwpp7hx3wmq.jpg",
+  "time": "23:35",
+  "movieID": {
+    "$oid": "6438d4b5a41435d0b9ce96ae"
+  },
+  "name": "Tập 03 Là Thần Trong Thế Giới Vô Thần",
+  "slug": "tap-03-la-than-trong-the-gioi-vo-than",
+  "movieVideoID": 465,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6449f46768e6d0d569fa571c"
+  },
+  "video": "https://short.ink/BEEA-i-F6",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682568293/ogpoahq7sqexbhlhjayu.jpg",
+  "time": "23:35",
+  "movieID": {
+    "$oid": "6438d4b5a41435d0b9ce96ae"
+  },
+  "name": "Tập 04 Là Thần Trong Thế Giới Vô Thần",
+  "slug": "tap-04-la-than-trong-the-gioi-vo-than",
+  "movieVideoID": 466,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b610868e6d0d569fa57a6"
+  },
+  "video": "https://short.ink/5_IP4dlNf",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682661638/gclpdph32l91ohwu2gqz.jpg",
+  "time": "22:49",
+  "movieID": {
+    "$oid": "6438d1c3a41435d0b9ce966c"
+  },
+  "name": "Tập 03 Bảng Xếp Hạng Quốc Vương Mùa 2",
+  "slug": "tap-03-bang-xep-hang-quoc-vuong-mua-2",
+  "movieVideoID": 467,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644b613968e6d0d569fa57af"
+  },
+  "video": "https://short.ink/gGqANHLgg",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682661688/mqiw0q4zdljoiyak6cg7.jpg",
+  "time": "24:00",
+  "movieID": {
+    "$oid": "64338d9bf2a747d0ea14a152"
+  },
+  "name": "Tập 04 Dr. Stone 3rd Season",
+  "slug": "tap-04-dr-stone-3rd-season",
+  "movieVideoID": 468,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e23b068e6d0d569fa5845"
+  },
+  "video": "https://short.ink/VLW3lWj_i",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682842543/h8zmfgdycjhtvpkz6oxh.jpg",
+  "time": "21:32",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Tập 42 Đấu Phá Thương Khung Phần 5",
+  "slug": "tap-42-dau-pha-thuong-khung-phan-5",
+  "movieVideoID": 469,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e257368e6d0d569fa584e"
+  },
+  "video": "https://short.ink/iurXvteeW",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682842993/ysyn6ucx1dkkhambk0hi.jpg",
+  "time": "24:24",
+  "movieID": {
+    "$oid": "643391eef2a747d0ea14a1c2"
+  },
+  "name": "Tập 05 Jigokuraku - Địa Ngục Cực Lạc",
+  "slug": "tap-05-jigokuraku-dia-nguc-cuc-lac",
+  "movieVideoID": 470,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644e25a168e6d0d569fa5857"
+  },
+  "video": "https://short.ink/z0A32X7R9",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1682843040/wwtywm8puppmslvb6ajd.jpg",
+  "time": "23:41",
+  "movieID": {
+    "$oid": "643f84f568e6d0d569fa4b76"
+  },
+  "name": "Tập 05 Tengoku Daimakyou",
+  "slug": "tap-05-tengoku-daimakyou",
+  "movieVideoID": 471,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645a6da568e6d0d569fa5bb1"
+  },
+  "video": "https://short.ink/VLW3lWj_i",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1683692883/s19jr13gzpvxrjrr3plf.jpg",
+  "time": "21:32",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Tập 42 Đấu Phá Thương Khung Phần 5",
+  "slug": "tap-42-dau-pha-thuong-khung-phan-5",
+  "movieVideoID": 472,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645a72b568e6d0d569fa5bb7"
+  },
+  "video": "https://short.ink/BjIk6iCDM",
+  "image": "http://res.cloudinary.com/db7xtr0t6/image/upload/v1683694080/cr1xtdskg9namiii8rx6.jpg",
+  "time": "21:24",
+  "movieID": {
+    "$oid": "6432d6e113155bc0c87c93dd"
+  },
+  "name": "Đấu Phá Thương Khung Phần 5 Tập 43",
+  "slug": "dau-pha-thuong-khung-phan-5-tap-43",
+  "movieVideoID": 473,
+  "__v": 0
+}]

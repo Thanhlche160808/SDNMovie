@@ -6,10 +6,7 @@ const movieSeasonController = {
         try {
             const { name, content, totalChap, image, datePub, typeMovie, view } = req.body;
             const newMovieSeason = await movieSeasonRepository.addMovieSeasonService(name, content, totalChap, image, datePub, typeMovie, view);
-            return res.status(200).json({
-                message: "Add movie successfully",
-                data: newMovieSeason
-            });
+            return res.status(200).json(newMovieSeason);
         } catch (error) {
             return res.status(500).json(error);
         }
@@ -35,11 +32,8 @@ const movieSeasonController = {
     viewMovie: async (req, resp) => {
         try {
             const { slug } = req.body;
-            const movie = await movieSeasonRepository.viewMovie(slug);
-            return resp.status(200).json({
-                message: "View movie successfully",
-                data: movie
-            });
+            await movieSeasonRepository.viewMovie(slug);
+            return resp.status(200).json("Success");
         } catch (error) {
             return resp.status(500).json(error);
         }
@@ -59,10 +53,7 @@ const movieSeasonController = {
         try {
             const { name, limit } = req.query;
             const movies = await movieSeasonRepository.getMovieByName(name, limit);
-            return resp.status(200).json({
-                message: "Get movie by name successfully",
-                data: movies
-            });
+            return resp.status(200).json(movies);
         } catch (error) {
             return resp.status(500).json(error);
         }
@@ -77,14 +68,14 @@ const movieSeasonController = {
             return resp.status(500).json(error);
         }
     },
-    getHotAndView: async (req, resp) => {
+    getHotAndView: async (req, res) => {
         try {
-            const hotMovie = await movieSeasonRepository.getHotMovie();
+            const hot = await movieSeasonRepository.getHotMovie();
 
             const mostView = await movieSeasonRepository.getMovieMostView();
-            return resp.status(200).json({ hotMovie, mostView });
+            return res.status(200).json({ hot, mostView });
         } catch (error) {
-            return resp.status(500).json(error);
+            return res.status(500).json(error);
         }
     },
     getFillterMovie: async (req, resp) => {
@@ -92,10 +83,7 @@ const movieSeasonController = {
             const { type, view } = req.query;
             const page = req.query.page - 1;
             const movies = await movieSeasonRepository.getFillterMovie(type, view, page);
-            return resp.status(200).json({
-                message: "Get fillter movie successfully",
-                data: movies
-            });
+            return resp.status(200).json(movies);
         } catch (error) {
             return resp.status(500).json(error);
         }
