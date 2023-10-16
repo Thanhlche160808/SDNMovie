@@ -68,6 +68,16 @@ const commentController = {
                 message: "Can not update a comment!",
             });
         }
+    },
+    reportComment: async (req, res) => {
+        try {
+            const result = await commentsRepository.reportComment(req)
+            return res.status(200).json(result);
+        } catch (error) {
+            return res.status(500).json({
+                message: "Can not update a comment!",
+            });
+        }
     }
 }
 
