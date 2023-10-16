@@ -9,12 +9,9 @@ const commentsReplyRepository = {
             throw new Error("Lack of commentId information");
         }
         const comment = await ReplyComment.findById(_id);
-
         if (!comment) {
             throw new Error("Cannot find comment with the provided Id");
         }
-
-        // Update content and updatedAt
         comment.content = content;
         comment.updatedAt = new Date();
 

@@ -4,6 +4,6 @@ import express from "express";
 
 const commentReplyRouter = express.Router();
 
-commentReplyRouter.patch("/update-reply-comment", commentReplyController.updateComment);
+commentReplyRouter.patch("/update_reply_comment", commentReplyController.updateComment);
 
 export default commentReplyRouter;
