@@ -6,6 +6,7 @@ import rateController from "./rate.controller.js";
 import typeController from "./type.controller.js";
 import addvertisementController from "./advertisement.contronller.js";
 import watchingHistoryController from "./watchingHistory.controller.js";
+import commentReplyController from "./commentsReplies.controller.js";
 export {
     commentsController,
     userController,
@@ -14,5 +15,6 @@ export {
     rateController,
     typeController,
     addvertisementController,
-    watchingHistoryController
+    watchingHistoryController,
+    commentReplyController
 }

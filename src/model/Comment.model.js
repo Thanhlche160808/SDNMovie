@@ -11,13 +11,10 @@ const CommentsSchema = new mongoose.Schema({
     movie: {
         type: mongoose.Schema.Types.ObjectId,
     },
-    replyComments: [
-        {
-            author: String,
-            content: String,
-            dateRep: String,
-        },
-    ],
+    replyCommentsId: [{
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "CommentsReply",
+    },],
     date: String,
     like: [
         {
@@ -37,7 +34,11 @@ const CommentsSchema = new mongoose.Schema({
         type: Boolean,
         default: false,
     },
-});
+    updatedAt: {
+        type: Date
+    }
+
+}, { timestamps: true });
 
 let Comments = mongoose.model("Comments", CommentsSchema);
 

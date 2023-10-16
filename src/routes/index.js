@@ -7,6 +7,7 @@ import rateRouter from "./rate.route.js";
 import typeRouter from "./type.route.js";
 import addvertisementRouter from "./advertisement.route.js";
 import watchingHistoryRouter from "./watchingHistory.route.js";
+import commentReplyRouter from "./commentsReplies.route.js";
 export {
     userRouter,
     commentRouter,
@@ -16,5 +17,6 @@ export {
     rateRouter,
     typeRouter,
     addvertisementRouter,
-    watchingHistoryRouter
+    watchingHistoryRouter,
+    commentReplyRouter
 }

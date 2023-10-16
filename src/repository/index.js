@@ -6,6 +6,7 @@ import rateRepository from "./rate.repository.js";
 import typeMovieRepository from "./typeMovie.repository.js";
 import addvertisementRepository from "./advertisement.repository.js";
 import watchingHistoryRepository from "./watchingHistory.repository.js";
+import commentsReplyRepository from "./commentsReplies.repository.js";
 export {
     commentsRepository,
     userRepository,
@@ -14,5 +15,6 @@ export {
     rateRepository,
     typeMovieRepository,
     addvertisementRepository,
-    watchingHistoryRepository
+    watchingHistoryRepository,
+    commentsReplyRepository
 }
