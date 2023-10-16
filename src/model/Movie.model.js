@@ -17,6 +17,9 @@ const MovieSchema = new mongoose.Schema(
             type: Number,
             default: 0,
         },
+        vip: {
+            type: Boolean,
+        }
     },
     {
         _id: false,

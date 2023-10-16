@@ -28,7 +28,9 @@ const userRepository = {
             iss: 'from server',
             username: user.username,
             id: user.userID,
+            roleName: user.roleName,
         };
+        console.log(payload);
         const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
             expiresIn: "15m",
         });

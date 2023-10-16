@@ -19,7 +19,7 @@ const WatchingHistorySchema = new mongoose.Schema({
                         movieVideoID: Number,
                         slug: {
                             type: String,
-                            slug: "name",
+                            // slug: "name",
                         },
                     },
                 ],
