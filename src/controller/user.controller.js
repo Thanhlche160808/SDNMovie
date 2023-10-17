@@ -60,13 +60,22 @@ const userController = {
     },
     getMarkMovie: async (req, resp) => {
         try {
-            const { _id }  = req.query;
+            const { _id } = req.query;
             const movies = await userRepository.getMarkedMovie(_id);
             return resp.status(200).json(movies);
         } catch (error) {
             return resp.status(500).json(error);
         }
     },
+    updateVip: async (req, resp) => {
+        try {
+            const { _id } = req.query;
+            const movies = await userRepository.updateVip(_id);
+            return resp.status(200).json(movies);
+        } catch (error) {
+            return resp.status(500).json(error);
+        }
+    }
 };
 
 export default userController;
