@@ -6,10 +6,10 @@ const AdvertisementSchema = new mongoose.Schema({
     totalShare: Number,
     adContent: [
         {
+            image: String,
             url: String,
             content: String,
-        },
-    ],
-});
+        }],
+}, { timestamps: true });
 let Advertisement = mongoose.model("Advertisement", AdvertisementSchema);
 export default Advertisement;
