@@ -54,27 +54,6 @@ const movieRepository = {
     
         return movieRatings;
     },
-    get10RateByMovie: async () => {
-        const topMovies = await MovieSeason.aggregate([
-            {
-                $sortByCount: { totalRate: -1 } // Sắp xếp các mùa/seasons theo điểm đánh giá giảm dần
-            },
-            {
-                $limit: 10 // Giới hạn kết quả chỉ lấy 10 phim
-            },
-            {
-                $project: {
-                    _id: 0,
-                    movieID: "$movieID",
-                    movieSeasonID: "$movieSeasonID",
-                    movieName: "$name",
-                    maxRating: "$totalRate"
-                }
-            }
-        ]);
-    
-        return topMovies;
-    },
 
     addSeason: async (seasonInfo) => {
         const result = await Movie.findOneAndUpdate(

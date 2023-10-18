@@ -78,6 +78,16 @@ const movieSeasonController = {
             return res.status(500).json(error);
         }
     },
+    get10highestMovie: async (req, res) => {
+        try {
+            const get10highestMovie = await movieSeasonRepository.get10highestMovie();
+            return res.status(200).json(get10highestMovie)
+        } catch (error) {
+            return res.status(500).json({
+                message: 'Can not get all view by movie!!!',
+            });
+        }
+    },
     getFillterMovie: async (req, resp) => {
         try {
             const { type, view } = req.query;
