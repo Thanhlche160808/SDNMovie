@@ -16,6 +16,7 @@ const listByPassURL = [
     '/api/movie_season/hot',
     '/api/movie_season/search',
     '/api/type/getAll',
+    '/api/movie/getAll',
 ]
 
 function checkExistURL(url) {

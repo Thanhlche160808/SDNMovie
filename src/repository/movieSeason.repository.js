@@ -2,7 +2,7 @@ import MovieSeason from "../model/MovieSeason.model.js";
 
 
 const movieSeasonRepository = {
-    addMovieSeasonService: async ({ name, content, totalChap, image, datePub, typeMovie, view }) => {
+    addMovieSeasonService: async ( name, content, totalChap, image, datePub, typeMovie, view ) => {
         const newMovieSeason = await MovieSeason.create({
             name: name,
             content: content,

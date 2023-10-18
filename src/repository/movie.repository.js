@@ -138,6 +138,10 @@ const movieRepository = {
 
         return movieSeasons
     },
+    deleteMovie: async (movieInfo) => {
+        const deletedMovie = await MovieSeason.findOneAndDelete({ slug: movieInfo });
+        return deletedMovie
+    }
 }
 
 export default movieRepository

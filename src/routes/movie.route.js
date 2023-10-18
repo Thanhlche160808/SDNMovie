@@ -12,5 +12,6 @@ movieRouter.get("/getAllViewByMovie", movieController.getAllViewByMovie);
 
 movieRouter.post("/add_season", movieController.addSeason);
 movieRouter.get("/getAllRateByMovie", movieController.getAllRateByMovie);
+movieRouter.delete("/deleteMovie", movieController.deleteMovie);
 
 export default movieRouter;
