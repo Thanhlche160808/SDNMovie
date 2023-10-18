@@ -13,4 +13,5 @@ movieRouter.get("/getAllViewByMovie", movieController.getAllViewByMovie);
 movieRouter.post("/add_season", movieController.addSeason);
 movieRouter.get("/getAllRateByMovie", movieController.getAllRateByMovie);
 
+
 export default movieRouter;

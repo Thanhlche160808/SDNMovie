@@ -12,5 +12,7 @@ movieSeasonRouter.get("/search", movieSeasonController.getMovieByName);
 movieSeasonRouter.get("/type", movieSeasonController.getMovieByType);
 movieSeasonRouter.get("/hot", movieSeasonController.getHotAndView);
 movieSeasonRouter.get("/filter", movieSeasonController.getFillterMovie);
+movieSeasonRouter.get("/get10highestmovie", movieSeasonController.get10highestmovie);
+
 
 export default movieSeasonRouter;
