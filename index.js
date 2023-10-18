@@ -30,7 +30,7 @@ mongoose.connect(process.env.MONGO_URL, () => {
 
 const httpServer = http.createServer(app);
 app.use(express.json())
-app.use(authenticate)
+//app.use(authenticate)
 app.use(cookieParser())
 
 app.use('/api/comment', commentRouter);

@@ -41,6 +41,7 @@ const movieController = {
             })
         }
     },
+    
 
     getAllViewByMovie: async (req, res) => {
         try {

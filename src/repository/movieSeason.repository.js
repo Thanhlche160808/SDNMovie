@@ -65,6 +65,26 @@ const movieSeasonRepository = {
             .populate("typeMovie._id");
         return hotMovie;
     },
+    get10highestmovie: async () => {
+        const topMovies = await MovieSeason.aggregate([
+            {
+                $sort: { totalRate: -1 } 
+            },
+            {
+                $limit: 10 
+            },
+            {
+                $project: {
+                    _id: 0,
+                    movieSeasonID: "$movieSeasonID",
+                    movieName: "$name",
+                    maxRating: "$totalRate"
+                }
+            }
+        ]);
+
+        return topMovies;
+    },
     getMovieMostView: async () => {
         const movieMostView = await MovieSeason.findOne()
             .sort({ view: -1 })

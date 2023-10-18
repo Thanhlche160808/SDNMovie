@@ -78,6 +78,16 @@ const movieSeasonController = {
             return res.status(500).json(error);
         }
     },
+    get10highestmovie: async (req, res) => {
+        try {
+            const get10highestmovie = await movieSeasonRepository.get10highestmovie();
+            return res.status(200).json(get10highestmovie)
+        } catch (error) {
+            return res.status(500).json({
+                message: 'Can not get top 10 rate movie!!!',
+            });
+        }
+    },
     getFillterMovie: async (req, resp) => {
         try {
             const { type, view } = req.query;
