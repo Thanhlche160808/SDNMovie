@@ -135,5 +135,11 @@ const movieSeasonRepository = {
             return { movies, totalPage };
         }
     },
+    deleteMovieSeason: async (slug) => {
+        const movie = await MovieSeason.findOne({ slug: slug });
+        if (!movie) throw new Error("Movie not found");
+        await movie.deleteOne();
+        return movie;
+    }
 };
 export default movieSeasonRepository;

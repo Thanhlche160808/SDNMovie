@@ -97,6 +97,15 @@ const movieSeasonController = {
         } catch (error) {
             return resp.status(500).json(error);
         }
+    },
+    deleteMovieSeason: async (req, res) => {
+        try {
+            const { slug } = req.params;
+            await movieSeasonRepository.deleteMovieSeason(slug);
+            return res.status(200).json({ message: "Delete success" });
+        } catch (error) {
+            return res.status(500).json(error);
+        }
     }
 }
 
