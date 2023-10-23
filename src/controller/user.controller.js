@@ -70,10 +70,10 @@ const userController = {
     updateVip: async (req, resp) => {
         try {
             const { _id } = req.body;
-            const movies = await userRepository.updateVip(_id);
-            return resp.status(200).json(movies);
+            await userRepository.updateVip(_id);
+            return resp.status(200).json({ message: "Upgrade successfully" });
         } catch (error) {
-            return resp.status(500).json(error);
+            return resp.status(400).json({ message: "Upgrade fail" });
         }
     }
 };
