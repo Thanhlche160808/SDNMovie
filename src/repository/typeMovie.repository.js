@@ -34,7 +34,10 @@ const typeMovieRepository = {
           .populate("typeMovie._id");
         const typeDetail = await TypeMovie.findOne({ slug: queryString.type });
         return ({ movies, typeDetail, totalPage, count });
+        },
+        getTypeBySlug: async (slug) => {
+            const type = await TypeMovie.findOne({ slug });
+            return type;
         }
-    
   };
 export default typeMovieRepository;

@@ -26,9 +26,9 @@ const userController = {
                 username,
                 password,
             }, resp);
-            resp.status(200).json(user);
+            resp.status(200).json({message: "Login successfully!"});
         } catch (error) {
-            resp.status(500).json(error);
+            resp.status(500).json({ message: 'User name or password is incorrect.' });
         }
     },
     refreshToken: async (req, resp) => {
