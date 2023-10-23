@@ -26,7 +26,9 @@ const userController = {
                 username,
                 password,
             }, resp);
-            resp.status(200).json({message: "Login successfully!"});
+            resp.status(200).json({
+                user,
+                message: "Login successfully!"});
         } catch (error) {
             resp.status(400).json({ message: 'User name or password is incorrect.' });
         }
