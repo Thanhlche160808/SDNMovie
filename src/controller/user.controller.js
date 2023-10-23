@@ -28,7 +28,7 @@ const userController = {
             }, resp);
             resp.status(200).json({message: "Login successfully!"});
         } catch (error) {
-            resp.status(500).json({ message: 'User name or password is incorrect.' });
+            resp.status(400).json({ message: 'User name or password is incorrect.' });
         }
     },
     refreshToken: async (req, resp) => {
@@ -69,7 +69,7 @@ const userController = {
     },
     updateVip: async (req, resp) => {
         try {
-            const { _id } = req.query;
+            const { _id } = req.body;
             const movies = await userRepository.updateVip(_id);
             return resp.status(200).json(movies);
         } catch (error) {

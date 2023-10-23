@@ -30,10 +30,11 @@ const userRepository = {
             username: user.username,
             id: user.userID,
             roleName: user.roleName,
+            vip: user.vip
         };
         console.log(payload);
         const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
-            expiresIn: "15m",
+            expiresIn: "3d",
         });
         const refresh_token = jwt.sign(payload, process.env.SECRET_KEY, {
             expiresIn: "30d",
