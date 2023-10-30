@@ -36,7 +36,6 @@ const authenticate = (req, res, next) => {
 
     const tokenHeader = req.header("Authorization");
     if (!tokenHeader) return res.status(401).json({ message: "Unauthorized" });
-    console.log('Token header: ', tokenHeader);
     // const tokenParts = tokenHeader.split(" ");
     // console.log(tokenParts);
 

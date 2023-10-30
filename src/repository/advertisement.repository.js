@@ -15,7 +15,6 @@ const addvertisementRepository = {
         return newAdv;
     },
     getAllAdvertisement: async (queryString) => {
-        console.log(queryString)
         const pageSize = queryString.pageSize || 10;
         const current = queryString.current || 1;
         const totalItems = await Advertisement.countDocuments()

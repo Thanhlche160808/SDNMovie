@@ -18,6 +18,8 @@ const commentsReplyRepository = {
         await comment.save();
         return comment;
     },
+    reply: async ({}) => {
+    }
 }
 
 export default commentsReplyRepository

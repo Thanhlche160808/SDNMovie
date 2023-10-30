@@ -56,7 +56,6 @@ const movieController = {
     deleteMovie: async (req, res) => {
         try {
             const deletedMovie = await movieRepository.deleteMovie(req.body.slug);
-            console.log(deletedMovie);
             return res.status(200).json("Delete a movie successfully!");
         } catch (error) {
             return res.status(500).json({

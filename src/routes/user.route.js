@@ -17,4 +17,6 @@ userRouter.get("/movies", userController.getMarkMovie);
 
 userRouter.post("/update_vip", userController.updateVip)
 
+userRouter.get("/info/:id", userController.getInfo)
+
 export default userRouter;

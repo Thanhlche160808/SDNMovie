@@ -1,4 +1,4 @@
-import { movieVideoRepository } from "../repository/index.js"
+import { movieVideoRepository, watchingHistoryRepository } from "../repository/index.js"
 
 const movieVideoController = {
     addVideo: async (req, res) => {
@@ -14,13 +14,17 @@ const movieVideoController = {
     getVideo: async (req, res) => {
         try {
             const getVideo = await movieVideoRepository.getVideo(req.params);
+            const userID = req.body.userID;
+            // if (userID){
+                await watchingHistoryRepository.addWatchingHistory(getVideo.video, userID);
+            // }
             return res.status(200).json(getVideo);
         } catch (error) {
             return res.status(500).json({
                 message: 'Can not get video!!!',
             });
         }
-    }
+    },
 }
 
 export default movieVideoController

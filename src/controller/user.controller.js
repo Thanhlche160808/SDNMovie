@@ -5,15 +5,11 @@ const userController = {
     addAccount: async (req, resp) => {
         try {
             const { username, password, showName } = req.body;
-            console.log("username: ", username);
-            console.log("password: ", password);
-            console.log("showName: ", showName);
             const user = await userRepository.createAccount({
                 username,
                 password,
                 showName,
             });
-            console.log(2);
             resp.status(200).json(user);
         } catch (error) {
             resp.status(400).json(error?.response?.data);
@@ -48,7 +44,6 @@ const userController = {
         }
     },
     markMovie: async (req, resp) => {
-        console.log(req.body);
         try {
             const { movieID, _id } = req.body;
             await userRepository.markMovie({
@@ -77,7 +72,16 @@ const userController = {
         } catch (error) {
             return resp.status(400).json({ message: "Upgrade fail" });
         }
-    }
+    },
+    getInfo: async (req, resp) => {
+        try {
+            const { id } = req.params;
+            const user = await userRepository.getInfo(id);
+            return resp.status(200).json(user);
+        } catch (error) {
+            return resp.status(500).json(error);
+        }
+    },
 };
 
 export default userController;

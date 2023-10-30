@@ -23,7 +23,6 @@ const movieSeasonController = {
         try {
             const { slug } = req.params;
             const movieDetail = await movieSeasonRepository.getMovieDetail(slug);
-            console.log("movieDetail", movieDetail);
             return resp.status(200).json(movieDetail[0]);
         } catch (error) {
             return resp.status(500).json(error);

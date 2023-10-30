@@ -3,6 +3,7 @@ import * as dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
 import cors from 'cors';
+import { Server } from 'socket.io';
 import {
     commentRouter,
     userRouter,
@@ -30,9 +31,15 @@ mongoose.connect(process.env.MONGO_URL, () => {
 
 const httpServer = http.createServer(app);
 app.use(express.json())
-app.use(authenticate)
+// app.use(authenticate)
 app.use(cookieParser())
 
+const io = new Server(httpServer, {
+    cors: {
+        origin: "*",
+        methods: ["GET", "POST"],
+    },
+});
 app.use('/api/comment', commentRouter);
 app.use('/api/movie', movieRouter);
 app.use('/api/user', userRouter);
@@ -42,9 +49,32 @@ app.use("/api/rate", rateRouter);
 app.use("/api/type", typeRouter);
 app.use("/api/ads", addvertisementRouter);
 app.use("/api/watching_history", watchingHistoryRouter);
-app.use("/api/comment_reply", commentReplyRouter)
+app.use("/api/comment_reply", commentReplyRouter);
+app.use("/api/history", watchingHistoryRouter);
 
 const PORT = process.env.PORT || 8000;
+
+io.on("connection", (socket) => {
+    console.log(`User : ${socket.id} `);
+    socket.on("disconnect", () => {
+        console.log("User disconnected", socket.id);
+    });
+    socket.on("join", (movieID) => {
+        console.log(`User : ${socket.id} join : ${movieID?.movieID}`);
+        socket.join(movieID?.movieID);
+    });
+    socket.on("send", async (data) => {
+        console.log(data);
+        const comments = new Comments({
+            content: data?.content,
+            author: data?.author,
+            movie: data?.movie,
+            date: moment().format(),
+        });
+        const savedComment = await comments.save();
+        io.to(data?.movie).emit("receive", savedComment);
+    });
+});
 
 
 httpServer.listen(PORT, () => {

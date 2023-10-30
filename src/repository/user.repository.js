@@ -32,7 +32,6 @@ const userRepository = {
             roleName: user.roleName,
             vip: user.vip
         };
-        console.log(payload);
         const access_token = jwt.sign(payload, process.env.SECRET_KEY, {
             expiresIn: "3d",
         });
@@ -119,6 +118,9 @@ const userRepository = {
 
         resetJob.start();
         return user;
+    },
+    getInfo: async (userID) => {
+        return User.findOne({ userID: userID });
     }
 };
 

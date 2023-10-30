@@ -11,18 +11,8 @@ const WatchingHistorySchema = new mongoose.Schema({
     movie:
         [
             {
-                movieID: Number,
-                movieSeason: Number,
-                movieVideo: [
-                    {
-                        video: String,
-                        movieVideoID: Number,
-                        slug: {
-                            type: String,
-                            // slug: "name",
-                        },
-                    },
-                ],
+                type: mongoose.Schema.Types.ObjectId,
+                ref : "MovieVideo",
             },
         ]
 });
