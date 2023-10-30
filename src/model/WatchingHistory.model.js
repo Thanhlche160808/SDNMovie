@@ -15,6 +15,8 @@ const WatchingHistorySchema = new mongoose.Schema({
                 ref : "MovieVideo",
             },
         ]
+}, {
+    timestamps: true,
 });
 let WatchingHistory = mongoose.model("WatchingHistory", WatchingHistorySchema);
 export default WatchingHistory;

@@ -18,6 +18,7 @@ import {
 } from './src/routes/index.js';
 import cookieParser from 'cookie-parser';
 import authenticate from './src/middleware/auth.middleware.js';
+import Comments from './src/model/Comment.model.js';
 
 dotenv.config()
 const app = express();
@@ -31,7 +32,7 @@ mongoose.connect(process.env.MONGO_URL, () => {
 
 const httpServer = http.createServer(app);
 app.use(express.json())
-// app.use(authenticate)
+app.use(authenticate)
 app.use(cookieParser())
 
 const io = new Server(httpServer, {
@@ -48,7 +49,6 @@ app.use("/api/movie_video", movieVideoRouter);
 app.use("/api/rate", rateRouter);
 app.use("/api/type", typeRouter);
 app.use("/api/ads", addvertisementRouter);
-app.use("/api/watching_history", watchingHistoryRouter);
 app.use("/api/comment_reply", commentReplyRouter);
 app.use("/api/history", watchingHistoryRouter);
 

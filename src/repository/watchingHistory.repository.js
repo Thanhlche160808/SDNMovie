@@ -2,10 +2,10 @@ import WatchingHistory from "../model/WatchingHistory.model.js";
 
 const watchingHistoryRepository = {
     addWatchingHistory: async (video, userId) => {
-        let watchingHistory = await WatchingHistory.findOne({ userID: 1 });
+        let watchingHistory = await WatchingHistory.findOne({ userID: userId });
         if (!watchingHistory) {
             watchingHistory = await WatchingHistory.create({
-                userID: 1,
+                userID: userId,
                 movie: [video._id],
             });
             return watchingHistory;
@@ -14,8 +14,8 @@ const watchingHistoryRepository = {
         if (watchingHistory.movie.length >= 10) {
             watchingHistory.movie.pop();
         }
-        const exist = watchingHistory.movie.find(e => video._id.equals(e));
-        if (!exist) {
+        const existed = watchingHistory.movie.find(e => video._id.equals(e));
+        if (!existed) {
             watchingHistory.movie.unshift(video._id);
             watchingHistory.save();
         }

@@ -15,9 +15,9 @@ const movieVideoController = {
         try {
             const getVideo = await movieVideoRepository.getVideo(req.params);
             const userID = req.body.userID;
-            // if (userID){
+            if (userID){
                 await watchingHistoryRepository.addWatchingHistory(getVideo.video, userID);
-            // }
+            }
             return res.status(200).json(getVideo);
         } catch (error) {
             return res.status(500).json({
