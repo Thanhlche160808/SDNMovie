@@ -12,9 +12,9 @@ const movieVideoController = {
         }
     },
     getVideo: async (req, res) => {
+        const { slug, userID } = req.query;
         try {
-            const getVideo = await movieVideoRepository.getVideo(req.params);
-            const userID = req.body.userID;
+            const getVideo = await movieVideoRepository.getVideo(slug);
             if (userID){
                 await watchingHistoryRepository.addWatchingHistory(getVideo.video, userID);
             }

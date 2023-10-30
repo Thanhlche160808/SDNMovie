@@ -3,7 +3,7 @@ import { watchingHistoryRepository } from "../repository/index.js";
 const watchingHistoryController = {
     getUserWatchingHistory: async (req, res) => {
         try {
-            const userId = req.body.userID;
+            const userId = req.params.id;
             const watchingHistory = await watchingHistoryRepository.getUserWatchingHistory(userId);
             return res.status(200).json(watchingHistory);
         } catch (error) {

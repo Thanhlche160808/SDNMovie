@@ -6,6 +6,6 @@ const movieVideoRouter = express.Router();
 
 movieVideoRouter.post("/create", movieVideoController.addVideo);
 
-movieVideoRouter.get("/detail/:slug", movieVideoController.getVideo);
+movieVideoRouter.get("/detail", movieVideoController.getVideo);
 
 export default movieVideoRouter;
