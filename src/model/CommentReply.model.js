@@ -1,8 +1,14 @@
 import mongoose from "mongoose";
 
 const ReplyCommentsSchema = new mongoose.Schema({
-    author: String,
-    content: String,
+    author: {
+        type: String,
+        required: true
+    },
+    content: {
+        type: String,
+        required: true
+    },
     date: String,
     updatedAt: {
         type: Date
