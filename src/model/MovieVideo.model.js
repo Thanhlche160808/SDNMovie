@@ -5,14 +5,20 @@ import AutoIncrement from "mongoose-sequence";
 mongoose.plugin(slug);
 const MovieVideoSchema = new mongoose.Schema({
     movieVideoID: Number,
-    video: String,
+    video: {
+        type: String,
+        required: true
+    },
     image: String,
     time: String,
     movieID: {
         type: mongoose.Schema.Types.ObjectId,
         ref: "MovieSeason",
     },
-    name: String,
+    name: {
+        type: String,
+        required: true
+    },
     slug: {
         type: String,
         slug: "name",

@@ -6,8 +6,12 @@ const CommentsSchema = new mongoose.Schema({
     },
     content: {
         type: String,
+        required: true
     },
-    author: String,
+    author: {
+        type: String,
+        required: true
+    },
     movie: {
         type: mongoose.Schema.Types.ObjectId,
     },

@@ -21,8 +21,14 @@ const MovieSeasonSchema = new mongoose.Schema(
         ],
         view: Number,
         image: String,
-        name: String,
-        datePub: String,
+        name: {
+            type: String,
+            required: true,
+        },
+        datePub: {
+            type: String,
+            required: true,
+        },
         create_At: {
             type: Date,
         },

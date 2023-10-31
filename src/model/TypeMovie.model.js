@@ -6,7 +6,10 @@ mongoose.plugin(slug);
 
 const TypeSchema = new mongoose.Schema({
     typeID: Number,
-    typeName: String,
+    typeName: {
+        type: String,
+        required: true
+    },
     slug: {
         type: String,
         slug: "typeName",

@@ -4,9 +4,26 @@ import AutoIncrement from "mongoose-sequence";
 const UserSchema = new mongoose.Schema({
     userID: Number,
     roleName: String,
-    username: String,
-    password: String,
-    showName: String,
+    username: {
+        type: String,
+        required: true,
+        validate: {
+            validator: (value) => value.length > 5,
+            message: 'Username must be at least 5 characters'
+        }
+    },
+    password: {
+        type: String,
+        required: true,
+        validate: {
+            validator: (value) => value.length > 5,
+            message: 'Password must be at least 5 characters'
+        }
+    },
+    showName: {
+        type: String,
+        required: true,
+    },
     mark: [
         {
             type: mongoose.Schema.Types.ObjectId,
