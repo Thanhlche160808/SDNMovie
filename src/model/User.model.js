@@ -20,7 +20,10 @@ const UserSchema = new mongoose.Schema({
             message: 'Password must be at least 5 characters'
         }
     },
-    showName: String,
+    showName: {
+        type: String,
+        required: true,
+    },
     mark: [
         {
             type: mongoose.Schema.Types.ObjectId,

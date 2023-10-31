@@ -7,7 +7,10 @@ const AdvertisementSchema = new mongoose.Schema({
     adContent: [
         {
             image: String,
-            url: String,
+            url: {
+                type: String,
+                required: true,
+            },
             content: String,
         }],
 }, { timestamps: true });
