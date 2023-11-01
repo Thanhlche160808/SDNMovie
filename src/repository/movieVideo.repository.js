@@ -35,8 +35,7 @@ const movieVideoRepository = {
         }
         return movieVideo
     },
-    getVideo: async (videoParams) => {
-        const { slug } = videoParams;
+    getVideo: async (slug) => {
         const movieVideo = await MovieVideo.findOne({ slug: slug });
         const movie = await MovieSeason.findOne({
             "video.slug": `${slug}`,

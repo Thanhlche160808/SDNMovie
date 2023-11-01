@@ -120,7 +120,7 @@ const userRepository = {
         return user;
     },
     getInfo: async (userID) => {
-        return User.findOne({ userID: userID });
+        return User.findById(userID);
     }
 };
 
