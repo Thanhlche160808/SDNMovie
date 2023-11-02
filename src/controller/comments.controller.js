@@ -1,7 +1,10 @@
 import { commentsRepository } from "../repository/index.js"
+import { validationResult } from 'express-validator';
 
 const commentController = {
     addAComments: async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return res.status(400).json(errors);
         try {
             const newComment = await commentsRepository.addAComments(req.body);
             return res.status(200).json(newComment);

@@ -1,7 +1,10 @@
 import { movieRepository } from "../repository/index.js"
+import { validationResult } from 'express-validator';
 
 const movieController = {
     addMovie: async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return res.status(400).json(errors);
         try {
             const newMovie = await movieRepository.addMovie(req.body);
             return res.status(200).json(newMovie);

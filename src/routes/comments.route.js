@@ -1,10 +1,16 @@
+import { body } from "express-validator";
 import { commentsController } from "../controller/index.js";
 import authenticate from '../middleware/auth.middleware.js';
 import express from "express";
 
 const commentRouter = express.Router();
 
-commentRouter.post("/create", commentsController.addAComments);
+commentRouter.post("/create",
+[
+    body('author').isLength({min: 5}).withMessage("Length of author > 5")
+]
+
+,commentsController.addAComments);
 
 commentRouter.get("/movie", commentsController.getCommentsByMovie);
 

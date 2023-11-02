@@ -1,8 +1,11 @@
 
 import { userRepository } from '../repository/index.js';
-
+import { validationResult } from 'express-validator';
 const userController = {
     addAccount: async (req, resp) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return resp.status(400).json(errors);
+
         try {
             const { username, password, showName } = req.body;
             const user = await userRepository.createAccount({
@@ -16,6 +19,8 @@ const userController = {
         }
     },
     loginAccount: async (req, resp) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return resp.status(400).json(errors);
         try {
             const { username, password } = req.body;
             const user = await userRepository.loginAccount({
@@ -24,7 +29,8 @@ const userController = {
             }, resp);
             resp.status(200).json({
                 user,
-                message: "Login successfully!"});
+                message: "Login successfully!"
+            });
         } catch (error) {
             resp.status(400).json({ message: 'User name or password is incorrect.' });
         }

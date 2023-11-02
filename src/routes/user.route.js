@@ -1,13 +1,24 @@
 import express from "express";
 import { userController } from "../controller/index.js";
-import authenticate from '../middleware/auth.middleware.js';
+import { body } from "express-validator";
 
 
 const userRouter = express.Router();
 
-userRouter.post("/create", userController.addAccount);
+userRouter.post("/create",
+[
+    body("username").isLength({min: 8}).withMessage("Length of name > 5"),
+    body("password").isLength({min: 8}).withMessage("Length of password > 6"),
+    body("showName").isLength({min: 5}).withMessage("Length of showName > 3"),
+],
+userController.addAccount);
 
-userRouter.post("/login", userController.loginAccount);
+userRouter.post("/login",
+[
+    body("username").isLength({min: 6}).withMessage("Length of name > 5"),
+    body("password").isLength({min: 8}).withMessage("Length of password > 6"),
+] 
+,userController.loginAccount);
 
 userRouter.get("/refresh", userController.refreshToken)
 

@@ -1,10 +1,15 @@
 import express from "express";
 import authenticate from '../middleware/auth.middleware.js';
 import { movieController } from "../controller/index.js";
+import { body } from "express-validator";
 
 const movieRouter = express.Router();
 
-movieRouter.post("/create", movieController.addMovie);
+movieRouter.post("/create",
+[
+    body("movieName").isLength({min: 5}).withMessage("Length of name > 5"),
+]
+,movieController.addMovie);
 
 movieRouter.get("/getAll", movieController.getAllMovie);
 

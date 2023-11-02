@@ -1,7 +1,10 @@
 import { movieVideoRepository, watchingHistoryRepository } from "../repository/index.js"
+import { validationResult } from 'express-validator';
 
 const movieVideoController = {
     addVideo: async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return res.status(400).json(errors);
         try {
             const newVideo = await movieVideoRepository.addVideo(req.body);
             return res.status(200).json(newVideo);

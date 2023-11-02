@@ -1,7 +1,10 @@
 import { addvertisementRepository } from "../repository/index.js";
+import { validationResult } from 'express-validator';
 
 const addvertisementController = {
     addAdvertisement: async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return res.status(400).json(errors);
         try {
             const newAdv = await addvertisementRepository.addAdvertisement(req.body);
             return res.status(200).json(newAdv);

@@ -1,8 +1,12 @@
 import movieSeasonRepository from "../repository/movieSeason.repository.js";
 import MovieSeason from "../model/MovieSeason.model.js";
 import typeMovieRepository from "../repository/typeMovie.repository.js";
+import { validationResult } from 'express-validator';
+
 const movieSeasonController = {
     addMovieSeason: async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) return res.status(400).json(errors);
         try {
             const { name, content, totalChap, image, datePub, typeMovie, view } = req.body;
             const newMovieSeason = await movieSeasonRepository.addMovieSeasonService(name, content, totalChap, image, datePub, typeMovie, view);
